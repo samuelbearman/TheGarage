@@ -1,0 +1,10 @@
+Walking Taco,3.25
+Fried Pizza Sticks,4.5
+Carrots and Hummus,3.75
+Chicken Nachos,6.25
+California Rolls,8.75
+Corn Dog,2.25
+French Fries,2.5
+Turkey Wrap,5.5
+Cheeseburger,4.25
+Garden Salad,6.5

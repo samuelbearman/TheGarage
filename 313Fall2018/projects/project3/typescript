@@ -1,0 +1,35 @@
+Script started on 2018-10-10 21:59:56-04:00
+[bearman1@linux2 project3] exitvim hexConverter.asm[28Ggdb -tui ./converter.out[29G[22@cc -g hexConverter.o cfunc.c -o [74G[28Gnasm -g -f elf64 -F dwarf hexConverter.asm[K
+[bearman1@linux2 project3] nasm -g -f elf64 -F dwarf hexConverter.asm[28Gexit[Kvim hexConverter.asm[28Ggdb -tui ./converter.out[29G[22@cc -g hexConverter.o cfunc.c -o [74G
+[bearman1@linux2 project3] gcc -g hexConverter.o cfunc.c -o converter.out[28Gnasm -g -f elf64 -F dwarf hexConverter.asm[K[28Gexit[Kvim hexConverter.asm[28Ggdb -tui ./converter.out[28Gclear[K[28Gls[Kcd projects/project3[28Ggdb -tui ./subroutine2[K[28Gcd ..[K[28Gnasm -f -g elf64 -F dwarf hexConverter.asm[28G./subroutine2[K[28Gvim cfunc.c[K[28G./subroutine2[K[K[K[K[K[K[K[K[K[K[Kconverter.out 
+Enter Number: 18446744073709551615
+FFFFFFFFFFFFFFFF000[bearman1@linux2 project3] ./converter.out 
+Enter Number: afadf
+Invalid Input!
+[bearman1@linux2 project3] ./converter.out
+Enter Number: 245453
+Invalid Input!
+[bearman1@linux2 project3] ./converter.out
+Enter Number: afdg dbdgbsgbfnnhnfhnh45647637
+Invalid Input!
+[bearman1@linux2 project3] h45647637
+h45647637: Command not found.
+[bearman1@linux2 project3] h45647637[28G./converter.out
+Enter Number: 3564276575375787dfjhfdjdtj
+Invalid Input!
+[bearman1@linux2 project3] djdtj
+djdtj: Command not found.
+[bearman1@linux2 project3] djdtj[28G./converter.out
+Enter Number: 1107895634578278122
+AE68E33B53@006F000[bearman1@linux2 project3] ./converter.out
+Enter Number: 9223372036854775808
+000000000000000800[bearman1@linux2 project3] ./converter.out
+Enter Number: 12683270251100288260
+405BC1338170400B000[bearman1@linux2 project3] ./converter.out
+Enter Number: 15683272751237288260
+441DF054@7D26A@D000[bearman1@linux2 project3] ./converter.out
+Enter Number: 9346678735677288564
+470FDBD0AC216B1800[bearman1@linux2 project3] exit
+exit
+
+Script done on 2018-10-10 22:01:50-04:00

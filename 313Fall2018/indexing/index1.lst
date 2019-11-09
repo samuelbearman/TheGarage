@@ -1,0 +1,52 @@
+     1                                  ; File: index1.asm
+     2                                  ; 
+     3                                  ; This program demonstrates the use of an indexed addressing mode
+     4                                  ; to access array elements.
+     5                                  ;
+     6                                  ; This program has no I/O. Use the debugger to examine its effects.
+     7                                  ;
+     8                                  	SECTION	.data			; Data section
+     9                                  
+    10 00000000 000000000100000002-     arr:	dd 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 ; ten 32-bit words
+    10 00000009 000000030000000400-
+    10 00000012 000005000000060000-
+    10 0000001B 000700000008000000-
+    10 00000024 09000000           
+    11                                  base:	equ arr - 4
+    12                                  
+    13                                  	SECTION .text			; Code section.
+    14                                  	global _start
+    15 00000000 90                      _start: nop				; Entry point.
+    16                                  
+    17                                  	; Add 5 to each element of the array stored in arr. Simulate:
+    18                                  	;
+    19                                  	;  for (i = 0 ; i < 10 ; i++) {
+    20                                  	;     arr[i] += 5 ;
+    21                                  	;  }
+    22                                  
+    23 00000001 B900000000              init1:	mov	rcx, 0			; ecx simulates i
+    24 00000006 4883F90A                loop1:	cmp	rcx, 10			; i < 10 ?
+    25 0000000A 7D0D                    		jge	done1
+    26 0000000C 83048D[00000000]05      		add	[rcx*4+arr], dword 5	; arr[i] += 5
+    27 00000014 48FFC1                  		inc	rcx				; i++
+    28 00000017 EBED                    		jmp	loop1
+    29                                  done1:
+    30                                  
+    31                                  	; more idiomatic for an assembly language program
+    32 00000019 B909000000              init2:	mov	rcx, 9			; last array element's index
+    33 0000001E 83048D[00000000]05      loop2:  add	[rcx*4+arr], dword 5 	
+    34 00000026 48FFC9                  		dec	rcx
+    35 00000029 7DF3                    		jge	loop2			; again if ecx >= 0
+    36                                  
+    37                                  
+    38                                  	; another way 
+    39 0000002B 48BF-                   init3:	mov	rdi, base		; base computed at load time
+    39 0000002D [FCFFFFFFFFFFFFFF] 
+    40 00000035 B90A000000              		mov	rcx, 10			; for(i=10 ; i>0 ; i--)
+    41 0000003A 83048F05                loop3:  add	[rdi+rcx*4], dword 5 	
+    42 0000003E E2FA                    		loop loop3			; loop = dec rcx, jne
+    43                                  
+    44                                  alldone:
+    45 00000040 BF00000000              		mov	rdi, 0			; exit code, 0=normal
+    46 00000045 B83C000000              		mov	rax, 60			; Exit.
+    47 0000004A 0F05                    		syscall 			; Call kernel.

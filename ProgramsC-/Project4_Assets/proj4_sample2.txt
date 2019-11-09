@@ -1,0 +1,1536 @@
+Welcome to UMBC Battleship
+Ships Loaded
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . . . . 
+1 . . . . . . . . . . 
+2 . . . . . . . . . . 
+3 . . . . . . . . . . 
+4 . . . . . . . . . . 
+5 . . . . . . . . . . 
+6 . . . . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . . . . 
+1 # . # # # # . . . . 
+2 # . . . . . . . . . 
+3 # . . # . . . . . . 
+4 # . . # . # # # . . 
+5 # . . # . . . . . . 
+6 . . . . . . . . . . 
+7 . . . . . . . # . . 
+8 . . . . . . . # . . 
+9 . . . . . . . . . . 
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . . . . 
+1 # . # # # # . . . . 
+2 # . . . . . . . . . 
+3 # . . # . . . . . . 
+4 # . . # . # # # . . 
+5 # . . # . . . O . . 
+6 . . . . . . . . . . 
+7 . . . . . . . # . . 
+8 . . . . . . . # . . 
+9 . . . . . . . . . . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 . . . . . . . . . . 
+2 . . . . . . . . . . 
+3 . . . . . . . . . . 
+4 . . . . . . . . . . 
+5 . . . . . . . . . . 
+6 . . . . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . . . . 
+1 # . # # # # . . . . 
+2 # . . . . . . . . . 
+3 # . . # . . . . . O 
+4 # . . # . # # # . . 
+5 # . . # . . . O . . 
+6 . . . . . . . . . . 
+7 . . . . . . . # . . 
+8 . . . . . . . # . . 
+9 . . . . . . . . . . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 . O . . . . . . . . 
+2 . . . . . . . . . . 
+3 . . . . . . . . . . 
+4 . . . . . . . . . . 
+5 . . . . . . . . . . 
+6 . . . . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . . . . 
+1 # . # # # # O . . . 
+2 # . . . . . . . . . 
+3 # . . # . . . . . O 
+4 # . . # . # # # . . 
+5 # . . # . . . O . . 
+6 . . . . . . . . . . 
+7 . . . . . . . # . . 
+8 . . . . . . . # . . 
+9 . . . . . . . . . . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Hit Something!!!
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 . O . . . . . . . . 
+2 . . X . . . . . . . 
+3 . . . . . . . . . . 
+4 . . . . . . . . . . 
+5 . . . . . . . . . . 
+6 . . . . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . . . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 # . . # . . . . . O 
+4 # . . # . # # # . . 
+5 # . . # . . . O . . 
+6 . . . . . . . . . . 
+7 . . . . . . . # . . 
+8 . . . . . . . # . . 
+9 . . . . . . . . . . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Hit Something!!!
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 . O . . . . . . . . 
+2 . . X . . . . . . . 
+3 . . X . . . . . . . 
+4 . . . . . . . . . . 
+5 . . . . . . . . . . 
+6 . . . . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Hit Something!!!
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . . . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 # . . # . . . . . O 
+4 # . . # . X # # . . 
+5 # . . # . . . O . . 
+6 . . . . . . . . . . 
+7 . . . . . . . # . . 
+8 . . . . . . . # . . 
+9 . . . . . . . . . . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Hit Something!!!
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 . O . . . . . . . . 
+2 . . X . . . . . . . 
+3 . . X . . . . . . . 
+4 . . X . . . . . . . 
+5 . . . . . . . . . . 
+6 . . . . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . . . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 # . . # . O . . . O 
+4 # . . # . X # # . . 
+5 # . . # . . . O . . 
+6 . . . . . . . . . . 
+7 . . . . . . . # . . 
+8 . . . . . . . # . . 
+9 . . . . . . . . . . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 . O . . . . . . . . 
+2 . . X . . . . . . . 
+3 . . X . . . . . . . 
+4 . . X . . . . . . . 
+5 . . . . . . . . . . 
+6 . . O . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . . . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 # . . # . O . . . O 
+4 # . . # . X # # . . 
+5 # . . # . O . O . . 
+6 . . . . . . . . . . 
+7 . . . . . . . # . . 
+8 . . . . . . . # . . 
+9 . . . . . . . . . . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 . O . . . . . . . . 
+2 . . X . . . . . . . 
+3 . . X . . . . . . . 
+4 . . X . . . . . . . 
+5 . . O . . . . . . . 
+6 . . O . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . . . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 # . . # . O . . . O 
+4 # . . # O X # # . . 
+5 # . . # . O . O . . 
+6 . . . . . . . . . . 
+7 . . . . . . . # . . 
+8 . . . . . . . # . . 
+9 . . . . . . . . . . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 . O O . . . . . . . 
+2 . . X . . . . . . . 
+3 . . X . . . . . . . 
+4 . . X . . . . . . . 
+5 . . O . . . . . . . 
+6 . . O . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Hit Something!!!
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . . . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 # . . # . O . . . O 
+4 # . . # O X X # . . 
+5 # . . # . O . O . . 
+6 . . . . . . . . . . 
+7 . . . . . . . # . . 
+8 . . . . . . . # . . 
+9 . . . . . . . . . . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Hit Something!!!
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 . O O . X . . . . . 
+2 . . X . . . . . . . 
+3 . . X . . . . . . . 
+4 . . X . . . . . . . 
+5 . . O . . . . . . . 
+6 . . O . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Hit Something!!!
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . . . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 # . . # . O . . . O 
+4 # . . # O X X X . . 
+5 # . . # . O . O . . 
+6 . . . . . . . . . . 
+7 . . . . . . . # . . 
+8 . . . . . . . # . . 
+9 . . . . . . . . . . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Hit Something!!!
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 . O O . X X . . . . 
+2 . . X . . . . . . . 
+3 . . X . . . . . . . 
+4 . . X . . . . . . . 
+5 . . O . . . . . . . 
+6 . . O . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . . . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 # . . # . O . . . O 
+4 # . . # O X X X O . 
+5 # . . # . O . O . . 
+6 . . . . . . . . . . 
+7 . . . . . . . # . . 
+8 . . . . . . . # . . 
+9 . . . . . . . . . . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Hit Something!!!
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 . O O . X X X . . . 
+2 . . X . . . . . . . 
+3 . . X . . . . . . . 
+4 . . X . . . . . . . 
+5 . . O . . . . . . . 
+6 . . O . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 # . . # . O . . . O 
+4 # . . # O X X X O . 
+5 # . . # . O . O . . 
+6 . . . . . . . . . . 
+7 . . . . . . . # . . 
+8 . . . . . . . # . . 
+9 . . . . . . . . . . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Hit Something!!!
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 . O O . X X X X . . 
+2 . . X . . . . . . . 
+3 . . X . . . . . . . 
+4 . . X . . . . . . . 
+5 . . O . . . . . . . 
+6 . . O . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 # . . # . O . . . O 
+4 # . . # O X X X O . 
+5 # . . # . O . O . . 
+6 . . . . . . . . . . 
+7 . . . . . . . # . . 
+8 . . . . . . . # . . 
+9 . . . . . . . . O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Hit Something!!!
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 . O O . X X X X X . 
+2 . . X . . . . . . . 
+3 . . X . . . . . . . 
+4 . . X . . . . . . . 
+5 . . O . . . . . . . 
+6 . . O . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Hit Something!!!
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 # . . X . O . . . O 
+4 # . . # O X X X O . 
+5 # . . # . O . O . . 
+6 . . . . . . . . . . 
+7 . . . . . . . # . . 
+8 . . . . . . . # . . 
+9 . . . . . . . . O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 . O O . X X X X X O 
+2 . . X . . . . . . . 
+3 . . X . . . . . . . 
+4 . . X . . . . . . . 
+5 . . O . . . . . . . 
+6 . . O . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Hit Something!!!
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 # . . X . O . . . O 
+4 # . . X O X X X O . 
+5 # . . # . O . O . . 
+6 . . . . . . . . . . 
+7 . . . . . . . # . . 
+8 . . . . . . . # . . 
+9 . . . . . . . . O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Hit Something!!!
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 . O O . X X X X X O 
+2 X . X . . . . . . . 
+3 . . X . . . . . . . 
+4 . . X . . . . . . . 
+5 . . O . . . . . . . 
+6 . . O . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Hit Something!!!
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 # . . X . O . . . O 
+4 # . . X O X X X O . 
+5 # . . X . O . O . . 
+6 . . . . . . . . . . 
+7 . . . . . . . # . . 
+8 . . . . . . . # . . 
+9 . . . . . . . . O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Hit Something!!!
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 . O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . . . . . . . 
+4 . . X . . . . . . . 
+5 . . O . . . . . . . 
+6 . . O . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 # . . X . O . . . O 
+4 # . . X O X X X O . 
+5 # . . X . O . O . . 
+6 . . . O . . . . . . 
+7 . . . . . . . # . . 
+8 . . . . . . . # . . 
+9 . . . . . . . . O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Hit Something!!!
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 . O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . . . . . . . 
+4 X . X . . . . . . . 
+5 . . O . . . . . . . 
+6 . . O . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Hit Something!!!
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 # . . X . O . . . O 
+4 # . . X O X X X O . 
+5 # . . X . O . O . . 
+6 . . . O . . . . . . 
+7 . . . . . . . X . . 
+8 . . . . . . . # . . 
+9 . . . . . . . . O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 . O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . . . . . . . 
+4 X . X . . . . . . . 
+5 O . O . . . . . . . 
+6 . . O . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Hit Something!!!
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 # . . X . O . . . O 
+4 # . . X O X X X O . 
+5 # . . X . O . O . . 
+6 . . . O . . . . . . 
+7 . . . . . . . X . . 
+8 . . . . . . . X . . 
+9 . . . . . . . . O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Hit Something!!!
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . . . . . . . 
+4 X . X . . . . . . . 
+5 O . O . . . . . . . 
+6 . . O . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 # . . X . O . . . O 
+4 # . . X O X X X O . 
+5 # . . X . O . O . . 
+6 . . . O . . . . . . 
+7 . . . . . . . X . . 
+8 . . . . . . . X . . 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . . . . . . 
+5 O . O . . . . . . . 
+6 . . O . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Hit Something!!!
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 X . . X . O . . . O 
+4 # . . X O X X X O . 
+5 # . . X . O . O . . 
+6 . . . O . . . . . . 
+7 . . . . . . . X . . 
+8 . . . . . . . X . . 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . . . . . . . 
+6 . . O . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Hit Something!!!
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 X . . X . O . . . O 
+4 X . . X O X X X O . 
+5 # . . X . O . O . . 
+6 . . . O . . . . . . 
+7 . . . . . . . X . . 
+8 . . . . . . . X . . 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . . . O . . . 
+6 . . O . . . . . . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Hit Something!!!
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 X . . X . O . . . O 
+4 X . . X O X X X O . 
+5 X . . X . O . O . . 
+6 . . . O . . . . . . 
+7 . . . . . . . X . . 
+8 . . . . . . . X . . 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . . . O . . . 
+6 . . O . . . . O . . 
+7 . . . . . . . . . . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 X . . X . O . . . O 
+4 X . . X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . . . . . 
+7 . . . . . . . X . . 
+8 . . . . . . . X . . 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . . . O . . . 
+6 . . O . . . . O . . 
+7 . . . . . . . . O . 
+8 . . . . . . . . . . 
+9 . . . . . . . . . . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O . . . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . . . . . 
+7 . . . . . . . X . . 
+8 . . . . . . . X . . 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . . . O . . . 
+6 . . O . . . . O . . 
+7 . . . . . . . . O . 
+8 . . . . . . . . . O 
+9 . . . . . . . . . . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O O . . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . . . . . 
+7 . . . . . . . X . . 
+8 . . . . . . . X . . 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O . . . . O . . 
+7 . . . . . . . . O . 
+8 . . . . . . . . . O 
+9 . . . . . . . . . . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . . . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O O . . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . . . . . 
+7 . . . . . . . X . . 
+8 . . . O . . . X . . 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O . . O . O . . 
+7 . . . . . . . . O . 
+8 . . . . . . . . . O 
+9 . . . . . . . . . . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . O . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O O . . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . . . . . 
+7 . . . . . . . X . . 
+8 . . . O . . . X . . 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O . . O . O . . 
+7 . . . . . . O . O . 
+8 . . . . . . . . . O 
+9 . . . . . . . . . . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . O . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . . . . . 
+7 . . . . . . . X . . 
+8 . . . O . . . X . . 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O . . O . O . . 
+7 . . . . . . O . O . 
+8 . . . . . . . O . O 
+9 . . . . . . . . . . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . O . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . . . . . 
+7 . . . . . . . X . . 
+8 . . . O . O . X . . 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O . . O . O . . 
+7 . . . . . . O . O . 
+8 . . . . . . . O . O 
+9 . . . . . . . . O . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . O . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . . . . . 
+7 . . . . . . . X . . 
+8 . . O O . O . X . . 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O O . O . O . . 
+7 . . . . . . O . O . 
+8 . . . . . . . O . O 
+9 . . . . . . . . O . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . O . O . . 
+1 # . # # # # O . . . 
+2 # . . . . . O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . . . . . 
+7 . . . . . . . X . . 
+8 . O O O . O . X . . 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You've already tried this location
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O O . O . O . . 
+7 . . . . . O O . O . 
+8 . . . . . . . O . O 
+9 . . . . . . . . O . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . O . O . O 
+1 # . # # # # O . . . 
+2 # . . . . . O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . . . . . 
+7 . . . . . . . X . . 
+8 . O O O . O . X . . 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O O . O . O . . 
+7 . . . . . O O . O . 
+8 . . O . . . . O . O 
+9 . . . . . . . . O . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . O . O . O 
+1 # . # # # # O . . . 
+2 # . . . . . O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . . . . . 
+7 . . . . . . . X . . 
+8 O O O O . O . X . . 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O O . O . O . . 
+7 . . . . . O O . O . 
+8 . . O . . . . O . O 
+9 . . . O . . . . O . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . O . O . O 
+1 # . # # # # O . . . 
+2 # . . . . . O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . . . . . 
+7 . . . . . . . X . . 
+8 O O O O . O . X . O 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O O . O . O . . 
+7 . . . . . O O . O . 
+8 . . O . O . . O . O 
+9 . . . O . . . . O . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . O . O . O 
+1 # . # # # # O . . . 
+2 # . . . . . O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . . . . O 
+7 . . . . . . . X . . 
+8 O O O O . O . X . O 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O O . O . O . . 
+7 . . . . . O O . O . 
+8 . . O . O . . O . O 
+9 . . . O . O . . O . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . O . O . O 
+1 # . # # # # O . . . 
+2 # . . . . . O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . . . . O 
+7 . . . . O . . X . . 
+8 O O O O . O . X . O 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Hit Something!!!
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O O . O . O . . 
+7 . . . . . O O . O . 
+8 . . O . O . . O . O 
+9 X . . O . O . . O . 
+
+
+Computer Hit Something!!!
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . O . O . O 
+1 # . # # # # O . . . 
+2 X . . . . . O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . . . . O 
+7 . . . . O . . X . . 
+8 O O O O . O . X . O 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O O . O . O . . 
+7 . . . . . O O . O . 
+8 . . O . O . . O . O 
+9 X O . O . O . . O . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . O . O . O 
+1 # . # # # # O . . . 
+2 X O . . . . O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . . . . O 
+7 . . . . O . . X . . 
+8 O O O O . O . X . O 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Hit Something!!!
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O O . O . O . . 
+7 . . . . . O O . O . 
+8 X . O . O . . O . O 
+9 X O . O . O . . O . 
+
+
+Computer Hit Something!!!
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 . . . . . O . O . O 
+1 X . # # # # O . . . 
+2 X O . . . . O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . . . . O 
+7 . . . . O . . X . . 
+8 O O O O . O . X . O 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O O . O . O . . 
+7 O . . . . O O . O . 
+8 X . O . O . . O . O 
+9 X O . O . O . . O . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . O . O . O 
+1 X . # # # # O . . . 
+2 X O . . . . O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . . . . O 
+7 . . . . O . . X . . 
+8 O O O O . O . X . O 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . O . . . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O O . O . O . . 
+7 O . . . . O O . O . 
+8 X . O . O . . O . O 
+9 X O . O . O . . O . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . O . O . O 
+1 X . # # # # O . . . 
+2 X O . . . . O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . O . . O 
+7 . . . . O . . X . . 
+8 O O O O . O . X . O 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . O . O . . . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O O . O . O . . 
+7 O . . . . O O . O . 
+8 X . O . O . . O . O 
+9 X O . O . O . . O . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . O . O . O 
+1 X . # # # # O . . . 
+2 X O . . . . O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . . O O . O 
+7 . . . . O . . X . . 
+8 O O O O . O . X . O 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . O . O . O . . 
+1 X O O . X X X X X O 
+2 X . X . . . . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O O . O . O . . 
+7 O . . . . O O . O . 
+8 X . O . O . . O . O 
+9 X O . O . O . . O . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . O . O . O 
+1 X . # # # # O . . . 
+2 X O . . . . O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . O O O . O 
+7 . . . . O . . X . . 
+8 O O O O . O . X . O 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . O . O . O . . 
+1 X O O . X X X X X O 
+2 X . X . . O . . . . 
+3 X . X . O . . . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O O . O . O . . 
+7 O . . . . O O . O . 
+8 X . O . O . . O . O 
+9 X O . O . O . . O . 
+
+
+Computer Hit Something!!!
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . O . O . O 
+1 X . # # # X O . . . 
+2 X O . . . . O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . O O O . O 
+7 . . . . O . . X . . 
+8 O O O O . O . X . O 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Hit Something!!!
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . O . O . O . . 
+1 X O O . X X X X X O 
+2 X . X . . O . . . . 
+3 X . X . O . X . . . 
+4 X . X . . O . . . . 
+5 O . O . O . O . . . 
+6 . . O O . O . O . . 
+7 O . . . . O O . O . 
+8 X . O . O . . O . O 
+9 X O . O . O . . O . 
+
+
+Computer Missed
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . O . O . O 
+1 X . # # # X O . . . 
+2 X O . . . O O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . O O O . O 
+7 . . . . O . . X . . 
+8 O O O O . O . X . O 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . O . O . O . . 
+1 X O O . X X X X X O 
+2 X . X . . O . . . . 
+3 X . X . O . X . . . 
+4 X . X . . O . O . . 
+5 O . O . O . O . . . 
+6 . . O O . O . O . . 
+7 O . . . . O O . O . 
+8 X . O . O . . O . O 
+9 X O . O . O . . O . 
+
+
+Computer Hit Something!!!
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . O . O . O 
+1 X . # # X X O . . . 
+2 X O . . . O O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . O O O . O 
+7 . . . . O . . X . . 
+8 O O O O . O . X . O 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You Missed
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . O . O . O . . 
+1 X O O . X X X X X O 
+2 X . X . . O . . . . 
+3 X . X . O . X . . . 
+4 X . X . . O . O . . 
+5 O . O . O . O O . . 
+6 . . O O . O . O . . 
+7 O . . . . O O . O . 
+8 X . O . O . . O . O 
+9 X O . O . O . . O . 
+
+
+Computer Hit Something!!!
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . O . O . O 
+1 X . # X X X O . . . 
+2 X O . . . O O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . O O O . O 
+7 . . . . O . . X . . 
+8 O O O O . O . X . O 
+9 . . . . . . . O O . 
+
+
+Enter square to attack: 
+Enter x (column):Enter y (row):You've already tried this location
+Enter square to attack: 
+Enter x (column):Enter y (row):You Hit Something!!!
+******COMPUTER******
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . O . O . O . . 
+1 X O O . X X X X X O 
+2 X . X . . O . . . . 
+3 X . X . O . X X . . 
+4 X . X . . O . O . . 
+5 O . O . O . O O . . 
+6 . . O O . O . O . . 
+7 O . . . . O O . O . 
+8 X . O . O . . O . O 
+9 X O . O . O . . O . 
+
+
+Computer Hit Something!!!
+********USER********
+  0 1 2 3 4 5 6 7 8 9 
+0 O . . . . O . O . O 
+1 X . X X X X O . . . 
+2 X O . . . O O O O . 
+3 X . . X . O . . . O 
+4 X . O X O X X X O . 
+5 X . . X . O . O . . 
+6 O . . O . O O O . O 
+7 . . . . O . . X . . 
+8 O O O O . O . X . O 
+9 . . . . . . . O O . 
+
+
+Computer won!

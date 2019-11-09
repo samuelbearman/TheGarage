@@ -1,0 +1,43 @@
+
+Called malloc(160): Returned 0x214a260
+
+-2/3 plus 1/4 = -5/12
+
+
+**** BEGIN HEAP DUMP ****
+
+    0x214a290
+    0x214a2a0
+    0x214a2b0
+    0x214a2c0
+    0x214a2d0
+    0x214a2e0
+    0x214a2f0
+
+**** END HEAP DUMP ****
+
+
+**** BEGIN HEAP DUMP ****
+
+    0x214a270
+    0x214a290
+    0x214a2a0
+    0x214a2b0
+    0x214a2c0
+    0x214a2d0
+    0x214a2e0
+    0x214a2f0
+
+**** END HEAP DUMP ****
+
+
+**** BEGIN HEAP DUMP ****
+
+    0x214a2b0
+    0x214a2c0
+    0x214a2d0
+    0x214a2e0
+    0x214a2f0
+
+**** END HEAP DUMP ****
+

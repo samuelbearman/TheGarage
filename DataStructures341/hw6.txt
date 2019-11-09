@@ -1,0 +1,140 @@
+
+Name: Samuel Bearman
+Userid: bearman1@gl.umbc.edu
+
+CMSC 341 Fall 2017 Homework 6
+
+
+-------------------------------------------------------------------
+Question A (15 points) 
+-------------------------------------------------------------------
+
+[Adapted from problem R-9.8 in textbook]
+
+Hash the values 94, 11, 39, 20, 16, 5, 12, 44, 13, 88 and 23 into
+a hash table with 11 slots. Handle collisions by linear probing.
+Use the hash function: h(i) = (3 * i + 5) % 11
+
+Type in each key on the same line as the index of the slot 
+where it is eventually inserted.
+
+YOUR ANSWER TO QUESTION A:
+   0: 13
+   1: 94
+   2: 39
+   3: 23
+   4: 5
+   5: 11
+   6: 44
+   7: 88
+   8: 12
+   9: 16
+  10: 20
+
+
+-------------------------------------------------------------------
+Question B (15 points) 
+-------------------------------------------------------------------
+
+[Adapted from problem R-9.10 in textbook]
+
+Repeat Question A using double hashing instead of linear probing.
+Use the secondary hash function h'(k) = 7 - (k % 7).
+
+YOUR ANSWER TO QUESTION B:
+   0: 5
+   1: 94
+   2: 13
+   3: 44
+   4: 39
+   5: 11
+   6: 88
+   7: 23
+   8: 12
+   9: 16
+  10: 20
+
+
+-------------------------------------------------------------------
+Question C  (20 points total)
+-------------------------------------------------------------------
+
+[Inspired by Prof. Chang]
+
+You are given two sets of numbers, S1 and S2. Being true mathematical
+sets, there are no repeated numbers in either set, but there ARE
+numbers that appear in both sets.  In fact, that is your task: to
+find all the numbers that appear in both sets; i.e., the set union
+of S1 and S2.  You and your classmate are arguing about which of
+your methods is faster, i.e., has a smaller O().
+
+Your proposed method is to combine all the elements from the two
+sets into a new list, L. (Obviously, L is not necessarily a true
+set, since it might have duplicates.)  You will then sort the list L
+using your favorite O(n * log(n)) sorting algorithm. You will then
+linearly scan the resulting sorted list, comparing sequential pairs
+to see if there are any duplicates.
+
+Your friend Ann has a slightly different proposal: she wants to sort
+the two sets independently, into the resulting sorted lists S1' and
+S2'.  Then, she will compare the first element from each list.  If
+they match, a duplicate was found, and both elements are removed
+from their respective lists.  However, if they do not match, the
+smaller of the two is removed from its list.  This process loops
+until one of the lists is empty.
+
+For each of the two algorithms, first compute the asymptotic running
+time for that algorithm, along with a short but clear justification.
+Then, state which is better again giving a cogent explanation why.
+
+Note that there are two different sets involved.  Give your answer
+in terms of m and n, and 'm' is the size of set S1, and 'n' is
+the size of set S2.
+
+(Please fill in your answer in the following space--you can take
+as many lines as you need, but do not modify the headers.)
+
+YOUR ANSWERs TO QUESTION C:
+a) RUNTIME FOR YOUR METHOD: (5 pts)
+
+O((n + m) * log(m + n))
+
+EXPLANATION FOR YOUR RUNTIME: (5 pts)
+
+The reason that it is O((n + m) * log(m + n)), is we combine both lists together which is a O(1) operation.
+Since we combined the two lists we now has the list m + n for our big O. Then using which ever sorting 
+alogorithm we see fit will give us a O((n + m) * log(m + n)) operation as stated in the question. 
+Then comes a linear scan in order to find the possible pairs in the list. Linear scan that we perform 
+requires us to go through all elements of the combined list it is a O(m + n) operation.
+
+O(1) + O((n + m) * log(m + n)) + O(n)
+
+Since O((n + m) * log(m + n)) is the 'worst' of all, we say the the Big O is O((n + m) * log(m + n))
+
+RUNTIME FOR ANN'S METHOD: (5 pts)
+
+O(n * log(m)) 
+
+
+EXPLANATION FOR ANN'S RUNTIME: (5 pts)
+
+Initially it starts with a sort of both lists which are O(m * log(m)) and O(n * log(n)).
+Then iterating with both of the lists going through and comparing the first values, popping off
+those values based on whether they are the same or lower than one or the other, is a constant time
+operation O(1). However, since we are evaluating 'worst case', the operation becomes O(n) where we must iterate 
+through the longest of the two sets. The worst case is where the highest value pairs are at the end of each list
+which causes us to iterate through both lists entirely. This means that the big O for this operation becomes O(n) for 
+which ever of the sets is longer.
+
+O(n * log(n)) + O(m * log(m)) + O(n)
+
+Since O(n * log(n)) is the worst of these operations, we say the Big O is O(n * log(n)) 
+
+EXPLANATION OF WHICH METHOD IS BETTER AND WHY (4 pts)
+
+Ann's method is better than our method and the reason is while we cannot say for sure what the sizes of the sets are
+we can say that in any instance where we have two sets m and n, that O(m) will always be less than O(m + n) and O(n) 
+will always be less than O(m + n). Comparing the two Big O's above we see that in our method we are essentially combining m and n 
+and sorting there. Ann's method sorts indiviually causing a smaller Big O at the time of sorting which is where our method is 
+flawed, O(log(m)) will always be less than O(log(m + n)) Combining this and what was stated previously, we can guarantee that 
+O(m * log(m)) will always be less than O((n + m) * log(m + n)) which means Ann's method is much better.

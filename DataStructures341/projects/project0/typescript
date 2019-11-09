@@ -1,0 +1,80 @@
+Script started on Tue 06 Feb 2018 05:37:26 PM EST
+[bearman1@linux3 project0] g++ -gen[K[Kstba[K[Kabs+ proj0.cpp - proj-[K0.out[1@o
+[bearman1@linux3 project0] ./proj0.out 
+3
+6
+7
+5
+Segmentation fault
+[bearman1@linux3 project0] gdb ./proj0.out
+[?1034hGNU gdb (GDB) Red Hat Enterprise Linux (7.2-92.el6)
+Copyright (C) 2010 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-redhat-linux-gnu".
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>...
+Reading symbols from /afs/umbc.edu/users/b/e/bearman1/home/341_Spring_2018/projects/project0/proj0.out...done.
+(gdb) b 38
+Breakpoint 1 at 0x400bf2: file proj0.cpp, line 38.
+(gdb) r
+Starting program: /afs/umbc.edu/users/b/e/bearman1/home/341_Spring_2018/projects/project0/proj0.out 
+
+Breakpoint 1, main () at proj0.cpp:38
+38	        cout << *str[pick] << endl;
+Missing separate debuginfos, use: debuginfo-install glibc-2.12-1.209.el6_9.2.x86_64 libgcc-4.4.7-18.el6.x86_64 libstdc++-4.4.7-18.el6.x86_64
+(gdb) [K(gdb) [K(gdb) [K(gdb) [K(gdb) display pick
+1: pick = 3
+(gdb) dipls[Kay str[pick]
+Undefined command: "diplay".  Try "help".
+(gdb) diplay str[pick][C[1@s
+2: str[pick] = (string *) 0x602100
+(gdb) c
+Continuing.
+3
+
+Breakpoint 1, main () at proj0.cpp:38
+38	        cout << *str[pick] << endl;
+2: str[pick] = (string *) 0x6021f0
+1: pick = 6
+(gdb) c
+Continuing.
+6
+
+Breakpoint 1, main () at proj0.cpp:38
+38	        cout << *str[pick] << endl;
+2: str[pick] = (string *) 0x602240
+1: pick = 7
+(gdb) 
+Continuing.
+7
+
+Breakpoint 1, main () at proj0.cpp:38
+38	        cout << *str[pick] << endl;
+2: str[pick] = (string *) 0x6021a0
+1: pick = 5
+(gdb) 
+Continuing.
+5
+
+Breakpoint 1, main () at proj0.cpp:38
+38	        cout << *str[pick] << endl;
+2: str[pick] = (string *) 0x0
+1: pick = 3
+(gdb) 
+Continuing.
+
+Program received signal SIGSEGV, Segmentation fault.
+0x000000387e490580 in std::basic_ostream<char, std::char_traits<char> >& std::operator<< <char, std::char_traits<char>, std::allocator<char> >(std::basic_ostream<char, std::char_traits<char> >&, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) () from /usr/lib64/libstdc++.so.6
+(gdb) q
+A debugging session is active.
+
+	Inferior 1 [process 32355] will be killed.
+
+Quit anyway? (y or n) y
+[bearman1@linux3 project0] exit
+exit
+
+Script done on Tue 06 Feb 2018 05:39:31 PM EST

@@ -1,0 +1,3100 @@
+1,Every Breath You Take,Police,1983
+2,Billie Jean,Michael Jackson,1983
+3,Flashdance-What A Feeling,Irene Cara,1983
+4,Beat It,Michael Jackson,1983
+5,Total Eclipse of the Heart,Bonnie Tyler,1983
+6,You Are,Lionel Richie,1983
+7,Tonight I Celebrate My Love,Peabo Bryson/Roberta Flack,1983
+8,Maniac,Michael Sembello,1983
+9,Never Gonna Let You Go,Sergio Mendes,1983
+10,All Night Long (All Night),Lionel Richie,1983
+11,Ain't Nobody,Rufus & Chaka Khan,1983
+12,She Works Hard For The Money,Donna Summer,1983
+13,Sweet Dreams (Are Made Of This),Eurythmics,1983
+14,Miracles,Stacy Lattisaw,1983
+15,Hungry Like The Wolf,Duran Duran,1983
+16,Come On Eileen,Dexy's Midnight Runners,1983
+17,Maneater,Hall & Oates,1983
+18,Tell Her About It,Billy Joel,1983
+19,Do You Really Want To Hurt Me,Culture Club,1983
+20,Let's Dance,David Bowie,1983
+21,I Like It,DeBarge,1983
+22,Down Under,Men At Work,1983
+23,Is This The End,New Edition,1983
+24,Pass The Dutchie,Musical Youth,1983
+25,How Do You Keep The Music Playing,James Ingram/Patti Austin,1983
+26,Juicy Fruit,Mtume,1983
+27,Time (Clock of the Heart),Culture Club,1983
+28,Say Say Say,Michael Jackson/Paul McCartney,1983
+29,Candy Girl,New Edition,1983
+30,The Safety Dance,Men Without Hats,1983
+31,Africa,Toto,1983
+32,Uptown Girl,Billy Joel,1983
+33,One on One,Hall & Oates,1983
+34,True,Spandau Ballet,1983
+35,Sexual Healing,Marvin Gaye,1983
+36,Baby Come To Me,Patti Austin,1983
+37,Islands In The Stream,Kenny Rogers,1983
+38,Try Again,Champaign,1983
+39,Cum On Feel The Noize,Quiet Riot,1983
+40,All Night Long,Mary Jane Girls,1983
+41,Love Is A Battlefield,Pat Benatar,1983
+42,Making Love Out Of Nothing At All,Air Supply,1983
+43,Electric Avenue,Eddy Grant,1983
+44,A Penny For Your Thoughts,Tavares,1983
+45,Telefone (Long Distance Love Affair),Sheena Easton,1983
+46,Stop Doggin' Me Around,Klique,1983
+47,Time Will Reveal,DeBarge,1983
+48,Mickey,Toni Basil,1983
+49,My Love,Lionel Richie,1983
+50,Puttin' On The Ritz,Taco,1983
+51,Truly,Lionel Richie,1983
+52,Holiday,Madonna,1983
+53,Unconditional Love,Donna Summer,1983
+54,Between The Sheets,Isley Brothers,1983
+55,Always Something There To Remind Me,Naked Eyes,1983
+56,Just Be Good To Me,S.O.S. Band,1983
+57,Jeopardy,Greg Kihn Band,1983
+58,Overkill,Men At Work,1983
+59,King Of Pain,Police,1983
+60,Joanna,Kool & the Gang,1983
+61,Tell Me If You Still Care,S.O.S. Band,1983
+62,Stand Back,Stevie Nicks,1983
+63,Let The Music Play,Shannon,1983
+64,I Am Love,Jennifer Holliday,1983
+65,Far From Over,Frank Stallone,1983
+66,She Blinded Me With Science,Thomas Dolby,1983
+67,Der Kommissar,After The Fire,1983
+68,The Girl Is Mine,Michael Jackson/Paul McCartney,1983
+69,Wanna Be Startin' Somethin',Michael Jackson,1983
+70,Wet My Whistle,Midnight Star,1983
+71,(She's) Sexy + 17,Stray Cats,1983
+72,How Am I Supposed To Live Without You,Laura Branigan,1983
+73,Popcorn Love,New Edition,1983
+74,Our House,Madness,1983
+75,Solitaire,Laura Branigan,1983
+76,Say It Isn't So,Hall & Oates,1983
+77,All This Love,DeBarge,1983
+78,I'll Tumble 4 Ya,Culture Club,1983
+79,Baby Jane,Rod Stewart,1983
+80,Church of the Poison Mind,Culture Club,1983
+81,So Many Men So Little Time,Miquel Brown,1983
+82,Come Dancin',Kinks,1983
+83,Too Shy,Kajagoogoo,1983
+84,Stray Cat Strut,Stray Cats,1983
+85,Union of the Snake,Duran Duran,1983
+86,Steppin' Out,Joe Jackson,1983
+87,Back On The Chain Gang,Pretenders,1983
+88,On The Wings Of Love,Jeffrey Osborne,1983
+89,Little Red Corvette,Prince,1983
+90,Goody Two Shoes,Adam Ant,1983
+91,(Keep Feeling) Fascination,Human League,1983
+92,Gloria,Laura Branigan,1983
+93,1999,Prince,1983
+94,Is There Something I Should Know,Duran Duran,1983
+95,Rock The Casbah,Clash,1983
+96,Undercover of the Night Rolling Stones,Rolling Stones,1983
+97,Owner of a Lonely Heart,Yes,1983
+98,One Thing Leads To Another,Fixx,1983
+99,Muscles,Diana Ross,1983
+100,Human Nature,Michael Jackson,1983
+1,When Doves Cry,Prince,1984
+2,Dancing In The Dark,Bruce Springsteen,1984
+3,Hello,Lionel Richie,1984
+4,Girls Just Want To Have Fun,Cyndi Lauper,1984
+5,Ghostbusters,Ray Parker Jr.,1984
+6,Karma Chameleon,Culture Club,1984
+7,Missing You,John Waite,1984
+8,I Just Called To Say?,Stevie Wonder,1984
+9,Footloose,Kenny Loggins,1984
+10,What's Love Got To Do With It,Tina Turner,1984
+11,Jump,Van Halen,1984
+12,Against All Odds,Phil Collins,1984
+13,Borderline,Madonna,1984
+14,Let's Hear It For The Boy,Deniece Williams,1984
+15,The Reflex,Duran Duran,1984
+16,Time After Time,Cyndi Lauper,1984
+17,Caribbean Queen,Billy Ocean,1984
+18,99 Red Balloons,Nena,1984
+19,Let's Go Crazy,Prince,1984
+20,Jump (For My Love),Pointer Sisters,1984
+21,Somebody's Watching Me,Rockwell,1984
+22,Self Control,Laura Branigan,1984
+23,Joanna Kool & the Gang,DeLite,1984
+24,Wake Me Up Before You Go Go,Wham!,1984
+25,She Bop Cyndi,Lauper,1984
+26,I Feel For You,Chaka Khan,1984
+27,Break My Stride,Matthew Wilder,1984
+28,Hold Me Now,Thompson Twins,1984
+29,The Glamorous Life,Sheila E.,1984
+30,The Warrior,Scandal,1984
+31,Talking In Your Sleep,Romantics,1984
+32,Say Say Say,Paul McCartney/Michael Jackson,1984
+33,Eyes Without A Face,Billy Idol,1984
+34,Owner of a Lonely Heart,Yes,1984
+35,State of Shock,Jacksons,1984
+36,Cool It Now,New Edition,1984
+37,Hard Habit To Break,Chicago,1984
+38,Cover Me/Jersey Girl,Bruce Springsteen,1984
+39,Time Will Reveal,DeBarge,1984
+40,Oh Sherrie,Steve Perry,1984
+41,Drive,Cars,1984
+42,Thriller,Michael Jackson,1984
+43,Here Comes The Rain,Eurythmics,1984
+44,If Ever You're In My Arms Again,Peabo Bryson,1984
+45,Love Is A Battlefield,Pat Benatar,1984
+46,Jam On It,Newcleus,1984
+47,I Can Dream About You,Dan Hartman,1984
+48,Automatic,Pointer Sisters,1984
+49,Give It Up,KC,1984
+50,Eat It,Weird Al Yankovic,1984
+51,All Night Long,Lionel Richie,1984
+52,I Want A New Drug,Huey Lewis & the News,1984
+53,Miss Me Blind,Culture Club,1984
+54,Purple Rain,Prince,1984
+55,The Wild Boys,Duran Duran,1984
+56,Out of Touch,Hall & Oates,1984
+57,Popcorn Love,New Edition,1984
+58,Sister Christian,Night Ranger,1984
+59,All Through The Night,Cyndi Lauper,1984
+60,Stuck On You,Lionel Richie,1984
+61,Like A Virgin,Madonna,1984
+62,Almost Paradise,Mike Reno/Ann Wilson,1984
+63,The Heart of Rock & Roll,Huey Lewis & the News,1984
+64,If You're Not Here,Menudo,1984
+65,Cruel Summer,Bananarama,1984
+66,All I Need,Jack Wagner,1984
+67,Give Me Tonight,Shannon,1984
+68,Say It Isn't So,Hall & Oates,1984
+69,The Longest Time,Billy Joel,1984
+70,Let's Stay Together,Tina Turner,1984
+71,If This Is It,Huey Lewis & the News,1984
+72,Think of Laura,Christopher Cross,1984
+73,Infatuation,Rod Stewart,1984
+74,Encore,Cheryl Lynn,1984
+75,Sunglasses At Night,Corey Hart,1984
+76,Blue Jean,David Bowie,1984
+77,Centipede,Rebbie Jackson,1984
+78,You Might Think,Cars,1984
+79,Let The Music Play,Shannon,1984
+80,Some Guys Have All The Luck,Rod Stewart,1984
+81,Running With The Night,Lionel Richie,1984
+82,Legs,ZZ Top,1984
+83,Strut,Sheena Easton,1984
+84,Love Somebody,Rick Springfield,1984
+85,Uptown Girl,Billy Joel,1984
+86,Breakin'There's No Stopping Us,Ollie & Jerry,1984
+87,Lucky Star,Madonna,1984
+88,Rock Me Tonight,Billy Squier,1984
+89,Penny Lover,Lionel Richie,1984
+90,Solid,Ashford & Simpson,1984
+91,They Don't Know,Tracey Ullman,1984
+92,Head Over Heels,Go Go's,1984
+93,We Belong,Pat Benatar,1984
+94,Union of the Snake,Duran Duran,1984
+95,The Curly Shuffle,Jump'n the Saddle,1984
+96,Doctor Doctor,Thompson Twins,1984
+97,Sea of Love,Honeydrippers,1984
+98,We're Not Gonna Take It,Twisted Sister,1984
+99,Round And Round,Ratt,1984
+100,Lights Out,Peter Wolf,1984
+1,Careless Whisper,Wham!,1985
+2,Saving All My Love For You,Whitney Houston,1985
+3,Cherish,Kool & the Gang,1985
+4,Part Time Lover,Stevie Wonder,1985
+5,Crazy For You,Madonna,1985
+6,Shout,Tears for Fears,1985
+7,We Are The World,USA for Africa,1985
+8,Everything She Wants,Wham!,1985
+9,Everytime You Go Away,Paul Young,1985
+10,Sussudio,Phil Collins,1985
+11,I Want To Know What Love Is,Foreigner,1985
+12,Suddenly,Billy Ocean,1985
+13,Miami Vice,Jan Hammer,1985
+14,Heaven,Bryan Adams,1985
+15,You Give Good Love,Whitney Houston,1985
+16,Easy Lover,Philip Bailey/Phil Collins,1985
+17,You Are My Lady,Freddie Jackson,1985
+18,Money For Nothing,Dire Straits,1985
+19,A View To A Kill,Duran Duran,1985
+20,Rhythm of the Night,DeBarge,1985
+21,The Power of Love,Huey Lewis & the News,1985
+22,Material Girl,Madonna,1985
+23,St. Elmo's Fire,John Parr,1985
+24,Everybody Wants To Rule The World,Tears For Fears,1985
+25,Conga,Miami Sound Machine,1985
+26,Don't You (Forget About Me),Simple Minds,1985
+27,Lovergirl,Teena Marie,1985
+28,If You Love Somebody Set Them Free,Sting,1985
+29,Raspberry Beret,Prince,1985
+30,Take On Me,aHa,1985
+31,Fresh Kool & the Gang,DeLite,1985
+32,Can't Fight This Feeling,REO Speedwagon,1985
+33,Freeway of Love,Aretha Franklin,1985
+34,The Heat Is On,Glenn Frey,1985
+35,Nightshift,Commodores,1985
+36,Like A Virgin,Madonna,1985
+37,Glory Days,Bruce Springsteen,1985
+38,Oh Sheila,Ready for the World,1985
+39,Misled,Kool & the Gang,1985
+40,Smooth Operator,Sade,1985
+41,Obsession,Animotion,1985
+42,Neutron Dance,Pointer Sisters,1985
+43,You Belong To The City,Glenn Frey,1985
+44,Some Like It Hot,Power Station,1985
+45,One More Night,Phil Collins,1985
+46,Walking On Sunshine,Katrina & the Waves,1985
+47,We Don't Need Another Hero,Tina Turner,1985
+48,Angel,Madonna,1985
+49,Never Surrender,Corey Hart,1985
+50,One Night In Bangkok,Murray Head,1985
+51,You're The Inspiration,Chicago,1985
+52,Loverboy,Billy Ocean,1985
+53,Summer of '69,Bryan Adams,1985
+54,Dress You Up,Madonna,1985
+55,Head Over Heels,Tears For Fears,1985
+56,Don't Lose My Number,Phil Collins,1985
+57,Solid,Ashford & Simpson,1985
+58,Broken Wings,Mr. Mister,1985
+59,Dancing in the Streets,Mick Jagger/David Bowie,1985
+60,Rock Me Tonight,Freddie Jackson,1985
+61,We Built This City,Starship,1985
+62,The Search Is Over,Survivor,1985
+63,Just A Gigolo,David Lee Roth,1985
+64,Missing You,Diana Ross,1985
+65,You Spin Me Round,Dead Or Alive,1985
+66,Election Day,Adia,1985
+67,I Wonder If I Take You Home,Lisa Lisa & Cult Jam,1985
+68,Freedom,Wham!,1985
+69,Who's Zoomin' Who,Aretha Franklin,1985
+70,California Girls,David Lee Roth,1985
+71,Method of Modern Love,Hall & Oates,1985
+72,Too Late For Goodbyes,Julian Lennon,1985
+73,Object Of My Desire,Starpoint,1985
+74,What About Love,Heart,1985
+75,That's What Friends Are For,Dionne & Friends,1985
+76,In My House,Mary Jane Girls,1985
+77,I'm On Fire,Bruce Springsteen,1985
+78,The Boys Of Summer,Don Henley,1985
+79,Who's Holding Donna Now?,DeBarge,1985
+80,Voices Carry,'til Tuesday,1985
+81,Would I Lie To You,Eurythmics,1985
+82,Dare Me,Pointer Sisters,1985
+83,Relax,Frankie Goes To Hollywood,1985
+84,Things Can Only Get Better,Howard Jones,1985
+85,Never,Heart,1985
+86,I Would Die 4 U,Prince,1985
+87,Axel F,Harold Faltermeyer,1985
+88,I'm Goin' Down,Bruce Springsteen,1985
+89,Lonely Ol' Night,John Cougar Mellencamp,1985
+90,Sugar Walls,Sheena Easton,1985
+91,Run To You,Bryan Adams,1985
+92,You're Only Human,Billy Joel,1985
+93,Just Another Night,Mick Jagger,1985
+94,Too Young,Jack Wagner,1985
+95,Party All The Time,Eddie Murphy,1985
+96,Fortress Around Your Heart,Sting,1985
+97,Pop Life,Prince,1985
+98,Wild Boys,Duran Duran,1985
+99,Say You Say Me,Lionel Richie,1985
+100,Invincible,Pat Benatar,1985
+1,On My Own,Patti LaBelle/Michael McDonald,1986
+2,The Greatest Love Of All,Whitney Houston,1986
+3,Kiss,Prince,1986
+4,Secret Lovers,Atlantic Starr,1986
+5,Papa Don't Preach,Madonna,1986
+6,How Will I Know,Whitney Houston,1986
+7,All Cried Out,Lisa Lisa & Cult Jam,1986
+8,Two Of Hearts,Stacey Q,1986
+9,Friends and Lovers,Gloria Loring/Carl Anderson,1986
+10,Live To Tell,Madonna,1986
+11,Sweet Love,Anita Baker,1986
+12,Rock Me Amadeus,Falco,1986
+13,True Colors,Cyndi Lauper,1986
+14,What Have You Done For Me Lately?,Janet Jackson,1986
+15,I Can't Wait,Nu Shooz,1986
+16,Venus,Bananarama,1986
+17,Nasty,Janet Jackson,1986
+18,That's What Friends Are For,Dionne & Friends,1986
+19,Words Get In The Way,Miami Sound Machine,1986
+20,When I Think Of You,Janet Jackson,1986
+21,There'll Be Sad Songs,Billy Ocean,1986
+22,West End Girls,Pet Shop Boys,1986
+23,Rumors,Timex Social Club,1986
+24,Crush On You,Jets,1986
+25,Human,Human League,1986
+26,Sledgehammer,Peter Gabriel,1986
+27,Dancing On The Ceiling,Lionel Richie,1986
+28,I Miss You,Klymaxx,1986
+29,The Rain,"Oran ""Juice"" Jones",1986
+30,Shake You Down,Gregory Abbott,1986
+31,Glory Of Love,Peter Cetera,1986
+32,True Blue,Madonna,1986
+33,The Sweetest Taboo,Sade,1986
+34,When The Goin' Gets Tough,Billy Ocean,1986
+35,Addicted To Love,Robert Palmer,1986
+36,Kyrie,Mr. Mister,1986
+37,Manic Monday,Bangles,1986
+38,Higher Love,Steve Winwood,1986
+39,Stuck WIth You,Huey Lewis & the News,1986
+40,Take My Breath Away,Berlin,1986
+41,Baby Love Regina,Atlantic,1986
+42,Amanda,Boston,1986
+43,We Don't Have To Take Our Clothes Off,Jermaine Stewart,1986
+44,Say You Say Me,Lionel Richie,1986
+45,All I Need Is A Miracle,Mike + the Mechanics,1986
+46,Invisible Touch,Genesis,1986
+47,Who's Johnny El,DeBarge,1986
+48,You Give Love A Bad Name,Bon Jovi,1986
+49,Can You Feel The Beat,Lisa Lisa & Cult Jam,1986
+50,Something About You,Level 42,1986
+51,Why Can't This Be Love,Van Halen,1986
+52,If You Leave,OMD,1986
+53,Mad About You,Belinda Carlisle,1986
+54,A Different Corner,George Michael,1986
+55,Sara,Starship,1986
+56,I'm Your Man,Wham!,1986
+57,Typical Male,Tina Turner,1986
+58,These Dreams,Heart,1986
+59,Earth Angel,New Edition,1986
+60,Bad Boys,Miami Sound Machine,1986
+61,Stand By Me,Ben E. King,1986
+62,Love Will Conquer All,Lionel Richie,1986
+63,A Little Bit Of Love,New Edition,1986
+64,Ain't Nothin' Goin' On But The Rent,Gwen Guthrie,1986
+65,Holding Back The Years,Simply Red,1986
+66,Love Touch,Rod Stewart,1986
+67,The Next Time I Fall,Peter Cetera/Amy Grant,1986
+68,R.O.C.K. in the U.S.A.,John Cougar Mellencamp,1986
+69,Harlem Shuffle,Rolling Stones,1986
+70,I Like You,Phyllis Nelson,1986
+71,Let's Go All The Way,Sly Fox,1986
+72,Word Up!,Cameo,1986
+73,Tarzan Boy,Baltimora M,1986
+74,Take Me Home Tonight,Eddie Money,1986
+75,Don't Forget Me (When I'm Gone),Glass Tiger,1986
+76,Walk Like An Egyptian B,angles,1986
+77,Take Me Home,Phil Collins,1986
+78,Do Me Baby,Meli'sa Morgan,1986
+79,A Love Bizarre,Sheila E.,1986
+80,Burning Heart,Survivor,1986
+81,The Way It Is,Bruce Hornsby & the Range,1986
+82,You're A Friend of Mine,Clarence Clemons,1986
+83,Party All The Time,Eddie Murphy,1986
+84,Your Love,Outfield,1986
+85,A Matter Of Trust,Billy Joel,1986
+86,Tender Love Force,MD's,1986
+87,I Didn't Mean To Turn You On,Robert Palmer,1986
+88,Hip To Be Square,Huey Lewis & the News,1986
+89,For Tonight,Nancy Martinez,1986
+90,Living In America,James Brown,1986
+91,What You Need,INXS,1986
+92,Walk This Way,Run D.M.C.,1986
+93,You Should Be Mine,Jeffrey Osborne,1986
+94,Danger Zone,Kenny Loggins,1986
+95,Life In A Northern Town,Dream Academy,1986
+96,Sweetheart,Rainy Davis Supertronics,1986
+97,Talk To Me,Stevie Nicks,1986
+98,Saturday Love,Cherrelle/Alexander O'Neal,1986
+99,Love Zone,Billy Ocean,1986
+100,Move Away,Culture Club,1986
+1,Always,Atlantic Starr,1987
+2,Head to Toe,Lisa Lisa & Cult Jam,1987
+3,I Want Your Sex,George Michael,1987
+4,I Think Were Alone Now,Tiffany,1987
+5,La Bamba,Los Lobos,1987
+6,I Wanna Dance with Somebody,Whitney Houston,1987
+7,La Isla Bonita,Madonna,1987
+8,The Time of My Life,Medley/Warnes,1987
+9,Living on a Prayer,BonJovi,1987
+10,The Lady in Red,Chris DeBurgh,1987
+11,Lost in Emotion,Lisa Lisa & Cult Jam,1987
+12,In Too Deep,Genesis,1987
+13,Lean on Me,Club Nouveau,1987
+14,With or Without You,U2,1987
+15,Alone,Heart,1987
+16,Didnt We Almost Have It All,Whitney Houston,1987
+17,Here I Go Again,Whitesnake,1987
+18,Who's That Girl,Madonna,1987
+19,Looking for a New Love,Jody Watley,1987
+20,At This Moment,Billy Vera,1987
+21,Bad,Michael Jackson,1987
+22,You Got It All,Jets,1987
+23,Causing a Commotion,Madonna,1987
+24,Nothings Gonna Stop Us,Starship,1987
+25,I Just Cant Stop Loving You,Michael Jackson,1987
+26,You Keep Me Hanging On,Kim Wilde,1987
+27,Mony Mony,Billy Idol,1987
+28,Heaven is a Place On Earth,Belinda Carlise,1987
+29,Casanova,Levert,1987
+30,Songbird,Kenny G.,1987
+31,I Still Haven?t Found What I?m Looking For,U2,1987
+32,Faith,George Michael,1987
+33,Come Go With Me,Expos,1987
+34,Heart and Soul,TPau,1987
+35,I Heard A Rumour,Bananarama,1987
+36,C?est La Vie,Robbie Nevil,1987
+37,Brilliant Disguise,Bruce Springsteen,1987
+38,As We Lay,Shirley Murdock,1987
+39,Just To See Her,Smokey Robinson,1987
+40,Fight For Your Right,Beastie Boys,1987
+41,Breakout,Swing Out Sister,1987
+42,Rhythm Is Gonna Get You,Miami Sound Machine,1987
+43,I Just Died In Your Arms,Cutting Crew,1987
+44,Shakedown,Bob Seger,1987
+45,Sign O' The Times,Prince,1987
+46,Don't Dream It's Over,Crowded House,1987
+47,Touch Me,Samantha Fox,1987
+48,Somewhere Out There,Rondstadt/Ingram,1987
+49,THIS IS NOT PRINTED ON THE CHART,UNKNOWN,1987
+50,Luka,Suzanne Vega,1987
+51,I Knew You Were Waiting,Franklin/Michael,1987
+52,Nothing's Gonna Change?,Glenn Mederios,1987
+53,Don?t You Want Me,Jody Watley,1987
+54,Silent Morning,Noel,1987
+55,Carrie,Europe,1987
+56,Open Your Heart,Madonna,1987
+57,Meet Me Half Way,Kenny Loggins,1987
+58,Rock Steady,The Whispers,1987
+59,Diamonds,Herb Alpert,1987
+60,Can?t We Try,Dan Hill,1987
+61,Only In My Dreams,Debbie Gibson,1987
+62,Will You Still Love Me,Chicago,1987
+63,Don?t Disturb This Groove,The System,1987
+64,Talk Dirty To Me,Poison,1987
+65,Respect Yourself,Bruce Willis,1987
+66,Let's Wait A While,Janet Jackson,1987
+67,Let Me Be The One,Expos,1987
+68,I'd Still Say Yes,Klymaxx,1987
+69,Change of Heart,Cyndi Lauper,1987
+70,Cross By Broken Heart,The Jets,1987
+71,Walk Like An Egyptian,The Bangles,1987
+72,You Can Call Me Al,Paul Simon,1987
+73,Shake You Down,Gregory Abbott,1987
+74,So Emotional,Whitney Houston,1987
+75,Wanted Dead or Alive,Bon Jovi,1987
+76,Ballerina Girl,Lionel Richie,1987
+77,Tonight Tonight Tonight,Genesis,1987
+78,When Smokey Sings,ABC,1987
+79,Control,Janet Jackson,1987
+80,Keep Your Hands To Yourself,Georgia Satellites,1987
+81,U Got The Look,Prince,1987
+82,Fascinated,Company B,1987
+83,Tell It To My Heart,Taylor Dayne,1987
+84,Girls Girls Girls,Motley Crew,1987
+85,Jacob's Ladder,Huey Lewis & The News,1987
+86,Dreamin',Will To Power,1987
+87,I Need Love,LL Cool J,1987
+88,Boom Boom,Paul Lekakis,1987
+89,One Heartbeat,Smokey Robinson,1987
+90,Little Lies,Fleetwood Mac,1987
+91,Funky Town,Pseudo Echo,1987
+92,Stop To Love,Luther Vandross,1987
+93,Show Me,The Cover Girls,1987
+94,The Way It Is,Bruce Hornsby,1987
+95,Catch Me I'm Falling,Pretty Poison,1987
+96,Is This Love,Whitesnake,1987
+97,Happy,Surface,1987
+98,Got My Mind Set On You,George Harrison,1987
+99,Wipeout,Fatboys/Beach Boys,1987
+100,Land Of Confusion,Genesis,1987
+1,One More Try,George Michael,1988
+2,Never Gonna Give You Up,Rick Astley,1988
+3,Make It Real,Jets,1988
+4,Foolish Beat,Debbie Gibson,1988
+5,Pour Some Sugar On Me,Def Leppard,1988
+6,Anything for You,Miami Sound Machine,1988
+7,Out of the Blue,Debbie Gibson,1988
+8,Naughty Girls,Sam Fox,1988
+9,Red Red Wine,UB40,1988
+10,Sweet Child O?Mine,Guns n Roses,1988
+11,Kokomo,Beach Boys,1988
+12,Father Figure,George Michael,1988
+13,A Groovy Kind of Love,Phil Collins,1988
+14,Just Got Paid,Johnnny Kemp,1988
+15,I Want Her,Keith Sweat,1988
+16,Spring Love,Stevie B,1988
+17,Wishing Well,Terrnace Trent D'Arby,1988
+18,Could've Been,Tiffany,1988
+19,Together Forever,Rick Astley,1988
+20,Faith,Goerge Michael,1988
+21,Seasons Change,Expos,1988
+22,Bad Medicine,Bon Jovi,1988
+23,Hands to Heaven,Breathe,1988
+24,One Two Three,Miami Sound Machine,1988
+25,I'll Always Love You,Taylor Dayne,1988
+26,Sign your Name,Terence Trent D'Arby,1988
+27,Do You Love Me,Conturs,1988
+28,Push It,Salt n Pepa,1988
+29,Love Bites,Def Leppard,1988
+30,Monkey,George Michael,1988
+31,Pump Up The Volume,M.A.R.R.S.,1988
+32,Don?t Worry Be Happy,Bobby McFerrin,1988
+33,The LocoMotion,Kylie Minogue,1988
+34,Man In The Mirror,Michael Jackson,1988
+35,Fast Car,Tracy Chapman,1988
+36,Where Do Broken Hearts Go,Whitney Houston,1988
+37,She's Like The Wind,Patrick Swayze,1988
+38,I Don't Want To Live Without You,Chicago,1988
+39,Parent's Just Don't Understand,DJ Jazzy Jeff,1988
+40,Roll With It,Steve Winwood,1988
+41,The Flame,Cheap Trick,1988
+42,Need You Tonight,INXS,1988
+43,Sayin' Sorry,Denise Lopez,1988
+44,Pink Cadillac,Natalie Cole,1988
+45,Two Occasions,The Deele,1988
+46,Girlfriend,Pebbles,1988
+47,One Moment In Time,Whitney Houston,1988
+48,Hazy Shade Of Winter,The Bangles,1988
+49,Hungry Eyes,Eric Carmen,1988
+50,Wild Wild West,Escape Club,1988
+51,I Still Believe,Brenda K. Starr,1988
+52,Piano In The Dark,Brenda Russell,1988
+53,Supersonic,JJ Fad,1988
+54,Giving You The Best,Anita Baker,1988
+55,Tell It To My Heart,Taylor Dayne,1988
+56,I Get Weak,Belina Carlisle,1988
+57,The Way You Make Me Feel,Michael Jackson,1988
+58,Got My Mind Set On You,George Harrison,1988
+59,Angel,Aerosmith,1988
+60,Endless Summer Nights,Richard Marx,1988
+61,What's On Your Mind,Information Society,1988
+62,Is This Love,Whitesnake,1988
+63,It Takes Two,Rob Base,1988
+64,Dirty Diana,Michael Jackson,1988
+65,Night And Day,Al B. Sure,1988
+66,Can't Stay Away From You,Miami Sound Machine,1988
+67,Hold On To The Nights,Richard Marx,1988
+68,Boy I've Been Told,Sa-Fire,1988
+69,When It's Love,Van Halen,1988
+70,Get Outta My Dreams Get Into My Car,Billy Ocean,1988
+71,If It Isn't Love,New Edition,1988
+72,Nightmare On My Street,DJ Jazzy Jeff,1988
+73,Dreaming of Love,Stevie B,1988
+74,Candle In The Wind,Elton John,1988
+75,Mercedes Boy,Pebbles,1988
+76,I Want To Be Your Man,Roger,1988
+77,My Perogative,Bobby Brown,1988
+78,Please Don't Go Girl,New Kids On The Block,1988
+79,Make Me Lose Control,Eric Carmen,1988
+80,Shattered Dreams,Johnny Hates Jazz,1988
+81,De,U2,1988
+82,Everything Your Heart Des,Hall & Oates,1988
+83,Don't Be Cruel,Cheap Trick,1988
+84,So Emotional,Whitney Houston,1988
+85,Kiss Me Deadly,Lita Ford,1988
+86,Because Of You,The Cover Girls,1988
+87,What Have I Done,The Pet Shop Boys,1988
+88,Don't Be Cruel,Bobby Brown,1988
+89,I Don't Want Your Love,Duran Duran,1988
+90,I Don't Want To Live w/o You,Foreigner,1988
+91,Baby I Love Your Way/Freebird Medley,Will To Power,1988
+92,Forever Young,Rod Stewart,1988
+93,Da Butt,E.U.,1988
+94,Some Kind Of Lover,Jody Watley,1988
+95,Going Back To Cali,LL Cool J,1988
+96,I Hate Myself 4 Loving U,Joan Jett,1988
+97,New Sensation,INXS,1988
+98,Fallen Angel,Poison,1988
+99,Hysteria,Def Leppard,1988
+100,Say It's Gonna Rain,Will To Power,1988
+1,I'll Be There For You,Bon Jovi,1989
+2,Wind Beneath My Wings,Bette Midler,1989
+3,Like a Prayer,Madonna,1989
+4,Lost in Your Eyes,Debbie Gibson,1989
+5,Straight Up,Paula Abdul,1989
+6,Hangin Tough,New Kids on the Block,1989
+7,Keep Movin On,Soul II Soul,1989
+8,Born to Be My Baby,Bon Jovi,1989
+9,Girl I'm Gonna Miss You,Milli Vanilli,1989
+10,Right Here Waiting,Richard Marx,1989
+11,I'll Be Loving You,New Kids on the Block,1989
+12,Wild THing,Tone Loc,1989
+13,Miss You Much,Janet Jackson,1989
+14,Paradise City,Guns and Roses,1989
+15,Bust a Move,Young MC,1989
+16,She Drives Me Crazy,Fine Young Cannibals,1989
+17,Dont Wannt Lose You,Miami Sound Machine,1989
+18,Girl You Know Its True,Milli Vanilli,1989
+19,Eternal Flame,Bangles,1989
+20,Cold Hearted,Paula Abdul,1989
+21,Lay Your Hands on Me,Bon Jovi,1989
+22,The Way That You Love Me,Paula Abdul,1989
+23,Toy Soliders,Martika,1989
+24,Dont Make Me Over,Sybil,1989
+25,Iko Iko,Belle Stars,1989
+26,Cherish,Madonna,1989
+27,Shower Me With Your Love,Surface,1989
+28,Back to Life,Soul II Soul,1989
+29,Express Yourself,Madonna,1989
+30,Funky Cold Medina,Tone Loc,1989
+31,I Wanna Have Some Fun,Samantha Fox,1989
+32,Real Love,Jody Watley,1989
+33,Bat Dance,Prince,1989
+34,18 & Life,Skid Row,1989
+35,I Wanna Be The One,Stevie B,1989
+36,Living Years,Mike + The Mechanics,1989
+37,Blame It On The Rain,Milli Vanilli,1989
+38,We Didn't Start The Fire,Billy Joel,1989
+39,Dial My Heart,The Boys,1989
+40,Superwoman,Karyn White,1989
+41,Two Hearts,Phil Collins,1989
+42,Pump Up The Jam,Technotronic,1989
+43,My Perogative,Bobby Brown,1989
+44,Patience,Guns N' Roses,1989
+45,The Lover In Me,Sheena Easton,1989
+46,Every Rose Has Its Thorn,Poison,1989
+47,Rock On,Michael Jackson,1989
+48,On Our Own,Bobby Brown,1989
+49,Heaven,Warrant,1989
+50,If You Don't Know Me By Now,Simply Red,1989
+51,This Time I Know It?s For Real,Donna Summer,1989
+52,No More Rhyme,Debbie Gibson,1989
+53,Into The Night,Benny Mardones,1989
+54,All This Time,Tiffany,1989
+55,Electric Youth,Debbie Gibson,1989
+56,Buffalo Stance,Neneh Cherry,1989
+57,Dr. Feelgood,Motley Crew,1989
+58,Forever Your Girl,Paula Abdul,1989
+59,If I Could Turn Back Time,Cher,1989
+60,Ever Little Step,Bobby Brown,1989
+61,Sincerely Yours,Sweet Sensation,1989
+62,Living In Sin,Bon Jovi,1989
+63,True Love,Seduction,1989
+64,Thinking of You,Sa-Fire,1989
+65,Me So Horny,2 Live Crew,1989
+66,Just Because,Anita Baker,1989
+67,I Like It,Dino,1989
+68,Covergirl,New Kids On The Block,1989
+69,Rock Witcha,Bobby Brown,1989
+70,Friends,Jody Watley,1989
+71,It's No Crime,Baby Face,1989
+72,Love In An Elevator,Aerosmith,1989
+73,Yo No Se,Pajama Party,1989
+74,Listen To Your Heart,Roxette,1989
+75,Party Man,Prince,1989
+76,What You Don?t Know,Expose,1989
+77,When I'm With You,Sherrif,1989
+78,Roni,Bobby Brown,1989
+79,U Got It (The Right Stuff),New Kids On The Block,1989
+80,Baby Don?t Forget My Number,Milli Vanilli,1989
+81,Me Myself & I,De La Sole,1989
+82,When The Children Cry,White Lion,1989
+83,In My Eyes,Stevie B,1989
+84,Secret Rendezvous,Karyn White,1989
+85,Your Mama Don't Dance,Poison,1989
+86,I Beg Your Pardon,Kon Kan,1989
+87,The Look,Roxette,1989
+88,When I See You Smile,Bad English,1989
+89,Don't Rush Me,Taylor Dayne,1989
+90,Good Thing,Fine Young Cannibals,1989
+91,Sowing The Seeds Of Love,Tears For Fears,1989
+92,My Heart Can't Tell You No,Rod Stewart,1989
+93,I Drove All Night,Cyndi Lauper,1989
+94,Where Are You Now,Jimmy Harnen,1989
+95,When I Looked At Him,ExposÇ,1989
+96,With Every Beat Of My Heart,Taylor Dayne,1989
+97,Second Chance,.38 Special,1989
+98,Soldier of Love,Donny Osmond,1989
+99,Satisfied,Richard Marx,1989
+100,Stand,REM,1989
+1,Vogue,Madonna,1990
+2,Escapade,Janet Jackson,1990
+3,Hold On,Wilson Phillips,1990
+4,Blaze Of Glory,Jon Bon Jovi,1990
+5,U Can't Touch This,M.C. Hammer,1990
+6,How Am I Supposed To Live Without You,Michael Bolton,1990
+7,Pump Up The Jam,Technotronic,1990
+8,Poison,Bell Biv Devoe,1990
+9,Ice Ice Baby,Vanilla Ice,1990
+10,Unchained Melody,Righteous Brothers,1990
+11,Opposites Attract,Paula Abdul,1990
+12,Something To Believe In,Poison,1990
+13,Here We Are,Gloria Estefan,1990
+14,Cradle Of Love,Billy Idol,1990
+15,Nothing Compares 2 U,Sinead O'Connor,1990
+16,Praying For Time,George Michael,1990
+17,I Don't Have The Heart,James Ingram,1990
+18,The Power,Snap!,1990
+19,Another Day In Paradise,Phil Collins,1990
+20,Hold On,En Vogue,1990
+21,Something Happened On The Way To Heaven,Phil Collins,1990
+22,Love Will Lead You Back,Taylor Dayne,1990
+23,Release Me,Wilson Phillips,1990
+24,It Must Have Been Love,Roxette,1990
+25,Because I Love You (The Postman Song),Stevie B,1990
+26,If Wishes Came True,Sweet Sensation,1990
+27,Step By Step,New Kids On The Block,1990
+28,Vision Of Love,Mariah Carey,1990
+29,Without You,Motley Crue,1990
+30,Black Cat,Janet Jackson,1990
+31,All Around The World,Lisa Stansfield,1990
+32,Rub You The Right Way,Johnny Gill,1990
+33,Here And Now,Luther Vandross,1990
+34,Do Me!,Bell Biv Devoe,1990
+35,I Wish It Would Rain Down,Phil Collins,1990
+36,Everybody Everybody,Black Box,1990
+37,What It Takes,Aerosmith,1990
+38,Sending All My Love,Linear,1990
+39,I'll Be Your Everything,Tommy Page,1990
+40,No More Lies,Michel'le,1990
+41,We Didn't Start The Fire,Billy Joel,1990
+42,Love Takes Time,Mariah Carey,1990
+43,Alright,Janet Jackson,1990
+44,Have You Seen Her,M.C. Hammer,1990
+45,Wiggle It,Two In A Room,1990
+46,Unskinny Bop,Poison,1990
+47,Stomp,Kyze,1990
+48,Listen To Your Heart,Roxette,1990
+49,Close To You,Maxi Priest,1990
+50,Groove Is In The Heart,Deee-Lite,1990
+51,When I See You Smile,Bad English,1990
+52,Heartbeat,Seduction,1990
+53,(Can't Live Without Your) Love And Affection,Nelson,1990
+54,All I Wanna Do Is Make Love To You,Heart,1990
+55,If You Leave Me Now,Jaya,1990
+56,She Ain't Worth It,Glenn Medeiros f/ Bobby Brown,1990
+57,Miracle,Jon Bon Jovi,1990
+58,Do You Remember,Phil Collins,1990
+59,Two To Make It Right,Seduction,1990
+60,How Can We Be Lovers,Michael Bolton,1990
+61,Come Back To Me,Janet Jackson,1990
+62,Enjoy The Silence,Depeche Mode,1990
+63,More Than Words Can Say,Alias,1990
+64,C'Mon And Get My Love,D Mob,1990
+65,Tonight,New Kids On The Block,1990
+66,I Wanna Be Rich,Calloway,1990
+67,Always And Forever,Whistle,1990
+68,Dirty Cash (Money Talks),Adventures Of Stevie V,1990
+69,Everything,Jody Watley,1990
+70,Whip Appeal,Babyface,1990
+71,Feels Good,Tony! Toni! Tone!,1990
+72,Don't Go Away Mad (Just Go Away),Motley Crue,1990
+73,King Of Wishful Thinking,Go West,1990
+74,Pray,M. C. Hammer,1990
+75,Keep It Together,Madonna,1990
+76,Hippychick,Soho,1990
+77,Heart Of Stone,Taylor Dayne,1990
+78,Janie's Got A Gun,Aerosmith,1990
+79,Cherry Pie,Warrant,1990
+80,We Can't Go Wrong,The Cover Girls,1990
+81,Bounce Back,Alisha,1990
+82,Epic,Faith No More,1990
+83,Get Up! (Before The Night Is Over),Technotronic,1990
+84,I'm Your Baby Tonight,Whitney Houston,1990
+85,Dreamboy,Dreamgirl Cynthia & Johnny O,1990
+86,Don't Know Much,Linda Ronstadt & Aaron Neville,1990
+87,Policy Of Truth,Depeche Mode,1990
+88,Love Me For Life,Stevie B,1990
+89,Can't Stop,After 7,1990
+90,When I'm Back On My Feet Again,Michael Bolton,1990
+91,Freedom,George Michael,1990
+92,Just A Friend,Biz Markie,1990
+93,This One's For The Children,New Kids On The Block,1990
+94,Make You Sweat,Keith Sweat,1990
+95,Suicide Blonde,Inxs,1990
+96,Love Child,Sweet Sensation,1990
+97,I'll Be Your Shelter,Taylor Dayne,1990
+98,Love & Emotion,Stevie B,1990
+99,And So It Goes,Billy Joel,1990
+100,Hanky Pank,Madonna,1990
+1,(Everything I Do) I Do It For You,Bryan Adams,1991
+2,Someday,Mariah Carey,1991
+3,One More Try,Timmy T,1991
+4,Rush Rush,Paula Abdul,1991
+5,Unbelievalbe,EMF,1991
+6,I Wanna Sex You Up,Color Me Badd,1991
+7,Touch Me (All Night Long),Cathy Dennis,1991
+8,More then Words,Extreme,1991
+9,Romanitic,Kayrn White,1991
+10,Love of a Lifetime,Firehouse,1991
+11,Temptation,Corina,1991
+12,Losing My Religion,REM,1991
+13,Baby Baby,Amy Grant,1991
+14,I Touch Myself,DiVinyls,1991
+15,Together FOrever,Lisette Melendez,1991
+16,The First Time,Surface,1991
+17,O.P.P.,Naughty by Nature,1991
+18,I Adore Mi Amor,COlor Me Badd,1991
+19,Gonna Make You Sweat (Everybody Dance Now),C&C Music Factory,1991
+20,Voices That Care,Voices That Care,1991
+21,I Don't Wanna Cry,Mariah Carey,1991
+22,The Promise of a New Day,Paula Abdul,1991
+23,Coming Out of the Dark,Gloria Estafan,1991
+24,GOt a Love For You,Jomanda,1991
+25,Hold You Tight,Tara Kemp,1991
+26,Here We Go,C&C Music Factory,1991
+27,All The Man I Need,Whitney Houston,1991
+28,Good Vibrations,Marky Mark,1991
+29,I Saw Red,Warrent,1991
+30,Strike It Up,Black Box,1991
+31,Wind Of Change,Scorpions,1991
+32,Time Love & Tenderness,Michael Bolton,1991
+33,Can't Stop This Thing We Started,Bryan Adams,1991
+34,I Like The Way (The Kissing Game),Hi-Five,1991
+35,Hole Hearted,Extreme,1991
+36,pilly,Boyz II Men,1991
+37,Emotions,Mariah Carey,1991
+38,Black or White,Michael Jackson,1991
+39,Gypsy Woman (She's Homeless),Crystal Waters,1991
+40,Hard To Handle,The Black Crowes,1991
+41,Things That Make You Go Hmmmm',C&C Music Factory,1991
+42,When A Man Loves A Woman,Michael Bolton,1991
+43,Set Adrift On Memory Bliss,PM Dawn,1991
+44,Too Many Walls,Cathy Dennis,1991
+45,Love Will Never Do (Without You),Janet Jackson,1991
+46,Can't Let Go,Mariah Carey,1991
+47,I've Been Thinking About You,Londonbeat,1991
+48,Love Is A Wonderful Thing,Michael Bolton,1991
+49,Cream,Prince and the N.P.G.,1991
+50,Where Does My Heart Beat Now,Celine Dion,1991
+51,3 AM Eternal,The KLF,1991
+52,All 4 Love,Color Me Badd,1991
+53,Right Here Right Now,Jesus Jones,1991
+54,High Enough,Damn Yankees,1991
+55,It's So Hard Yo Say Goodbye To Yesterday,Boyz II Men,1991
+56,Show Me The Way,Styx,1991
+57,Summertime,DJ Jazzy Jeff & The Fresh Prince,1991
+58,I'll Be There,The Escape Club,1991
+59,You're In Love,Wilson Phillips,1991
+60,Finally,CeCe Peniston,1991
+61,Every Heartbeat,Amy Grant,1991
+62,With You,Tony Terry,1991
+63,This House,Tracie Spencer,1991
+64,Power of Love/Love Power,Luther Vandross,1991
+65,Do Anything,Natural Selection,1991
+66,Blowing Kisses In The Wind,Paula Abdul,1991
+67,After The Rain,Nelson,1991
+68,Now That We Found Love,Heavy D. & The Boyz,1991
+69,I Can't Wait Another Minute,Hi-Five,1991
+70,Shiny Happy People,R.E.M.,1991
+71,Rescue Me,Madonna,1991
+72,So You Want Me,Salt N Pepa,1991
+73,Rhythm of My Heart,Rod Stewart,1991
+74,Silent Lucidity,Queensryche,1991
+75,State Of The World,Janet Jackson,1991
+76,Don't Wanna Be A Fool,Luther Vandross,1991
+77,How To Dance,Bingo Boys,1991
+78,Just Another Dream,Cathy Dennis,1991
+79,Sadness Part 1,Enigma,1991
+80,Pop Goes The Weasel,3rd Bass,1991
+81,I Wonder Why,Curtis Stingers,1991
+82,Joyride,Roxette,1991
+83,My Fallen Angel,Coro,1991
+84,Everybody Plays The Fool,Aaron Neville,1991
+85,Don't Cry,Guns N' Roses,1991
+86,Rico Suave,Gerardo,1991
+87,Disappear,INXS,1991
+88,Power Windows,Billy Falcon,1991
+89,Here I Am (Come & Take Me),UB40,1991
+90,Real Real Real,Jesus Jones,1991
+91,Sensitivity,Ralph Tesvant,1991
+92,I'll Never Let You Go,Steelheart,1991
+93,Iesha,Another Bad Creation,1991
+94,Unforgettable,Natalie Cole,1991
+95,All This Time,Sting,1991
+96,Justify My Love,Madonna,1991
+97,Wicked Game,Chris Isaak,1991
+98,Funk Boutique,The Cover Girls,1991
+99,Lily Was Here,David A. Stewart f/Candy Dulfer,1991
+100,Playground,Another Bad Creation,1991
+1,End Of The Road,Boyz II Men,1992
+2,Save The Best For Last,Vanessa Williams,1992
+3,November Rain,Guns N' Roses,1992
+4,Just Another Day,Jon Secada,1992
+5,Please Don't Go,KWS,1992
+6,If You Asked Me To,Celine Dion,1992
+7,How Do You Talk To An Angel,The Heights,1992
+8,Move This,Technotronic,1992
+9,Under The Bridge,Red Hot Chili Peppers,1992
+10,Rhythm Is A Dancer,Snap,1992
+11,My Lovin' (You're Never Gonna Get It),En Vogue,1992
+12,Hold On My Heart,Genesis,1992
+13,Jump,Kris Kross,1992
+14,Damn I Wish I Was Your Lover,Sophie B. Hawkins,1992
+15,One,U2,1992
+16,Nu Nu,Lidell Townsell,1992
+17,Remember The Time,Michael Jackson,1992
+18,Life Is A Highway,Tom Cochrane,1992
+19,Tears In Heaven,Eric Clapton,1992
+20,I'll Be There,Mariah Carey,1992
+21,Do I Have To Say The Words',Bryan Adams,1992
+22,Wishing On A Star,Cover Girls,1992
+23,Beauty And The Beast,Celine Dion & Peabo Bryson,1992
+24,Baby Baby Baby,TLC,1992
+25,Sometimes Love Just Ain't Enough,Patty Smyth with Don Henley,1992
+26,The One,Elton John,1992
+27,This Used To Be My Playground,Madonna,1992
+28,To Be With You,Mr. Big,1992
+29,Friday I'm In Love,The Cure,1992
+30,I'm Too Sexy,Right Said Fred,1992
+31,Have You Ever Needed Someone So Bad,Def Leppard,1992
+32,I Love Your Smile,Shanice,1992
+33,Layla,Eric Clapton,1992
+34,Bohan Rhapsody,Queen,1992
+35,Missing You Now,Michael Bolton,1992
+36,Masterpiece,Atlantic Starr,1992
+37,Make It Happen,Mariah Carey,1992
+38,Real Love,Mary J. Blige,1992
+39,Baby Got Back,Sir Mix A Lot,1992
+40,Come As You Are,Nirvana,1992
+41,Don't Let The Sun Go Down On Me,George Michael / Elton John,1992
+42,What Goes Around Comes Around,Giggles,1992
+43,Live And Learn,Joe Public,1992
+44,All 4 Love,Color Me Badd,1992
+45,To Love Somebody,Michael Bolton,1992
+46,In The Still Of The Night,Boyz II Men,1992
+47,Good For Me,Amy Grant,1992
+48,Diamonds And Pearls,Prince & The New Power Generation,1992
+49,I'd Die Without You,PM Dawn,1992
+50,Forever Love,Color Me Badd,1992
+51,Everything About You,Ugly Kid Joe,1992
+52,We Got A Love Thang,Ce Ce Peniston,1992
+53,Tell Me What You Want Me To Do,Tevin Campbell,1992
+54,Let's Get Rocked,Def Leppard,1992
+55,In The Closet,Michael Jackson,1992
+56,Humpin' Around,Bobby Brown,1992
+57,Human Touch,Bruce Springsteen,1992
+58,Saving Forever For You,Shanice,1992
+59,I Will Always Love You,Whitney Houston,1992
+60,Warm It Up,Kris Kross,1992
+61,Good Enough,Bobby Brown,1992
+62,Steel Bars,Michael Bolton,1992
+63,She's Playing Hard To Get,Hi Five,1992
+64,Nothing Broken But My Heart,Celine Dion,1992
+65,Vibeology,Paula Abdul,1992
+66,I Can't Dance,Genesis,1992
+67,Would I Lie To You,Charles & Eddie,1992
+68,What About Your Friends,TLC,1992
+69,The Best Things In Life Are Free,Luther Vandross & Janet Jackson,1992
+70,Stay,Shakespear's Sister,1992
+71,Little Miss Can't Be Wrong,Spin Doctors,1992
+72,Will You Marry Me',Paula Abdul,1992
+73,The Way I Feel About You,Karyn White,1992
+74,Rump Shaker,Wreckx N Effect,1992
+75,The Last Song,Elton John,1992
+76,Take Me In Your Arms,Lil Suzy,1992
+77,Hazard,Richard Marx,1992
+78,Erotica,Madonna,1992
+79,Too Funky,George Michael,1992
+80,Ain't 2 Proud 2 Beg,TLC,1992
+81,Twilight Zone,2 Unlimited,1992
+82,All I Want,Toad The Wet Sprocket,1992
+83,Too Blind To See It,Kym Syms,1992
+84,I Will Remember You,Amy Grant,1992
+85,Mysterious Ways,U2,1992
+86,Everything Changes,Kathy Troccoli,1992
+87,Someone To Hold,Trey Lorenz,1992
+88,Jam,Michael Jackson,1992
+89,I'll Get By,Eddie Money,1992
+90,Can't Let Go,Mariah Carey,1992
+91,Keep The Faith,Bon Jovi,1992
+92,Do You Believe In Us,Jon Secada,1992
+93,Thinkin' Back,Color Me Badd,1992
+94,Never A Time,Genesis,1992
+95,Come & Talk To Me,Jodeci,1992
+96,Thought I Died And Gone To Heaven,Bryan Adams,1992
+97,Breakin' My Heart (Pretty Brown Eyes),Mint Condition,1992
+98,Keep On Walkin',Ce Ce Peniston,1992
+99,Just For Tonight,Vanessa Williams,1992
+100,If I Ever Fall In Love,Shai,1992
+1,Dreamlover,Mariah Carey,1993
+2,Can't Help Falling in Love,UB40,1993
+3,That's the Way Love Goes,Janet Jackson,1993
+4,Cryin',Aerosmith,1993
+5,Two Princes,Spin Doctors,1993
+6,What's Up,4 Non-Blondes,1993
+7,Hey Jealousy,Gin Blossoms,1993
+8,Runaway Train,Soul Asylum,1993
+9,Come Undone,Duran Duran,1993
+10,Show Me Love,Robin S.,1993
+11,The River of Dreams,Billy Joel,1993
+12,All That She Wants,Ace of Base,1993
+13,I'm Gonna Be (500 Miles),The Pretenders,1993
+14,I'd Do Anything For Love (But I Won't Do That),Meat Loaf,1993
+15,In These Arms,Bon Jovi,1993
+16,Plush,Stone Temple Pilots,1993
+17,More and More,Captain Hollywood Project,1993
+18,No Rain,Blind Melon,1993
+19,I Will Always Love You,Whitney Houston,1993
+20,Right Now,Van Halen,1993
+21,Have I Told You Lately,Rod Stewart,1993
+22,I'm Gonna Get You,Bizzare Inc.,1993
+23,Ordinary World,Duran Duran,1993
+24,If,Janet Jackson,1993
+25,What Is Love,Haddaway,1993
+26,Two Steps Behind,Def Leppard,1993
+27,Love U More,Sunscreem,1993
+28,Break it Down Again,Tears for Fears,1993
+29,Bed of Roses,Bon Jovi,1993
+30,Again,Janet Jackson,1993
+31,Looking Through Patient Eyes,P.M. Dawn,1993
+32,Jeremy,Pearl Jam,1993
+33,Cats in the Cradle,Ugly Kid Joe,1993
+34,Informer,Snow,1993
+35,Sweat (A La La La La Long),Inner Circle,1993
+36,Regret,New Order,1993
+37,Weak,SWV,1993
+38,Mr. Wendal,Arrested Development,1993
+39,The Crying Game,Boy George,1993
+40,Connected,Stereo MC's,1993
+41,Hip Hop Horray,Naughty By Nature,1993
+42,Black,Pearl Jam,1993
+43,I Don't Wanna Fight,Tina Turner,1993
+44,If I Ever Lose My Faith In You,Sting,1993
+45,Bad Boys (Theme from Cops),Inner Circle,1993
+46,Walk On The Ocean,Toad the Wet Sprocket,1993
+47,Because the Night,10000 Maniacs,1993
+48,That's What Love Can D0,Boy Crazy,1993
+49,Rump Shaker,Wreckx N Effect,1993
+50,Creep,Radiohead,1993
+51,Somebody to Love,George Michael with Queen,1993
+52,Soul to Squeeze,Red Hot Chili Peppers,1993
+53,Please Forgive Me,Bryan Adams,1993
+54,Fields of Gold,Sting,1993
+55,Whoomp! (There It Is),Tag Team,1993
+56,Linger,Cranberries,1993
+57,Oh Carolina,Shaggy,1993
+58,Man on the Moon,R.E.M.,1993
+59,Rebirth of Slick (Cool Like Dat),Digable Planets,1993
+60,Saving Forever for You,Shanice,1993
+61,Daughter,Pearl Jam,1993
+62,Too Much Information,Duran Duran,1993
+63,Sleeping Satellite,Tasmin Archer,1993
+64,Lemon,U2,1993
+65,Freak Me,Silk,1993
+66,The Last Song,Elton John,1993
+67,7,Prince & the New Power Generation,1993
+68,Livin' on the Edge,Aerosmith,1993
+69,Rain,Madonna,1993
+70,I Feel You,Depeche Mode,1993
+71,I'm So Into You,SMV,1993
+72,Three Little Pigs,Green Jelly,1993
+73,Step It Up,Stereo MC's,1993
+74,Heart Shaped Box,Nirvana,1993
+75,Are You Gonna Go My Way,Lenny Kravitz,1993
+76,Cannonball,The Breeders,1993
+77,Steam,Peter Gabriel,1993
+78,Who Is It,Michael Jackson,1993
+79,Creep,Stone Temple Pilots,1993
+80,Cantaloop,Us3,1993
+81,Into Your Arms,The Lemonheads,1993
+82,Believe,Lenny Kravitz,1993
+83,Wild World,Mr. Big,1993
+84,Somebody to Shove,Soul Asylum,1993
+85,I Got a Man,Positive K,1993
+86,Disarm,Smashing Pumpkins,1993
+87,Pets,Porno for Pyros,1993
+88,Deeper and Deeper,Madonna,1993
+89,Everybody Hurts,R.E.M.,1993
+90,Insane in the Brain,Cypress Hill,1993
+91,Reason to Believe,Rod Stewart,1993
+92,Asshole,Denis Leary,1993
+93,Shoop,Salt-N-Pepa,1993
+94,Supermodel,RuPaul,1993
+95,Numb,U2,1993
+96,Feed the Tree,Belly,1993
+97,Higher Ground,UB40,1993
+98,Come Baby Come,K-7,1993
+99,Walking in My Shoes,Depeche Mode,1993
+100,Black Gold,Soul Asylum,1993
+1,Come To My Window,Melissa Etheridge,1994
+2,The Sign,Ace Of Base,1994
+3,Daughter,Pearl Jam,1994
+4,Amazing,Aerosmith,1994
+5,Today,Smashing Pumpkins,1994
+6,Mr. Jones,Counting Crows,1994
+7,Stay (I Missed You),Lisa Loeb & Nine Stories,1994
+8,Shine,Collective Soul,1994
+9,Basket Case,Green Day,1994
+10,Don't Turn Around,Ace Of Base,1994
+11,Crazy,Aerosmith,1994
+12,Longview,Green Day,1994
+13,Far Behind,Candlebox,1994
+14,All Apologies,Nirvana,1994
+15,Disarm,Smashing Pumpkins,1994
+16,I'll Make Love To You,Boyz II Men,1994
+17,Big Empty,Stone Temple Pilots,1994
+18,You,Candlebox,1994
+19,Without You,Mariah Carey,1994
+20,Yellow Ledbetter,Pearl Jam,1994
+21,I'll Remember,Madonna,1994
+22,Interstate Love Song,Stone Temple Pilots,1994
+23,I Swear,All-4-One,1994
+24,What's the Frequency Kenneth?,R.E.M.,1994
+25,All I Want Is You,U2,1994
+26,I'm The Only One,Melissa Etheridge,1994
+27,Come Out and Play,Offspring,1994
+28,December 1963 (Oh\ What A Night) [Remix],Four Seasons,1994
+29,Vasoline,Stone Temple Pilots,1994
+30,Black Hole Sun,Soundgarden,1994
+31,Wild Night,John Mellencamp/Me'shell NdegeOcello,1994
+32,All I Wanna Do,Sheryl Crow,1994
+33,Baby I Love Your Way,Big Mountain,1994
+34,Backwater,Meat Puppets,1994
+35,Always,Bon Jovi,1994
+36,Loser,Beck,1994
+37,Find Out About You,Gin Blossoms,1994
+38,Always,Erasure,1994
+39,Whatta Man,Salt-N-Pepa w/EnVogue,1994
+40,Please Forgive Me,Bryan Adams,1994
+41,I'll Stand By You,Pretenders,1994
+42,Closer,Nine Inch Nails,1994
+43,Return to Innocence,Enigma,1994
+44,Streets of Philadelphia,Bruce Springsteen,1994
+45,Selling the Drama,Live,1994
+46,Another Night,Real McCoy,1994
+47,Round Here,Counting Crows,1994
+48,Dreams,The Cranberries,1994
+49,Until I Fall Away,Gin Blossoms,1994
+50,About A Girl,Nirvana,1994
+51,Secret,Madonna,1994
+52,Self Esteem,Offspring,1994
+53,The More You Ignore Me The Closer I Get,Morrissey,1994
+54,Cannonball,Breeders,1994
+55,Can You Feel The Love Tonight,Elton John,1994
+56,Bizarre Love Triangle,Frente!,1994
+57,100% Pure Love,Crystal Waters,1994
+58,Mmm Mmm Mmm Mmm,Crash Test Dummies,1994
+59,Landslide,Smashing Pumpkins,1994
+60,Cantaloop,Us3,1994
+61,Seether,Veruca Salt,1994
+62,Zombie,The Cranberries,1994
+63,Laid,James,1994
+64,Here Comes The Hotstepper,Ini Kamoze,1994
+65,Get Off This,Cracker,1994
+66,Sweet Jane,Cowboy Junkies,1994
+67,Better Man,Pearl Jam,1994
+68,Doll Parts,Hole,1994
+69,I Alone,Live,1994
+70,Einstein on the Beach (For An Eggman),Counting Crows,1994
+71,No Excuses,Alice in Chains,1994
+72,Mary Jane's Last Dance,Tom Petty & The Heartbreakers,1994
+73,Low,Cracker,1994
+74,What's Up,DJ Miko,1994
+75,Rock & Roll Dreams Come Through,Meat Loaf,1994
+76,You Gotta Be,Des'ree,1994
+77,You Let Your Heart Go Too Fast,Spin Doctors,1994
+78,Prayer for the Dying,Seal,1994
+79,Fell on Black Days,Soundgarden,1994
+80,Lucas With The Lid Off,Lucas,1994
+81,Girls & Boys,Blur,1994
+82,Girl You'll Be A Woman Soon,Urge Overkill,1994
+83,When I Come Around,Green Day,1994
+84,Thank You,Duran Duran,1994
+85,Fall Down,Toad the Wet Sprocket,1994
+86,Living In Danger,Ace Of Base,1994
+87,Allison Road,Gin Blossoms,1994
+88,When We Dance,Sting,1994
+89,Undone-The Sweater Song,Weezer,1994
+90,Am I Wrong,Love Spit Love,1994
+91,The Most Beautiful Girl In The World,Prince,1994
+92,Fade Into You,Mazzy Star,1994
+93,You Suck,The Murmurs,1994
+94,Can't Even Tell,Soul Asylum,1994
+95,On Bended Knee,Boyz II Men,1994
+96,Least Complicated,Indigo Girls,1994
+97,Take A Bow,Madonna,1994
+98,New Age Girl,Dead Eye Dick,1994
+99,Bang and Blame,R.E.M.,1994
+100,Mother,Danzig,1994
+1,Betterman,Pearl Jam,1995
+2,When I Come Around,Green Day,1995
+3,Lightning Crashes,Live,1995
+4,Corduroy,Pearl Jam,1995
+5,Like The Way I Do,Melissa Etheridge,1995
+6,All Over You,Live,1995
+7,Another Night,Real McCoy,1995
+8,Hold My Hand,Hootie & The Blowfish,1995
+9,You Oughta Know,Alanis Morissette,1995
+10,Run Around,Blues Traveler,1995
+11,Carnival,Natalie Merchant,1995
+12,Plowed,Sponge,1995
+13,Kiss From A Rose,Seal,1995
+14,Till I Hear It From You,Gin Blossoms,1995
+15,Let Her Cry,Hootie & The Blowfish,1995
+16,Good,Better Than Ezra,1995
+17,She,Green Day,1995
+18,Strong Enough,Sheryl Crow,1995
+19,Self Esteem,The Offspring,1995
+20,Always,Bon Jovi,1995
+21,Only Wanna Be With You,Hootie & The Blowfish,1995
+22,Comedown,Bush,1995
+23,Roll To Me,Del Amitri,1995
+24,I Alone,Live,1995
+25,Molly,Sponge,1995
+26,Sick Of Myself,Matthew Sweet,1995
+27,Jar,Green Day,1995
+28,100% Pure Love,Crystal Waters,1995
+29,Name,Goo Goo Dolls,1995
+30,Runaway,Real McCoy,1995
+31,December,Collective Soul,1995
+32,Hand In My Pocket,Alanis Morissette,1995
+33,I'll Be There For You,The Rembrants,1995
+34,Buddy Holly,Weezer,1995
+35,I Knew,Dionne Farris,1995
+36,Zombie,The Cranberries,1995
+37,Take A Bow,Madonna,1995
+38,Ants Marching,Dave Matthews Band,1995
+39,Lump,The Presidents of the United States of America,1995
+40,Hold Me Thrill Me Kiss Me Kill Me,U2,1995
+41,Total Eclipse of the Heart,Nicki French,1995
+42,Hurt,Nine Inch Nails,1995
+43,Live Forever,Oasis,1995
+44,Misery,Soul Asylum,1995
+45,Tomorrow,Silverchair,1995
+46,My Friends,Red Hot Chili Peppers,1995
+47,The Rhythm of the Night,Corona,1995
+48,Breakfast At Tiffany's,Deep Blue Something,1995
+49,Can't Stop Loving You,Van Halen,1995
+50,Gonna Get Away,The Offspring,1995
+51,Here Comes The Hotstepper,In Kamoze,1995
+52,What Would You Say,Dave Matthews Band,1995
+53,Missing,Everything But The Girl,1995
+54,Bullet With Butterfly Wings,Smashing Pumpkins,1995
+55,This Ain't A Love Song,Bon Jovi,1995
+56,Time Bomb,Rancid,1995
+57,As I Lay Me Down,Sophie B. Hawkins,1995
+58,Wonderful,Adam Ant,1995
+59,Allison Road,Gin Blossoms,1995
+60,No More I Love You's,Annie Lennox,1995
+61,White Lines,Duran Duran,1995
+62,Warped,Red Hot Chili Peppers,1995
+63,This Is A Call,Foo Fighters,1995
+64,In The Blood,Better Than Ezra,1995
+65,Everyting Zen,Bush,1995
+66,Pretty Penny,Stone Temple Pilots,1995
+67,The World I Know,Collective Soul,1995
+68,I Got A Girl,Tripping Daisy,1995
+69,Send Me On My Way,Rusted Root,1995
+70,Violet,Hole,1995
+71,One of Us,Joan Osbourne,1995
+72,Low,Cracker,1995
+73,On Bended Knee,Boyz II Men,1995
+74,Geek Stink Breath,Green Day,1995
+75,Time,Hootie & The Blowfish,1995
+76,Queer,Garbage,1995
+77,You Gotta Be,Des'ree,1995
+78,Smash It Up,The Offspring,1995
+79,Gangsta's Paradise,Coolio,1995
+80,More Human Than Human,White Zombie,1995
+81,Say It Ain't So,Weezer,1995
+82,Waterfalls,TLC,1995
+83,Down By The Water,PJ Harvey,1995
+84,Connection,Elastica,1995
+85,Get Ready For This,2 Unlimited,1995
+86,Hook,Blues Traveler,1995
+87,Bang and Blame,R.E.M.,1995
+88,Do You Sleep,Lisa Loeb & Nine Stories,1995
+89,Natural One,Folk Implosion,1995
+90,Dreams,The Cranberries,1995
+91,I'll Stick Around,Foo Fighters,1995
+92,Fantasy,Mariah Carey,1995
+93,Brain Stew,Green Day,1995
+94,I Kissed A Girl,Jill Sobule,1995
+95,Galaxie,Blind Melon,1995
+96,Ode To My Family,The Cranberries,1995
+97,1979,Smashing Pumpkins,1995
+98,Glycerine,Bush,1995
+99,You'll See,Madonna,1995
+100,I Got Id,Pearl Jam,1995
+1,Ironic,Alanis Morissette,1996
+2,I Love You Always Forever,Donna Lewis,1996
+3,Missing,Everything But The Girl,1996
+4,Counting Blue Cars,Dishwalla,1996
+5,Head Over Feet,Alanis Morissette,1996
+6,Spiderwebs,No Doubt,1996
+7,Give Me One Reason,Tracy Chapman,1996
+8,Who Will Save Your Soul,Jewel,1996
+9,You Learn,Alanis Morissette,1996
+10,Name,Goo Goo Dolls,1996
+11,Because You Loved Me,Celine Dion,1996
+12,Wonder,Natalie Merchant,1996
+13,Killing Me Softly,The Fugees,1996
+14,1979,The Smashing Pumpkins,1996
+15,Insensitive,Jann Arden,1996
+16,Mouth,Merrill Bainbridge,1996
+17,Wonderwall,Oasis,1996
+18,Be My Lover,La Bouche,1996
+19,If It Makes You Happy,Sheryl Crow,1996
+20,Hook,Blues Traveler,1996
+21,Standing Outside A Broken Phone Booth,Primitive Radio Gods,1996
+22,Change The World,Eric Clapton,1996
+23,Don't Speak,No Doubt,1996
+24,Macarena,Los Del Rio,1996
+25,Possession,Sarah McLachlan,1996
+26,One Of Us,Joan Osborne,1996
+27,No Woman No Cry,Fugees,1996
+28,Closer To Free,The Bodeans,1996
+29,Always Be My Baby,Mariah Carey,1996
+30,Follow You Down,Gin Blossoms,1996
+31,C'Mon N' Ride It (The Train),Quad City DJs,1996
+32,Time,Hootie & The Blowfish,1996
+33,Breakfast At Tiffany's,Deep Blue Something,1996
+34,Sweet Dreams,La Bouche,1996
+35,As I Lay Me Down,Sophie B. Hawkins,1996
+36,Don't Look Back In Anger,Oasis,1996
+37,It's All Coming Back To Me Now,Celine Dion,1996
+38,Jealousy,Natalie Merchant,1996
+39,Free To Decide,The Cranberries,1996
+40,Everything Falls Apart,Dog's Eye View,1996
+41,I Go Blind,Hootie & The Blowfish,1996
+42,Champagne Supernova,Oasis,1996
+43,Where Do You Go,No Mercy,1996
+44,I'm Only Happy When It Rains,Garbage,1996
+45,Fantasy,Mariah Carey,1996
+46,Hand In My Pocket,Alanis Morissette,1996
+47,Old Man & Me,Hootie & The Blowfish,1996
+48,Just A Girl,No Doubt,1996
+49,You'll See,Madonna,1996
+50,This Is Your Night,Amber,1996
+51,Key West Intermezzo (I Saw You First),John Mellencamp,1996
+52,You Oughta Know,Alanis Morissette,1996
+53,Close To You,Fun Factory,1996
+54,Carnival,Natalie Merchant,1996
+55,My Boo,Ghost Town DJs,1996
+56,6th Avenue Heartache,The Wallflowers,1996
+57,Twisted,Keith Sweat,1996
+58,Nowhere To Go,Melissa Etheridge,1996
+59,Don't Let Go (Love),En Vogue,1996
+60,Children,Robert Miles,1996
+61,Tucker's Town,Hootie & The Blowfish,1996
+62,I Love You Baby,Original,1996
+63,You Must Love Me,Madonna,1996
+64,Stupid Girl,Garbage,1996
+65,When You Love A Woman,Journey,1996
+66,I Want To Come Over,Melissa Etheridge,1996
+67,Flood,Jars Of Clay,1996
+68,Your Loving Arms,Billie Ray Martin,1996
+69,Theme From Mission : Impossible,Adam Clayton & Larry Mullen,1996
+70,But Anyway,Blues Traveler,1996
+71,How Soon Is Now,Love Spit Love,1996
+72,You Still Touch Me,Sting,1996
+73,Dreamer,Livin' Joy,1996
+74,Pepper,Butthole Surfers,1996
+75,Fallin' In Love,La Bouche,1996
+76,Fly Like An Eagle,Seal,1996
+77,It's Alright It's O.K.,Leah Andreone,1996
+78,Un-Break My Heart,Toni Braxton,1996
+79,So Much To Say,Dave Matthews Band,1996
+80,Just Between You And Me,DC Talk,1996
+81,Tonight Is The Night,Le Click,1996
+82,Tonight Tonight,Smashing Pumpkins,1996
+83,Crying All The Time,Smoke & Ashes,1996
+84,Don't Cry,Seal,1996
+85,No Diggity,Blackstreet,1996
+86,Inside,Patti Rothberg,1996
+87,Set You Free,Planet Soul,1996
+88,Sisters,Nixon,1996
+89,Without Love,Donna Lewis,1996
+90,Big Me,Foo Fighters,1996
+91,Boom Boom Boom,Outhere Brothers,1996
+92,Walls,Tom Petty and the Heartbreakers,1996
+93,You Were Meant For Me,Jewel,1996
+94,I Believe I Can Fly,R. Kelly,1996
+95,Jellyhead,Crush,1996
+96,Love Roller Coaster,Red Hot Chili Peppers,1996
+97,Rhythm Of The Night,Corona,1996
+98,The World I Know,Collective Soul,1996
+99,I Like It,Blackout Allstars,1996
+100,A Long December,Counting Crows,1996
+1,Semi-Charmed Life,Third Eye Blind,1997
+2,You Were Meant For Me,Jewel,1997
+3,Lovefool,The Cardigans,1997
+4,I'll Be Missing You,Puff Daddy,1997
+5,Don't Speak,No Doubt,1997
+6,Wannabe,Spice Girls,1997
+7,How Bizarre,OMC,1997
+8,One Headlight,The Wallflowers,1997
+9,Men In Black,Will Smith,1997
+10,Quit Playing Games (With My Heart),Backstreet Boys,1997
+11,Fly,Sugar Ray,1997
+12,Sunny Came Home,Shawn Colvin,1997
+13,Don't Let Go (Love),En Vogue,1997
+14,Bitch,Meredith Brooks,1997
+15,Mo Money Mo Problems,Notorious B.I.G.,1997
+16,Foolish Games,Jewel,1997
+17,Mmmbop,Hanson,1997
+18,How Do I Live,Leann Rimes,1997
+19,Tubthumping,Chumbawamba,1997
+20,I Want You,Savage Garden,1997
+21,I Like It,Blackout Allstars,1997
+22,Barely Breathing,Duncan Sheik,1997
+23,Jellyhead,Crush,1997
+24,All For You,Sister Hazel,1997
+25,Your Woman,White Town,1997
+26,The Freshmen,Verve Pipe,1997
+27,Ooh Aah...Just A Little Bit,Gina G,1997
+28,Push,Matchbox 20,1997
+29,Where Have All The Cowboys Gone,Paula Cole,1997
+30,Say You'll Be There,Spice Girls,1997
+31,Secret Garden,Bruce Springsteen,1997
+32,All Cried Out,Allure,1997
+33,Return Of The Mack,Mark Morrison,1997
+34,Hard To Say I'm Sorry,Az Yet,1997
+35,Crash Into Me,Dave Matthews Band,1997
+36,2 Become 1,Spice Girls,1997
+37,Call Me,Le Click,1997
+38,Un-Break My Heart,Toni Braxton,1997
+39,Naked Eye,Luscious Jackson,1997
+40,Everytime I Close My Eyes,Babyface,1997
+41,Walkin' On The Sun,Smash Mouth,1997
+42,Don't Cry For Me Argentina,Madonna,1997
+43,I Don't Want To Wait,Paula Cole,1997
+44,The Jock Jam,Various Artist,1997
+45,Invisible Man,98 Degrees,1997
+46,You're Makin' Me High,Toni Braxton,1997
+47,Coco Jamboo,Mr. President,1997
+48,Everyday Is A Winding Road,Sheryl Crow,1997
+49,Do You Know What It Takes,Robyn,1997
+50,Barbie Girl,Aqua,1997
+51,Candle In The Wind 97,Elton John,1997
+52,You Make Me Wanna...,Usher,1997
+53,Do You Miss Me,Jocelyn Enriquez,1997
+54,Building A Mystery,Sarah McLachlan,1997
+55,No Diggity,Blackstreet,1997
+56,Don't Stop Movin',Livin' Joy,1997
+57,If You Could Only See,Tonic,1997
+58,For You I Will,Monica,1997
+59,Rhythm Of Love,DJ Company,1997
+60,How Come How Long,Babyface,1997
+61,A Long December,Counting Crows,1997
+62,One More Time,Real McCoy,1997
+63,The Difference,The Wallflowers,1997
+64,4 Seasons Of Loneliness,Boyz II Men,1997
+65,This Is Your Night,Amber,1997
+66,I Will Come To You,Hanson,1997
+67,Don't Leave Me,Blackstreet,1997
+68,As Long As You Love Me Back,Backstreet Boys,1997
+69,Butterfly Kisses,Bob Carlisle,1997
+70,Criminal,Fiona Apple,1997
+71,All By Myself,Celine Dion,1997
+72,I Say A Little Prayer,Diana King,1997
+73,More Than This,10000 Maniacs,1997
+74,Show Me Love,Robyn,1997
+75,Honey,Mariah Carey,1997
+76,Where's The Love,Hanson,1997
+77,Da Dip,Freak Nasty,1997
+78,On My Own,Peach Union,1997
+79,A Change Would Do You Good,Sheryl Crow,1997
+80,Gimme Some Love,Gina G,1997
+81,Without Love,Donna Lewis,1997
+82,I Don't Want To,Toni Braxton,1997
+83,Virtual Insanity,Jamiroquai,1997
+84,Butterfly,Mariah Carey,1997
+85,All Mixed Up,311,1997
+86,Whatever,En Vogue,1997
+87,Midnight In Chelsea,Jon Bon Jovi,1997
+88,I Believe I Can Fly,R. Kelly,1997
+89,The Grease Megamix,John Travolta & Olivia Newton-John,1997
+90,The Impression That I Get,Mighty Mighty Bosstones,1997
+91,Can U Feel It,3rd Party,1997
+92,Pink,Aerosmith,1997
+93,Nobody,Keith Sweat,1997
+94,Spice Up Your Life,Spice Girls,1997
+95,I Do,Lisa Loeb,1997
+96,No Tengo Dinero,Los Umbrellos,1997
+97,Together Again,Janet Jackson,1997
+98,Too Gone Too Long,En Vogue,1997
+99,Three Marlenas,The Wallflowers,1997
+100,Breaking All The Rules,She Moves,1997
+1,Iris,Goo Goo Dolls,1998
+2,Torn,Natalie Imbruglia,1998
+3,Truly Madly Deeply,Savage Garden,1998
+4,Together Again,Janet Jackson,1998
+5,You're Still The One,Shania Twain,1998
+6,Getting' Jiggy Wit It,Will Smith,1998
+7,My Heart Will Go On,Celine Dion,1998
+8,The Boy Is Mine,Brandy & Monica,1998
+9,I Don't Want To Miss A Thing,Aerosmith,1998
+10,Uninvited,Alanis Morisette,1998
+11,All My Life,K-Ci & JoJo,1998
+12,I'll Be,Edwin McCain,1998
+13,Anytime,Brian McKnight,1998
+14,3 A.M.,Matchbox Twenty,1998
+15,Too Close,Next,1998
+16,Time Of Your Life,Green Day,1998
+17,Crush,Jennifer Paige,1998
+18,You Make Me Wanna',Usher,1998
+19,How's It Going to Be,Third Eye Blind,1998
+20,As Long As You Love Me,Backstreet Boys,1998
+21,The Power Of Goodbye,Madonna,1998
+22,Sex and Candy,Marcy Playground,1998
+23,One More Night,Amber,1998
+24,Just The Two Of Us,Will Smith,1998
+25,Tubthumping,Chumbawumba,1998
+26,Love You Down,INOJ,1998
+27,Frozen,Madonna,1998
+28,Jumper,Third Eye Blind,1998
+29,Tearin' Up My Heart,'N Sync,1998
+30,The Way,Fastball,1998
+31,Are You That Somebody,Aaliyah,1998
+32,Closing Time,Semisonic,1998
+33,Everything's Gonna Be Alright,Sweetbox,1998
+34,Real World,Matchbox Twenty,1998
+35,Ray of Light,Madonna,1998
+36,Thank You,Alanis Morissette,1998
+37,To Love You More,Celine Dion,1998
+38,In a Dream,Rockell,1998
+39,Kiss The Rain,Billie Myers,1998
+40,Never Ever,All Saints,1998
+41,One Week,Barenaked Ladies,1998
+42,Lullaby,Shawn Mullins,1998
+43,I'll Never Break Your Heart,Backstreet Boys,1998
+44,Walkin' On The Sun,Smash Mouth,1998
+45,Ghetto Supastar,Pras Michel f/O.D.B & Mya,1998
+46,If You Could Only See,Tonic,1998
+47,From This Moment On,Shania Twain,1998
+48,Things Just Ain't The Same,Deborah Cox,1998
+49,Adia,Sarah McLachlan,1998
+50,I Want You Back,'N SYNC,1998
+51,My All,Mariah Carey,1998
+52,Save Tonight,Eagle Eye Cherry,1998
+53,The First Night,Monica,1998
+54,Hands,Jewel,1998
+55,Time after Time,INOJ,1998
+56,Landslide,Fleetwood Mac,1998
+57,You Only Have To Say You Love Me,Hannah Jones,1998
+58,My Favorite Mistake,Sheryl Crow,1998
+59,Have You Ever',Brandy,1998
+60,No Tengo Dinero,Los Umbrellos,1998
+61,Slide,Goo Goo Dolls,1998
+62,Doo Wop (That Thing),Lauryn Hill,1998
+63,Brick,Ben Folds Five,1998
+64,Because of You,98,1998
+65,To the Moon and Back,Savage Garden,1998
+66,No No No,Destiny's Child,1998
+67,Southampton (Titanic Mix),James Horner,1998
+68,Feel So Good,Mase,1998
+69,Searchin' My Soul,Vonda Shepard,1998
+70,Go Deep,Janet Jackson,1998
+71,'Baby One More Time,Britney Spears,1998
+72,Wishing I Was There,Natalie Imbruglia,1998
+73,Everybody (Backstreet's Back),Backstreet Boys,1998
+74,Kind and Generous,Natalie Merchant,1998
+75,I'm Your Angel,R. Kelly & Celine Dion,1998
+76,Are You Jimmy Ray',Jimmy Ray,1998
+77,Me,Paula Cole,1998
+78,Still Not A Player,Big Punisher,1998
+79,Jump Jive An' Wail,Brian Setzer Orchestra,1998
+80,Can't We Try,Rockell & Collage,1998
+81,Flagpole Sitta,Harvey Danger,1998
+82,My Father's Eyes,Eric Clapton,1998
+83,Touch It,Monifah,1998
+84,Inside Out,Eve 6,1998
+85,Turn Back Time,Aqua,1998
+86,You Get What You Give,New Rascals,1998
+87,Do You Really Want Me,Robyn,1998
+88,(God Must Have Spent) A Little More Time On You,'N Sync,1998
+89,Bitter Sweet Symphony,The Verve,1998
+90,Miami,Will Smith,1998
+91,When You Believe,Mariah Carey & Whitney Houston,1998
+92,I Will Wait,Hootie & the Blowfish,1998
+93,Take Me There,Blackstreet & Mya,1998
+94,Pretty Fly (For A White Guy),The Offspring,1998
+95,All I Have To Give,Backstreet Boys,1998
+96,Heros,The Wallflowers,1998
+97,Weird,Hanson,1998
+98,Angel,Sarah McLachlan,1998
+99,If You Could Read My Mind,Stars On 54,1998
+100,I Will Get There,Boyz II Men,1998
+1,Kiss Me,Sixpence None The Richer,1999
+2,No Scrubs,TLC,1999
+3,Slide,Goo Goo Dolls,1999
+4,It's Not Right But It's Okay,Whitney Houston,1999
+5,I Want It That Way,Backstreet Boys,1999
+6,Unpretty,TLC,1999
+7,Believe,Cher,1999
+8,Livin' La Vida Loca,Ricky Martin,1999
+9,Where My Girls At?,702,1999
+10,Every Morning,Sugar Ray,1999
+11,Bailamos,Enrique Iglesias,1999
+12,Angel,Sarah McLachlan,1999
+13,If You Had My Love,Jennifer Lopez,1999
+14,All Star,Smash Mouth,1999
+15,Genie In A Bottle,Christina Aguilera,1999
+16,'Baby One More Time,Britney Spears,1999
+17,I Do,98 Degrees,1999
+18,Save Tonight,Eagle Eye Cherry,1999
+19,We Like To Party,Vengaboys,1999
+20,Mambo No. 5,Lou Bega,1999
+21,Smooth,Santana / R. Thomas,1999
+22,Can't Take My Eyes Off Of You,Lauryn Hill,1999
+23,The Cup Of Life,Ricky Martin,1999
+24,Waiting For Tonight,Jennifer Lopez,1999
+25,Angel Of Mine,Monica,1999
+26,Crazy,Britney Spears,1999
+27,Someday,Sugar Ray,1999
+28,My Love Is Your Love,Whitney Houston,1999
+29,Miami,Will Smith,1999
+30,The Hardest Thing,98 Degrees,1999
+31,Luv Me Luv Me,Shaggy / Janet,1999
+32,Nobody's Supposed To Be Here,Deborah Cox,1999
+33,I Will Remember You,Sarah McLachlan,1999
+34,Doo Wop (That Thing),Lauryn Hill,1999
+35,Heartbreak Hotel,Whitney Houston,1999
+36,I Need To Know,Marc Anthony,1999
+37,Have You Ever?,Brandy,1999
+38,Steal My Sunshine,Len,1999
+39,Can I Get A...,Jay-Z,1999
+40,Last Kiss,Pearl Jam,1999
+41,Back At One,Brian McKnight,1999
+42,All I Have To Give,Backstreet Boys,1999
+43,Beautiful Stranger,Madonna,1999
+44,Hands,Jewel,1999
+45,The Rockafeller Skank,Fatboy Slim,1999
+46,I Knew I Loved You,Savage Garden,1999
+47,Fly Away,Lenny Kravitz,1999
+48,Hey Leonardo,Blessid Union of Souls,1999
+49,She's All I Ever Had,Ricky Martin,1999
+50,Heartbreaker,Mariah Carey,1999
+51,I Wanna Love You Forever,Jessica Simpson,1999
+52,Everybody's Free,Baz Lhurmann,1999
+53,Boom Boom Boom Boom!,Vengaboys,1999
+54,Sometimes,Britney Spears,1999
+55,Black Balloon,Goo Goo Dolls,1999
+56,Summer Girls,LFO,1999
+57,American Woman,Lenny Kravitz,1999
+58,Do It Again,Razor-N-Guido,1999
+59,What It's Like,Everlast,1999
+60,That Don't Impress Me Much,Shania Twain,1999
+61,Sexual,Amber,1999
+62,Almost Doesn't Count,Brandy,1999
+63,Father Of Mine,Everclear,1999
+64,Stay the Same,Joey McIntyre,1999
+65,She's So High,Tal Bachman,1999
+66,Wild Wild West,Will Smith,1999
+67,Angels,Robbie Williams,1999
+68,Blue,Eiffel 65,1999
+69,God Must Have Spent...,N-Sync,1999
+70,Then The Morning Comes,Smash Mouth,1999
+71,Bills Bills Bills,Destiny's Child,1999
+72,I Could Not Ask For More,Edwin McCain,1999
+73,Girl on TV,LFO,1999
+74,Larger Than Life,Backstreet Boys,1999
+75,Back 2 Good,Matchbox 20,1999
+76,Shake Your Bon Bon,Ricky Martin,1999
+77,What's My Age Again?,Blink 182,1999
+78,Touch It,Monifah,1999
+79,Praise You,Fatboy Slim,1999
+80,When I'm Gone,Rockell,1999
+81,Tell Me It's Real,K-Ci & JoJo,1999
+82,Rhythm Divine,Enrique Iglesias,1999
+83,There She Goes,Sixpence None The Richer,1999
+84,C'est La Vie,B*Witched,1999
+85,All The Small Things,Blink 182,1999
+86,Will 2K,Will Smith,1999
+87,Amazed,Lonestar,1999
+88,What A Girl Wants,Christina Aguilera,1999
+89,Crush,Dave Matthews Band,1999
+90,Girls' Best Friend,Jay-Z,1999
+91,Harmless,Mulberry Lane,1999
+92,That's The Way It Is,Celine Dion,1999
+93,I Will Go With You,Donna Summer,1999
+94,Learn To Fly,Foo Fighters,1999
+95,This Gift,98 Degrees,1999
+96,Give It To You,Jordan Knight,1999
+97,Never Let You Go,Third Eye Blind,1999
+98,Auld Lang Syne,Kenny G,1999
+99,Skin,Charlotte,1999
+100,Hayadoin' Yankees,Joey / Carminooche,1999
+1,Jumpin' Jumpin',Destiny's Child,2000
+2,Bye Bye Bye,*NSYNC,2000
+3,Higher,Creed,2000
+4,There You Go,Pink,2000
+5,All The Small Things,Blink 182,2000
+6,Say My Name,Destiny's Child,2000
+7,It's Gonna Be Me,*NSYNC,2000
+8,Try Again,Aaliyah,2000
+9,Country Grammar,Nelly,2000
+10,It's My Life,Bon Jovi,2000
+11,My Baby You,Marc Anthony,2000
+12,It Feels So Good,Sonique,2000
+13,He Wasn't Man Enough,Toni Braxton,2000
+14,I Knew I Loved You,Savage Garden,2000
+15,Be With You,Enrique Iglesias,2000
+16,I Try,Macy Gray,2000
+17,Doesn't Really Matter,Janet Jackson,2000
+18,Thong Song,Sisqo,2000
+19,Maria Maria,Santana,2000
+20,Purest of Pain,Son By Four,2000
+21,Everything You Want,Vertical Horizon,2000
+22,What A Girl Wants,Christina Aguilera,2000
+23,Bring It All To Me,Blaque & *NSYNC,2000
+24,Kryptonite,3 Doors Down,2000
+25,Most Girls,Pink,2000
+26,Amazed,Lonestar,2000
+27,I Wanna Be With You,Mandy Moore,2000
+28,That's The Way It Is,Celine Dion,2000
+29,Case of the Ex,Mya,2000
+30,Absolutely (Story Of A Girl),Nine Days,2000
+31,I Wanna Know,Joe,2000
+32,The Real Slim Shady,Eminem,2000
+33,Oops! I Did It Again,Britney Spears,2000
+34,Bent,Matchbox Twenty,2000
+35,Show Me The Meaning Of Being Lonely,Backstreet Boys,2000
+36,Better Off Alone,Alice Deejay,2000
+37,With Arms Wide Open,Creed,2000
+38,Bug A Boo,Destiny's Child,2000
+39,This I Promise You,*NSYNC,2000
+40,I Will Love Again,Lara Fabian,2000
+41,Graduation (Friends Forever),Vitamin C,2000
+42,Could I Have This Kiss Forever,Whitney Houston/Enrique Iglesias,2000
+43,Back Here,BBMak,2000
+44,You Sang To Me,Marc Anthony,2000
+45,Never Let You Go,Third Eye Blind,2000
+46,Back At One,Brian McKnight,2000
+47,Who Let The Dogs Out,Baha Men,2000
+48,I Turn To You,Christina Aguilera,2000
+49,Gotta Tell You,Samantha Mumba,2000
+50,Otherside,Red Hot Chili Peppers,2000
+51,My Love Is Your Love,Whitney Houston,2000
+52,Music,Madonna,2000
+53,Forgot About Dre,Dr. Dre/Eminem,2000
+54,Shape of My Heart,Backstreet Boys,2000
+55,Big Pimpin',Jay-Z,2000
+56,She Bangs,Ricky Martin,2000
+57,Get It On Tonight,Montell Jordan,2000
+58,Lucky,Britney Spears,2000
+59,Breathe,Faith Hill,2000
+60,Crash and Burn,Savage Garden,2000
+61,Give Me Just One Night (Una Noche),98¯,2000
+62,Falls Apart,Sugar Ray,2000
+63,Dance With Me,Debelah Morgan,2000
+64,I Think I'm In Love With You,Jessica Simpson,2000
+65,Rhythm Divine,Enrique Iglesias,2000
+66,Party Up (Up In Here),DMX,2000
+67,Above The Clouds,Amber,2000
+68,Pinch Me,Barenaked Ladies,2000
+69,Come On Over Baby (All I Want Is You),Christina Aguilera,2000
+70,Back That Thang Up,Juvenile,2000
+71,Blue (Da Ba Dee),Eiffel 65,2000
+72,Desert Rose,Sting,2000
+73,Feelin' So Good,Jennifer Lopez,2000
+74,If I Am,Nine Days,2000
+75,Faded,Souldecision,2000
+76,No More,Ruff Endz,2000
+77,Only God Knows Why,Kid Rock,2000
+78,Don't Think I'm Not,Kandi,2000
+79,Candy,Mandy Moore,2000
+80,Crazy For This Girl,Evan and Jaron,2000
+81,The Bad Touch,Bloodhound Gang,2000
+82,The One,Backstreet Boys,2000
+83,Independent Women,Destiny's Child,2000
+84,Stronger,Britney Spears,2000
+85,American Pie,Madonna,2000
+86,It Wasn't Me,Shaggy,2000
+87,You're A God,Vertical Horizon,2000
+88,Here With Me,Dido,2000
+89,Where You Are,Jessica Simpson & Nick Lachey,2000
+90,Shake It Fast,Mystikal,2000
+91,Broadway,Goo Goo Dolls,2000
+92,Walk Me Home,Mandy Moore,2000
+93,Kernkraft 400,Zombie Nation,2000
+94,If You're Gone,Matchbox Twenty,2000
+95,Liquid Dreams,OTown,2000
+96,Deep Inside of You,Third Eye Blind,2000
+97,Don't Tell Me,Madonna,2000
+98,Take A Picture,Filter,2000
+99,Holler,Spice Girls,2000
+100,Woke Up This Morning,A3,2000
+1,Hanging By A Moment,Lifehouse,2001
+2,I'm Real (Remix),Jennifer Lopez & Ja Rule,2001
+3,Angel,Shaggy,2001
+4,Everywhere,Michelle Branch,2001
+5,Ride Wit Me,Nelly,2001
+6,Again,Lenny Kravitz,2001
+7,Let Me Blow Ya Mind,Eve & Gwen Stefani,2001
+8,Flavor of the Weak,American Hi-Fi,2001
+9,Family Affair,Mary J. Blige,2001
+10,Fallin',Alicia Keys,2001
+11,Where The Party At,Jagged Edge & Nelly,2001
+12,Never Had A Dream Come True,S Club 7,2001
+13,He Loves You Not,Dream,2001
+14,Fill Me In,Craig David,2001
+15,Irresistible,Jessica Simpson,2001
+16,Hero,Enrique Iglesias,2001
+17,I'm Like A Bird,Nelly Furtado,2001
+18,All or Nothing,O-Town,2001
+19,Around the World,A.T.C.,2001
+20,Follow Me,Uncle Kracker,2001
+21,Hit 'Em Up Style (Oops!),Blu Cantrell,2001
+22,It's Been Awhile,Staind,2001
+23,Love Don't Cost A Thing,Jennifer Lopez,2001
+24,Drops of Jupiter (Tell Me),Train,2001
+25,What Would You Do',City High,2001
+26,With Arms Wide Open,Creed,2001
+27,Lady Marmalade,Christina Aguilera Pink Mya Lil' Kim,2001
+28,Thank You,Dido,2001
+29,Butterfly,Crazy Town,2001
+30,U Remind Me,Usher,2001
+31,Livin? It Up,Ja Rule,2001
+32,If You?re Gone,Matchbox Twenty,2001
+33,I Turn To You,Melanie C.,2001
+34,Crazy For This Girl,Evan and Jaron,2001
+35,Get The Party Started,Pink,2001
+36,Gone,*NSYNC,2001
+37,Survivor,Destiny's Child,2001
+38,Drive,Incubus,2001
+39,It Wasn't Me,Shaggy,2001
+40,Crazy,K-Ci & JoJo,2001
+41,Here's To The Night,Eve 6,2001
+42,All For You,Janet Jackson,2001
+43,Peaches & Cream,112,2001
+44,Emotion,Destiny's Child,2001
+45,One Minute Man,Missy Elliott,2001
+46,South Side,Moby & Gwen Stefani,2001
+47,I Do!!,Toya,2001
+48,Turn Off The Light,Nelly Furtado,2001
+49,This I Promise You,*NSYNC,2001
+50,Put It On Me,Ja Rule,2001
+51,How You Remind Me,Nickelback,2001
+52,Stutter,Joe,2001
+53,Stranger In My House,Tamia,2001
+54,More Than That,Backstreet Boys,2001
+55,No More,3LW,2001
+56,Thank You For Loving Me,Bon Jovi,2001
+57,Izzo (H.O.V.A.),Jay-Z,2001
+58,Independent Women,Destiny's Child,2001
+59,Let Me Love You,Da Buzz,2001
+60,Jaded,Aerosmith,2001
+61,I Never Knew,Deborah Cox,2001
+62,Outside,Staind,2001
+63,Someone to Call My Lover,Janet Jackson,2001
+64,Get Ur Freak On,Missy Elliott,2001
+65,Breathless,The Corrs,2001
+66,Smooth Criminal,Alien Ant Farm,2001
+67,Whenever Wherever,Shakira,2001
+68,Get Over Yourself,Eden's Crush,2001
+69,What's Goin' On,All-Star Tribute,2001
+70,My Everything,98 Degrees,2001
+71,I'll Fly With You,Gigi D'Agostino,2001
+72,When It's Over,Sugar Ray,2001
+73,Castles In The Sky,Ian Van Dahl,2001
+74,You Make Me Sick,Pink,2001
+75,Only Time,Enya,2001
+76,Fat Lip,Sum 41,2001
+77,I'm A Slave 4 U,Britney Spears,2001
+78,Superman (It's Not Easy),Five For Fighting,2001
+79,This Is Me,Dream,2001
+80,In The End,Linkin Park,2001
+81,I Wanna Be Bad,Willa Ford,2001
+82,The Space Between,Dave Matthews Band,2001
+83,U Got It Bad,Usher,2001
+84,Bootylicious,Destiny's Child,2001
+85,Hey Baby,No Doubt,2001
+86,Pop,*NSYNC,2001
+87,The Way You Love Me,Faith Hill,2001
+88,7 Days,Craig David,2001
+89,Look At Us,Sarina Paris,2001
+90,The Rock Show,Blink 182,2001
+91,Differences,Ginuwine,2001
+92,Start The Commotion,The Wiseguys,2001
+93,Baby Come Over,Samantha Mumba,2001
+94,Be Like That,3 Doors Down,2001
+95,E.I.,Nelly,2001
+96,Stuck In A Moment You Can't Get Out Of,U2,2001
+97,Play,Jennifer Lopez,2001
+98,Because I Got High,Afroman,2001
+99,Wherever You Will Go,The Calling,2001
+100,#1,Nelly,2001
+1,In The End (Original Version),Linkin Park,2002
+2,Heaven (Dance Version),DJ Sammy & Yanou feat. Do,2002
+3,Complicated,Avril Lavigne,2002
+4,How You Remind Me,Nickelback,2002
+5,All You Wanted,Michelle Branch,2002
+6,What's Luv',Fat Joe feat. Ashanti,2002
+7,A Thousand Miles,Vanessa Carlton,2002
+8,Gotta Get Thru This,Daniel Bedingfield,2002
+9,Lose Yourself,Eminem,2002
+10,Sk8er Boi,Avril Lavigne,2002
+11,Always On Time,Ja Rule feat. Ashanti,2002
+12,Wherever You Will Go,The Calling,2002
+13,Hot In Herre,Nelly,2002
+14,Can't Fight The Moonlight,Leann Rimes,2002
+15,Underneath It All,No Doubt,2002
+16,Whenever Wherever,Shakira,2002
+17,The Middle,Jimmy Eat World,2002
+18,U Got It Bad,Usher,2002
+19,Just Like A Pill,Pink,2002
+20,Girlfriend,*NSYNC feat. Nelly,2002
+21,I'm Gonna Be Alright (Remix),Jennifer Lopez,2002
+22,Blurry,Puddle of Mudd,2002
+23,Underneath Your Clothes,Shakira,2002
+24,Hey baby,No Doubt,2002
+25,Caramel,City Hight,2002
+26,Foolish,Ashanti,2002
+27,A Moment Like This,Kelly Clarkson,2002
+28,Ain't It Funny (Remix),Jennifer Lopez & Ja Rule,2002
+29,Don't Let Me Get Me,Pink,2002
+30,Gangsta Lovin',Eve & Alicia Keys,2002
+31,No Such Thing,John Mayer,2002
+32,Something,Lasgo,2002
+33,Wasting My Time,Default,2002
+34,Without Me,Eminem,2002
+35,Goodbye To You,Michelle Branch,2002
+36,Dilemma,Nelly & Kelly Rowland,2002
+37,Ordinary Day,Vanessa Carlton,2002
+38,I Need A Girl Pt. 1,P. Diddy feat. Usher,2002
+39,Get The Party Started,Pink,2002
+40,Hero,Chad Kroeger feat. Josey Scott,2002
+41,Give It To Her,Tanto Metro & Devonte,2002
+42,One Last Breath,Creed,2002
+43,Walking Away,Craig David,2002
+44,Halie's Song,Eminem,2002
+45,Somewhere Out There,Our Lady Peace,2002
+46,I Need A Girl Pt. 2,P. Diddy feat. Ginuwine,2002
+47,Escape,Enrique Iglesias,2002
+48,Running Away,Hoobastank,2002
+49,Like I Love You,Justin Timberlake,2002
+50,Hey Ma,Cam'ron,2002
+51,The Game of Love,Santana feat. Michelle Branch,2002
+52,Can't Get You Out of My Head,Kylie Minogue,2002
+53,One Minute Man,Missy Elliott,2002
+54,Here Is Gone,Goo Goo Dolls,2002
+55,7 Days,Craig David,2002
+56,Cleanin' Out My Closet,Eminem,2002
+57,Just A Friend 2002,Mario,2002
+58,Starry Eyed Surprise,Paul Oakenfold feat. Shifty Shellshock,2002
+59,My Sacrifice,Creed,2002
+60,Jenny From The Block,Jennifer Lopez,2002
+61,What About Us?,Brandy,2002
+62,Days Go By,Dirty Vegas,2002
+63,Can't Deny It,Fabolous,2002
+64,Love At First Sight,Kylie Minogue,2002
+65,The Whole World,OutKast,2002
+66,Die Another Day,Madonna,2002
+67,Family Portrait,Pink,2002
+68,No More Drama,Mary J. Blige,2002
+69,Youth of the Nation,P.O.D.,2002
+70,More Than A Woman,Aaliyah,2002
+71,She Hates Me,Puddle of Mudd,2002
+72,Differences,Ginuwine,2002
+73,Papa Don't Preach,Kelly Osbourne,2002
+74,Happy,Ashanti,2002
+75,Dirrty,Christina Aguilera,2002
+76,Everyday,Bon Jovi,2002
+77,U Don't Have To Call,Usher,2002
+78,Barenaked,Jennifer Love Hewitt,2002
+79,A New Day Has Come,Celine Dion,2002
+80,Rainy Dayz,Mary J. Blige,2002
+81,Hands Clean,Alanis Morissette,2002
+82,#1,Nelly,2002
+83,Through The Rain,Mariah Carey,2002
+84,Objection (Tango),Shakira,2002
+85,Strength of a Woman,Shaggy,2002
+86,Hella Good,No Doubt,2002
+87,One Day In Your Life,Anastacia,2002
+88,Dreamer (Z-100 Remix),Ozzy Osbourne,2002
+89,Stole,Kelly Rowland,2002
+90,Alive,P.O.D.,2002
+91,Out of My Hear,BBMak,2002
+92,Oops (Oh My),Tweet,2002
+93,Disease,Matchbox Twenty,2002
+94,Your Body Is A Wonderland,John Mayer,2002
+95,These Are The Days,O-Town,2002
+96,Work It,Missy Elliott,2002
+97,Spin,Lifehouse,2002
+98,I'm Not A Girl Not Yet A Woman,Britney Spears,2002
+99,The Rising,Bruce Springsteen,2002
+100,The Ketchup Song (Hey Hah),Las Ketchup,2002
+1,Bring Me To Life,Evanescence,2003
+2,Where Is The Love?,Black Eyed Peas,2003
+3,No Letting Go,Wayne Wonder,2003
+4,Unwell,Matchbox Twenty,2003
+5,Baby Boy,Beyonce feat. Sean Paul,2003
+6,Why Don't You & I,Santana feat. Alex Band,2003
+7,Addicted,Simple Plan,2003
+8,Get Busy,Sean Paul,2003
+9,Harder to Breathe,Maroon 5,2003
+10,Breathe,Blu Cantrell,2003
+11,The Remedy (I Won't Worry),Jason Mraz,2003
+12,In Da Club,50 Cent,2003
+13,When I'm Gone,3 Doors Down,2003
+14,Miss Independent,Kelly Clarkson,2003
+15,Cry Me A River,Justing Timberlake,2003
+16,The Boys of Summer,The Ataris,2003
+17,Can't Hold Us Down,Christina Aguilera feat. Lil' Kim,2003
+18,I'd Do Anything,Simple Plan,2003
+19,I'm With You,Avril Lavigne,2003
+20,Ignition,R. Kelly,2003
+21,Here Without You,3 Doors Down,2003
+22,If You're Not The One,Daniel Bedingfield,2003
+23,Lifestyles of the Rich and Famous,Good Charlotte,2003
+24,Roc Ya Body (Mic Check 12),M.V.P. feat. Stagga Lee,2003
+25,Rock Your Body,Justin Timberlake,2003
+26,All I Have,Jennifer Lopez feat. LL Cool J,2003
+27,Girl All The Bad Guys Want,Bowling For Soup,2003
+28,Crazy In Love,Beyonce,2003
+29,The Anthem,Good Charlotte,2003
+30,Fighter,Christina Aguilera,2003
+31,Never Leave You,Lumidee,2003
+32,Are You Happy Now?,Michelle Branch,2003
+33,Bonnie & Clyde 2003,Jay-Z feat. Beyonce,2003
+34,(There's Gotta Be) More To Life,Stacie Orrico,2003
+35,Picture,Kid Rock,2003
+36,Mesmerize,Ja Rule feat. Ashanti,2003
+37,All The Things She Said,T.A.T.U.,2003
+38,Swing Swing,The All-American Rejects,2003
+39,Like Glue,Sean Paul,2003
+40,Hey Ya!!,OutKast,2003
+41,Sing For The Moment,Eminem,2003
+42,Girls & Boys,Good Charlotte,2003
+43,I Know What You Want,Busta Rhymes,2003
+44,Don't Mess With My Man,Nivea,2003
+45,Perfect,Simple Plan,2003
+46,Miss You,Aaliyah,2003
+47,I Want You,Thalia,2003
+48,Shake Ya Tailfeather,Nelly/P.Diddy/Murphy Lee,2003
+49,Your Body Is A Wonderland,John Mayer,2003
+50,Don't Wanna Try,Frankie J,2003
+51,Senorita,Justin Timberlake,2003
+52,Bump Bump Bump,B2K feat. P. Diddy,2003
+53,Drift Away,Uncle Kracker feat. David Gray,2003
+54,So Yesterday,Hilary Duff,2003
+55,Beautiful,Christina Aguilera,2003
+56,Stacy's Mom,Fountains of Wayne,2003
+57,Milkshake,Kelis,2003
+58,Low,Kelly Clarkson,2003
+59,Blowin' Me Up (With Her Love),J.C. Chasex,2003
+60,Headstrong,Trapt,2003
+61,Rock Wit U,Ashanti,2003
+62,She Hates Me,Puddle of Mudd,2003
+63,Into You,Fabolous feat. Tamia,2003
+64,Something,Lasgo,2003
+65,8 Mile,Eminem,2003
+66,Stuck,Stacie Orrico,2003
+67,It's My Life,No Doubt,2003
+68,My Love Is Like..Wo,Mya,2003
+69,P.I.M.P.,50 Cent,2003
+70,Why Can't I,Liz Phair,2003
+71,Me Against The Music,Britney Spears feat. Madonna,2003
+72,Intuition,Jewel,2003
+73,Get Low,Lil' Jon & The Eastside Boys,2003
+74,Breathe,Michelle Branch,2003
+75,Magic Stick,Lil' Kim feat. 50 Cent,2003
+76,Suga Suga,Baby Bash,2003
+77,Bigger Than My Body,John Mayer,2003
+78,Angel,Amanda Perez,2003
+79,Landslide,Dixie Chicks,2003
+80,I'm Glad,Jennifer Lopez,2003
+81,Dirrty,Chrisitina Aguilera,2003
+82,Damaged,TLC,2003
+83,Can't Let You Go,Fabolous,2003
+84,Never,The Roc Project,2003
+85,Dumb Girls,Lucy Woodward,2003
+86,21 Questions,50 Cent,2003
+87,Bright Lights,Matchbox Twenty,2003
+88,No One's Gonna Change You,Reina,2003
+89,Someday,Nickelback,2003
+90,Gossip Folks,Missy Elliott feat. Ludacris,2003
+91,Calling All Angels,Train,2003
+92,Losing Grip,Avril Lavinge,2003
+93,Hell Yeah,Ginuwine,2003
+94,Invisible,Clay Aiken,2003
+95,So Far Away,Staind,2003
+96,Right Thurr,Chingy,2003
+97,The Voice Within,Christina Aguilera,2003
+98,Alone,Lasgo,2003
+99,Clocks,Coldplay,2003
+100,With You,Jessica Simpson,2003
+1,Yeah!,Usher feat. Ludacris Lil Jon,2004
+2,My Immortal,Evanescence,2004
+3,She Will Be Loved,Maroon 5,2004
+4,Breakaway,Kelly Clarkson,2004
+5,Meant To Live,Switchfoot,2004
+6,This Love,Maroon 5,2004
+7,Turn Me On,Kevin Lyttle,2004
+8,The Reason,Hoobastank,2004
+9,Hey Mama,Black Eyed Peas,2004
+10,Pieces Of Me,Ashlee Simpson,2004
+11,Numb,Linkin Park,2004
+12,On The Way Down,Ryan Cabrera,2004
+13,With You,Jessica Simpson,2004
+14,My Happy Ending,Avril Lavigne,2004
+15,Leave (Get Out),JoJo,2004
+16,Everytime,Britney Spears,2004
+17,Dare You To Move,Switchfoot,2004
+18,Move Ya Body,Nina Sky,2004
+19,Broken,Seether feat. Amy Lee,2004
+20,Dip It Low,Christina Milian,2004
+21,My Boo,Usher and Alicia Keys,2004
+22,Toxic,Britney Spears,2004
+23,I Don't Wanna Be,Gavin DeGraw,2004
+24,Hey Ya!,OutKast,2004
+25,Don't Tell Me,Avril Lavigne,2004
+26,Lose My Breath,Destiny's Child,2004
+27,Ocean Avenue,Yellowcard,2004
+28,Over and Over,Nelly and Tim McGraw,2004
+29,Breaking The Habit,Linkin Park,2004
+30,I Don't Wanna Know,Mario Winans,2004
+31,Just Lose It,Eminem,2004
+32,The Way You Move,OutKast feat. Sleepy Brown,2004
+33,1985,Bowling For Soup,2004
+34,Let's Get It Started,Black Eyed Peas,2004
+35,Welcome To My Life,Simple Plan,2004
+36,Naughty Girl,Beyonce,2004
+37,Burn,Usher,2004
+38,Someday,Nickelback,2004
+39,Take My Breath Away,Jessica Simpson,2004
+40,True,Ryan Cabrera,2004
+41,I Miss You,Blink,2004
+42,My Band,D12,2004
+43,White Flag,Dido,2004
+44,It's My Life,No Doubt,2004
+45,Oye Mi Canto,N.O.R.E. feat Nina Sky,2004
+46,Come Clean,Hilary Duff,2004
+47,Baby It's You,JoJo,2004
+48,Lean Back,Terror Squad feat. Fat Joe Remy,2004
+49,Alone,Lasgo,2004
+50,One Thing,Finger Eleven,2004
+51,Goodies,Ciara,2004
+52,Angels,Jessica Simpson,2004
+53,Tempted To Touch,Rupee,2004
+54,Dat Sexy Body,Sasha,2004
+55,Are You Gonna Be My Girl,Jet,2004
+56,I'm Still In Love With You,Sean Paul feat. Sasha,2004
+57,I Hate Everything About You,Three Days Grace,2004
+58,Something Happened On The Way To Heaven,Deborah Cox,2004
+59,How Come,D12,2004
+60,Rumors,Lindsay Lohan,2004
+61,Suga Suga,Baby Bash,2004
+62,Like A Prayer,Mad'house,2004
+63,Dude,Beenie Man feat. Ms. Thing,2004
+64,Shadow,Ashlee Simpson,2004
+65,If I Ain't Got You,Alicia Keys,2004
+66,F**k It (I Don't Want You Back),Eamon,2004
+67,Tipsy,J-Kwon,2004
+68,The First Cut Is The Deepest,Sheryl Crow,2004
+69,Hotel,Cassidy feat. R. Kelly,2004
+70,Somebody Told Me,The Killers,2004
+71,Dirt Off Your Shoulder,Jay-Z,2004
+72,Caught Up,Usher,2004
+73,8th World Wonder,Kimberly Locke,2004
+74,Sunshine,Lil' Flip feat. Lea,2004
+75,Memory,Sugarcult,2004
+76,Stand Up,Ludacris feat. Shawna,2004
+77,Confessions Part II,Usher,2004
+78,Predictable,Good Charlotte,2004
+79,Milkshake,Kelis,2004
+80,Since U Been Gone,Kelly Clarkson,2004
+81,Work It,Nelly and Justin Timberlake,2004
+82,Falls On Me,Fuel,2004
+83,Slow Motion,Juvenile,2004
+84,Beautiful Soul,Jesse McCartney,2004
+85,One Call Away,Chingy,2004
+86,One Last Time,Eminem,2004
+87,White Houses,Vanessa Carlton,2004
+88,My Place,Nelly feat. Jaheim,2004
+89,You're The Only One,Maria Mena,2004
+90,Soldier,Destiny's Child,2004
+91,Drop It Like It's Hot,Snoop Dogg,2004
+92,Hold On,Good Charlotte,2004
+93,I Like That,Houston,2004
+94,Nobody's Home,Avril Lavigne,2004
+95,Culo,Pitbull,2004
+96,Car Wash,Christina Aguilera feat. Missy Elliot,2004
+97,Daughters,John Mayer,2004
+98,What You Waiting For',Gwen Stefani,2004
+99,Slow Jamz,Twista,2004
+100,Sunday Morning,Maroon 5,2004
+1,Behind These Hazel Eyes,Kelly Clarkson,2005
+2,Since U Been Gone,Kelly Clarkson,2005
+3,We Belong Together,Mariah Carey,2005
+4,Boulevard of Broken Dreams,Green Day,2005
+5,La Tortura,Shakira / Alejandro Sanz,2005
+6,Scars,Papa Roach,2005
+7,Listen To Your Heart,D. H. T.,2005
+8,1 2 Step,Ciara / Missy Elliott,2005
+9,Mr. Brightside,The Killers,2005
+10,Because Of You,Kelly Clarkson,2005
+11,Pon De Replay,Rihanna,2005
+12,Hollaback Girl,Gwen Stefani,2005
+13,Obsession (No Es Amor),Frankie J. / Baby Bash,2005
+14,You And Me,Lifehouse,2005
+15,Don't Phunk With My Heart,Black Eyed Peas,2005
+16,Rich Girl,Gwen Stefani / Eve,2005
+17,Let Me Go,3 Doors Down,2005
+18,We Be Burnin',Sean Paul,2005
+19,Don't Cha,Pussycat Dolls / Busta Rhymes,2005
+20,Gold Digger,Kanye West / Jamie Foxx,2005
+21,Lonely No More,Rob Thomas,2005
+22,Karma,Alicia Keys,2005
+23,Shake It Off,Mariah Carey / Jermaine Dupri,2005
+24,Incomplete,Backstreet Boys,2005
+25,Sugar We're Going Down,Fall Out Boy,2005
+26,Lonely,Akon,2005
+27,Numb/Encore,Jay-Z/Linkin Park,2005
+28,Look What You've Done,Jet,2005
+29,Let Me Love You,Mario,2005
+30,Cool,Gwen Stefani,2005
+31,Baby I'm Back,Baby Bash / Akon,2005
+32,Don't Lie,Black Eyed Peas,2005
+33,Lose Control,Missy Elliott / Ciara / Fat Man Scoop,2005
+34,Switch,Will Smith,2005
+35,These Words,Natasha Bedingfield,2005
+36,Wake Me Up When September Ends,Green Day,2005
+37,Candy Shop,50 Cent / Olivia,2005
+38,Run It!,Chris Brown / Juelz Santana,2005
+39,Mockingbird,Eminem,2005
+40,Hate It or Love It,The Game / 50 Cent,2005
+41,Photograph,Nickelback,2005
+42,Caught Up,Usher / LL Cool J,2005
+43,Belly Dancer (Bananza),Akon,2005
+44,My Humps,Black Eyed Peas,2005
+45,I Like It,Narcotic Thrust,2005
+46,Nobody's Home,Avril Lavigne,2005
+47,Let Me Hold You,Bow Wow / Omarion,2005
+48,More Than Words,Frankie J.,2005
+49,Almost,Bowling For Soup,2005
+50,Like Toy Soldiers,Eminem,2005
+51,Don't Forget About Us,Mariah Carey,2005
+52,Gasolina,Daddy Yankee,2005
+53,Untitled (How Can This Happen To Me?),Simple Plan,2005
+54,Like You,Bow Wow / Ciara,2005
+55,Chariot,Gavin DeGraw,2005
+56,Disco Inferno,50 Cent,2005
+57,Stickwitu,The Pussycat Dolls,2005
+58,Just The Girl,The Click Five,2005
+59,Crawling Back To You,Backstreet Boys,2005
+60,Beverly Hills,Weezer,2005
+61,Just A Lil' Bit,50 Cent,2005
+62,Get Right,Jennifer Lopez / Fabolous,2005
+63,Luxurious,Gwen Stefani,2005
+64,Goin' Crazy,Natalie,2005
+65,Sunday Morning,Maroon 5,2005
+66,How We Do,The Game / 50 Cent,2005
+67,Holiday,Green Day,2005
+68,How To Deal,Frankie J.,2005
+69,1 Thing,Amerie / Eve,2005
+70,It's Like That,Mariah Carey / Fat Man Scoop / Jermaine Dupri,2005
+71,Oh,Ciara / Ludacris,2005
+72,Like You,Daddy Yankee,2005
+73,Encore,Eminem,2005
+74,Drop It Like It's Hot,Snoop Dogg / Pharrell,2005
+75,Boyfriend,Ashlee Simpson,2005
+76,Soul Survivor,Young Jeezy / Akon,2005
+77,If You Were Mine,Marcos Hernandez,2005
+78,When I'm Gone,Eminem,2005
+79,Check On It,Beyonce / Slim Thug,2005
+80,Just Want You To Know,Backstreet Boys,2005
+81,If It's Lovin' That You Want,Rihanna,2005
+82,Dale Don Dale,Don Omar,2005
+83,Dirty Little Secret ' The All,American Rejects,2005
+84,Pimpin' All Over The World,Ludacris / Bobby Valentino,2005
+85,Over and Over,Nelly / Tim McGraw,2005
+86,Collide,Howie Day,2005
+87,Hold You Down,Jennifer Lopez / Fat Joe,2005
+88,Axel F,Crazy Frog,2005
+89,Heard 'Em Say,Kanye West / Adam Levine,2005
+90,Bring 'Em Out,T. I.,2005
+91,Speed Of Sound,Coldplay,2005
+92,Get It Poppin',Fat Joe / Nelly,2005
+93,Hung Up,Madonna,2005
+94,Soldier,Destiny's Child / T. I. / Lil' Wayne,2005
+95,Dance Dance,Fall Out Boy,2005
+96,Lovers and Friends,Lil' Jon and the Eastside Boyz / Usher / Ludacris,2005
+97,Don't Bother,Shakira,2005
+98,Have A Nice Day,Bon Jovi,2005
+99,Laffy Taffy,D4L,2005
+100,Gone,Kelly Clarkson,2005
+1,Hips Don't Lie,Shakira featuring Wyclef Jean,2006
+2,Temperature,Sean Paul,2006
+3,I Write Sins Not Tragedies,Panic! At The Disco,2006
+4,SexyBack,Justin Timberlake,2006
+5,Everytime We Touch,Cascada,2006
+6,Too Little Too Late,JoJo,2006
+7,Dance Dance,Fall Out Boy,2006
+8,Promiscuous,Nelly Furtado featuring Timbaland,2006
+9,Give It Up To Me,Sean Paul,2006
+10,Far Away,Nickelback,2006
+11,S.O.S. (Rescue Me),Rihanna,2006
+12,My Love,Justin Timberlake featuring T.I.,2006
+13,You're Beautiful,James Blunt,2006
+14,Buttons,The Pussycat Dolls,2006
+15,Over My Head (Cable Car),The Fray,2006
+16,Unwritten,Natasha Bedingfield,2006
+17,Be Without You,Mary J. Blige,2006
+18,Ain't No Other Man,Christina Aguilera,2006
+19,What's Left Of Me,Nick Lachey,2006
+20,Let U Go,Ashley Parker Angel,2006
+21,Check On It,Beyonce featuring Slim Thug,2006
+22,Where'd You Go?,Fort Minor featuring Holly Brook & Jonah Matranga,2006
+23,How To Save A Life,The Fray,2006
+24,Me & U,Cassie,2006
+25,Savin' Me,Nickelback,2006
+26,Unfaithful,Rihanna,2006
+27,Move Along,The All-American Rejects,2006
+28,Ridin',Chamillionaire featuring Krayzie Bone,2006
+29,Right Here,Staind,2006
+30,Walk Away,Kelly Clarkson,2006
+31,Lips Of An Angel,Hinder,2006
+32,So Sick,Ne-Yo,2006
+33,Miracle,Cascada,2006
+34,Bad Day,Daniel Powter,2006
+35,Smack That,Akon featuring Eminem,2006
+36,Dirty Little Secret,The All-American Rejects,2006
+37,Gone,Kelly Clarkson,2006
+38,Stickwitu,The Pussycat Dolls,2006
+39,Call Me When You're Sober,Evanescence,2006
+40,Crazy,Gnarls Barkley,2006
+41,If It's Lovin' That You Want,Rihanna,2006
+42,Chasing Cars,Snow Patrol,2006
+43,Pump It,Black Eyed Peas,2006
+44,Hurt,Christina Aguilera,2006
+45,Crowded,Jeannie Ortega featuring Papoose,2006
+46,For You I Will (Confidence),Teddy Geiger,2006
+47,Money Maker,Ludacris featuring Pharell,2006
+48,Yo ' Sexy Love,Ne,2006
+49,American Rejects ' It Ends Tonight,The All,2006
+50,Run It!,Chris Brown featuring Juelz Santana,2006
+51,We Be Burnin' (Recognize It),Sean Paul,2006
+52,Gallery,Mario Vazquez,2006
+53,London Bridge (Oh Snap!),Fergie,2006
+54,Get Up,Ciara featuring Chamillionaire,2006
+55,Do It To It,Cherish featuring Sean Paul of the Youngbloodz,2006
+56,The Only Difference Between Martyrdom And Suicide Is Press Coverage,Panic! At The Disco,2006
+57,Tu Amor,RBD,2006
+58,Rompe,Daddy Yankee,2006
+59,Photograph,Nickelback,2006
+60,Come Back To Me,Vanessa Hudgens,2006
+61,Come To Me,Diddy featuring Nicole Scherzinger,2006
+62,Beep,The Pussycat Dolls featuring will.i.am,2006
+63,And She Said,Lucas Prata,2006
+64,When You Were Young,The Killers,2006
+65,I Can't Hate You Anymore,Nick Lachey,2006
+66,Stars Are Blind,Paris Hilton,2006
+67,Yo (Excuse Me Miss),Chris Brown,2006
+68,A Little Less 16 Candles A Little More (Touch Me),Fall Out Boy,2006
+69,One Wish,Ray J,2006
+70,Irreplaceable,Beyonce,2006
+71,About Us,Brooke Hogan featuring Paul Wall,2006
+72,Feel Good Inc.,Gorillaz,2006
+73,Say Goodbye,Chris Brown,2006
+74,U And Dat,E-40 featuring T-Pain and Kandi Girl,2006
+75,Stupid Girls,Pink,2006
+76,Walk Away,Paula DeAnda featuring The Dey,2006
+77,Right Where You Want Me,Jesse McCartney,2006
+78,Don't Forget About Us,Mariah Carey,2006
+79,I Go Crazy,D. H. T.,2006
+80,Girl Next Door,Saving Jane,2006
+81,Fergalicious,Fergie featuring will.i.am,2006
+82,L. O. V. E.,Ashlee Simpson,2006
+83,Break It Off,Rihanna featuring Sean Paul,2006
+84,Say I,Christina Milian featuring Young Jeezy,2006
+85,So What,Field Mob featuring Ciara,2006
+86,When You're Mad,Ne-Yo,2006
+87,Welcome To The Black Parade,My Chemical Romance,2006
+88,Show Stopper,Danity Kane,2006
+89,Breathe (2 A. M.),Anna Nalick,2006
+90,Grillz,Nelly featuring Paul Wall and Ali & Gipp,2006
+91,Doing Too Much,Paula DeAnda featuring Baby Bash,2006
+92,Crash,Gwen Stefani,2006
+93,I Wanna Love You,Akon featuring Snoop Dogg,2006
+94,Deja Vu,BeyoncÇ featuring Jay-Z,2006
+95,Say It Right,Nelly Furtado,2006
+96,Who I Am Hates Who I've Been,Relient K,2006
+97,A Public Affair,Jessica Simpson,2006
+98,Pullin' Me Back,Chingy featuring Tyrese,2006
+99,Gimme That,Chris Brown featuring Lil' Wayne,2006
+100,Wind It Up,. Gwen Stefani,2006
+1,The Way I Are,Timbaland & Keri Hilson,2007
+2,Give It To Me,Timbaland & Nelly Furtado & Justin Timberlake,2007
+3,U + Ur Hand,Pink,2007
+4,What Goes Around Comes Around,Justin Timberlake,2007
+5,Big Girls Don't Cry (Personal),Fergie,2007
+6,Say It Right,Nelly Furtado,2007
+7,Who Knew,Pink,2007
+8,The Great Escape,Boys Like Girls,2007
+9,Whine Up,Kat DeLuna & Elephant Man,2007
+10,It's Not Over,Daughtry,2007
+11,Tell Me,Diddy & Christina Aguilera,2007
+12,Thnks Fr Th Mmrs,Fall Out Boy,2007
+13,Summer Love,Justin Timberlake,2007
+14,Apologize,Timbaland & OneRepublic,2007
+15,Umbrella,Rihanna & Jay,2007
+16,Ayo Technology,Justin Timberlake & 50 Cent,2007
+17,Face Down,Red Jumpsuit Apparatus,2007
+18,Stronger,Kanye West,2007
+19,Wait For You,Eliott Yamin,2007
+20,Before He Cheats,Carrie Underwood,2007
+21,The Sweet Escape,Gwen Stefani,2007
+22,Hey There Delilah,Plain White Ts,2007
+23,Cupid's Chokehold,Gym Class Heroes,2007
+24,Because Of You,Ne,2007
+25,Makes Me Wonder,Maroon 5,2007
+26,Last Night,Diddy & Keyshia Cole,2007
+27,Home,Daughtry,2007
+28,Buy U A Drank,T,2007
+29,Girlfriend,Avril Lavigne,2007
+30,Bubbly,Colbie Caillat,2007
+31,Lovestoned,Justin Timberlake,2007
+32,She's Like The Wind,Lumidee & Tony Sunshine,2007
+33,Glamarous,Fergie,2007
+34,Beautiful Girls,Sean Kingston,2007
+35,Hate That I Love You,Rihanna & Ne,2007
+36,I Don't Wanna Be In Love,Good Charlotte,2007
+37,No One,Alicia Keys,2007
+38,Sexy Lady,Young Berg & Junior,2007
+39,Never Again,Kelly Clarkson,2007
+40,Gimme More,Britney Spears,2007
+41,Rockstar,Nickelback,2007
+42,Don't Matter,Akon,2007
+43,Tatto,Jordin Sparks,2007
+44,Beautiful Liar,Beyonce & Shakira,2007
+45,Like A Boy,Ciara,2007
+46,Over It,Katharine McPhee,2007
+47,Irreplaceable,Beyonce,2007
+48,Welcome To The Black Parade,My Chemical Romance,2007
+49,Shut Up And Drive,Rihanna,2007
+50,Make Me Better,Fabolous & Ne,2007
+51,Misery Business,Paramore,2007
+52,Walk Away (Remember Me),Paula DeAnda & Dey,2007
+53,When You're Gone,Avril Lavigne,2007
+54,Clumsy,Fergie,2007
+55,I Wanna Love You,Akon & Snoop Dogg,2007
+56,It Ends Tonight,All,2007
+57,Wall To Wall,Chris Brown,2007
+58,Over You,Daughtry,2007
+59,Here (In Your Arms),hellogoodbye,2007
+60,Ice Box,Omarion & Timbaland,2007
+61,S.O.S.,Jonas Brothers,2007
+62,Runaway Love,Ludacris & Mary J. Blige,2007
+63,How Far We've Come,Matchbox Twenty,2007
+64,Good Life,Kanye West & T,2007
+65,If Everyone Cared,Nickelback,2007
+66,Kiss Kiss,Chris Brown & T,2007
+67,Wake Up Call,Maroon 5,2007
+68,See You Again,Miley Cyrus,2007
+69,You,Lloyd & Lil Wayne,2007
+70,Rehab,Amy Winehouse,2007
+71,Party Like A Rockstar,Shop Boyz,2007
+72,Hero Herione,Boys Like Girls,2007
+73,Me Love,Sean Kingston,2007
+74,Keep Holding On,Avril Lavigne,2007
+75,Get It Shawty,Lloyd,2007
+76,What I've Done,Linkin Park,2007
+77,Crank That (Soulja Boy),Soulja Boy,2007
+78,I'm Like The Lawyer With The',Fall Out Boy,2007
+79,With Love,Hilary Duff,2007
+80,Calabria,Enur & Nataja,2007
+81,Stolen,Dashboard Confessional,2007
+82,Lost Without U,Thicke,2007
+83,Paralyzer,Finger Eleven,2007
+84,I Fell In Love With The DJ,Chenelle & Baby Cham,2007
+85,Don't Stop The Music,Rihanna,2007
+86,Inconsolable,Backstreet Boys,2007
+87,This Ain't A Scene It's An',Fall Out Boy,2007
+88,Take You There,Sean Kingston,2007
+89,Better Than Me,Hinder,2007
+90,Taking Chances,Celine Dion,2007
+91,This Is Why I'm Hot,Mims,2007
+92,Piece Of Me,Britney Spears,2007
+93,Waiting On The World To Change,John Mayer,2007
+94,Cyclone,Baby Bash,2007
+95,Shadow Of The Day,Linkin Park,2007
+96,Do It Well,Jennifer Lopez,2007
+97,Teardrops On My Guitar,Taylor Swift,2007
+98,Love Like This,Natasha Bedingfield & Sean Kingston,2007
+99,He Said She Said,Ashley Tisdale,2007
+100,Do It,Nelly Furtado,2007
+1,Forever,Chris Brown,2008
+2,Bleeding Love,Leona Lewis,2008
+3,Damaged,Danity Kane,2008
+4,No Air,Jordin Sparks F/Chris Brown,2008
+5,Dont Stop The Music,Rihanna,2008
+6,Closer,Ne-Yo,2008
+7,Break The Ice,Britney Spears,2008
+8,Disturbia,Rihanna,2008
+9,Low,Flo Rida F/T-Pain,2008
+10,What Hurts The Most,Cascada,2008
+11,Dangerous,Kardinal Offishall F/Akon,2008
+12,One Step At A Time,Jordin Sparks,2008
+13,Hot N Cold,Katy Perry,2008
+14,With You,Chris Brown,2008
+15,See You Again,Miley Cyrus,2008
+16,Leavin',Jesse McCartney,2008
+17,I Kissed A Girl,Katy Perry,2008
+18,Better In Time,Leona Lewis,2008
+19,Love In This Club,Usher F/Young Jeezy,2008
+20,Fall For You,Secondhand Serenade,2008
+21,So What,Pink,2008
+22,4 Minutes,Madonna,2008
+23,Take A Bow,Rihanna,2008
+24,Cry For You,September,2008
+25,All Around Me,Flyleaf,2008
+26,When I Grow Up,Pussycat Dolls,2008
+27,Love Song,Sara Bareilles,2008
+28,American Boy,Estelle F/Kanye West,2008
+29,Love Is Gone,David Guetta & Chris Willis,2008
+30,Pocketful Of Sunshine,Natasha Bedingfield,2008
+31,Calabria 2008,Enur F/Natasja,2008
+32,Let It Rock,Kevin Rudolf F/Lil Wayne,2008
+33,Sexy Can I,Ray J & Yung Berg,2008
+34,Stop And Stare,OneRepublic,2008
+35,Miss Independent,Ne-Yo,2008
+36,Run The Show,Kat DeLuna F/Busta Rhymes,2008
+37,Misery Business,Paramore,2008
+38,Womanizer,Britney Spears,2008
+39,Shake It,Metro Station,2008
+40,No One,Alicia Keys,2008
+41,Shadow Of The Day,Linkin Park,2008
+42,Killa,Cherish F/Yung Joc,2008
+43,Viva La Vida,Coldplay,2008
+44,Kiss Kiss,Chris Brown & T-Pain,2008
+45,That's What You Get,Paramore,2008
+46,Crush,David Archuleta,2008
+47,Live Your Life,T.I. F/Rihanna,2008
+48,When You Look Me In The Eyes,Jonas Brothers,2008
+49,Piece Of Me,Britney Spears,2008
+50,Just Dance,Lady Gaga F/Colby O'Donis,2008
+51,Hate That I Love You,Rihanna & Ne-Yo,2008
+52,Stronger,Kanye West,2008
+53,Paper Planes,M.I.A.,2008
+54,I'm Yours,Jason Mraz,2008
+55,Faded,Cascada,2008
+56,What You Got,Colby O'Donis F/Akon,2008
+57,Feels Like Tonight,Daughtry,2008
+58,Right Here (Departed),Brandy,2008
+59,7 Things,Miley Cyrus,2008
+60,Whatever You Like,T.I.,2008
+61,In Love With A Girl,Gavin Degraw,2008
+62,T-Shirt,Shontelle,2008
+63,Love Lockdown,Kanye West,2008
+64,Check Yes Juliet,We The Kings,2008
+65,Lollipop,Lil Wayne F/Static Major,2008
+66,Burnin' Up,Jonas Brothers,2008
+67,If I Were A Boy,Beyonce,2008
+68,Addicted,Saving Abel,2008
+69,Touch My Body,Mariah Carey,2008
+70,Say,John Mayer,2008
+71,Right Now (Na Na Na),Akon,2008
+72,Gotta Be Somebody,Nickelback,2008
+73,Rehab,Rihanna,2008
+74,Keeps Gettin' Better,Christina Aguilera,2008
+75,Teardrops On My Guitar,Taylor Swift,2008
+76,Untouched,Veronicas,2008
+77,Just Stand Up!,Artists Stand Up To Cancer,2008
+78,All Summer Long,Kid Rock,2008
+79,Spotlight,Jennifer Hudson,2008
+80,Seventeen Forever,Metro Station,2008
+81,Mercy,Duffy,2008
+82,Crushcrushcrush,Paramore,2008
+83,I Hate This Part,Pussycat Dolls,2008
+84,In The Ayer,Flo Rida F/Will.I.Am,2008
+85,Realize,Colbie Caillat,2008
+86,Summertime,New Kids On The Block,2008
+87,Thunder,Boys Like Girls,2008
+88,What About Now,Daughtry,2008
+89,Circus,Britney Spears,2008
+90,Love Story,Taylor Swift,2008
+91,It's Over,Jesse McCartney,2008
+92,Decode,Paramore,2008
+93,Take You There,Sean Kingston,2008
+94,Light On,David Cook,2008
+95,Sweetest Girl (Dollar Bill),Wyclef Jean,2008
+96,Sober,Pink,2008
+97,Superstar,Lupe Fiasco F/Matthew Santos,2008
+98,Sorry,Buckcherry,2008
+99,The Anthem,Pitbull F/Lil Jon,2008
+100,Love Remains The Same,0 Gavin Rossdale,2008
+1,I Gotta Feeling,Black Eyed Peas,2009
+2,You Belong With Me,Taylor Swift,2009
+3,Poker Face,Lady Gaga,2009
+4,Down,Jay Sean F/Lil' Wayne,2009
+5,My Life Would Suck Without You,Kelly Clarkson,2009
+6,Halo,Beyonce,2009
+7,Right Round,Flo Rida F/Ke$ha,2009
+8,Just Dance,Lady Gaga F/Colby O'Donis & Akon,2009
+9,Evacuate The Dancefloor,Cascada,2009
+10,Battlefield,Jordin Sparks,2009
+11,Gives You Hell,All-American Rejects,2009
+12,Knock You Down,Keri Hilson F/Kanye West & Ne-Yo,2009
+13,Waking Up In Vegas,Katy Perry,2009
+14,Dead & Gone,T.I. F/Justin Timberlake,2009
+15,Boom Boom Pow,Black Eyed Peas,2009
+16,Use Somebody,Kings Of Leon,2009
+17,I Know You Want Me (Calle Ocho),Pitbull,2009
+18,Love Story,Taylor Swift,2009
+19,Paparazzi,Lady Gaga,2009
+20,You Found Me,The Fray,2009
+21,Sober,P!nk,2009
+22,Circus,Britney Spears,2009
+23,The Climb,Miley Cyrus,2009
+24,Sweet Dreams,Beyonce,2009
+25,Good Girls Go Bad,Cobra Starship F/Leighton Meester,2009
+26,3,Britney Spears,2009
+27,Love Lockdown,Kanye West,2009
+28,Live Your Life,T.I. F/Rihanna,2009
+29,I Hate This Part,Pussycat Dolls,2009
+30,Empire State Of Mind,Jay-Z F/Alicia Keys,2009
+31,I'm Yours,Jason Mraz,2009
+32,If U See Amy,Britney Spears,2009
+33,LoveGame,Lady Gaga,2009
+34,Fire Burning,Sean Kingston,2009
+35,How Do You Sleep,Jesse McCartney F/Ludacris,2009
+36,Party In The U.S.A.,Miley Cyrus,2009
+37,Single Ladies (Put A Ring On It),Beyonce,2009
+38,Don't Trust Me,3OH!3,2009
+39,Please Don't Leave Me,P!nk,2009
+40,Run This Town,Jay-Z F/Rihanna & Kayne West,2009
+41,I Do Not Hook Up,Kelly Clarkson,2009
+42,Heartless,Kanye West,2009
+43,When Love Takes Over,David Guetta F/Kelly Rowland,2009
+44,Mad,Ne-Yo,2009
+45,Whatcha Say,Jason Derulo,2009
+46,Obsessed,Mariah Carey,2009
+47,Love Drunk,Boys Like Girls,2009
+48,Best I Ever Had,Drake,2009
+49,Feel Your Love,Kim Sozzi,2009
+50,Goodbye,Kristinia DeBarge,2009
+51,Hush Hush; Hush Hush,Pussycat Dolls,2009
+52,Untouched,Veronicas,2009
+53,Miss Independent,Ne-Yo,2009
+54,Blame It,Jamie Foxx F/T,2009
+55,Hotel Room Service,Pitbull,2009
+56,Already Gone,Kelly Clarkson,2009
+57,Radar,Britney Spears,2009
+58,Gotta Be Somebody,Nickelback,2009
+59,TiK ToK,Ke$ha,2009
+60,Kiss Me Thru The Phone,Soulja Boy F/Sammie,2009
+61,So Fine,Sean Paul,2009
+62,Second Chance,Shinedown,2009
+63,Meet Me Halfway,Black Eyed Peas,2009
+64,Beautiful,Akon F/Colby O'Donis & Kardinal Offishall,2009
+65,Love Sex Magic,Ciara F/Justin Timberlake,2009
+66,Bad Romance,Lady Gaga,2009
+67,Thinking Of You,Katy Perry,2009
+68,One Time,Justin Bieber,2009
+69,Never Say Never,The Fray,2009
+70,Sugar,Flo Rida F/Wynter,2009
+71,Replay,Iyaz,2009
+72,Live Like We're Dying,Kris Allen,2009
+73,Give It Up To Me,Shakira F/Lil' Wayne,2009
+74,Body Language,Jesse McCartney F/T-Pain,2009
+75,I Will Be,Leona Lewis,2009
+76,Day 'N' Nite,Kid Cudi,2009
+77,She Wolf,Shakira,2009
+78,Womanizer,Britney Spears,2009
+79,Crack A Bottle,Eminem F/Dr. Dre & 50 Cent,2009
+80,Sexy Chick,David Guetta F/Akon,2009
+81,Throw It In The Bag,Fabolous F/The Dream,2009
+82,Right Now (Na Na Na),Akon,2009
+83,Russian Roulette,Rihanna,2009
+84,Birthday Sex,Jeremih,2009
+85,One Less Lonely Girl,Justin Bieber,2009
+86,Come On Get Higher,Matt Nathanson,2009
+87,Do You Remember,Jay Sean F/Sean Paul & Lil Jon,2009
+88,Now I'm That Chick,Livvi Franc F/Pitbull,2009
+89,Fireflies,Owl City,2009
+90,Infinity 2008,Guru Josh Project,2009
+91,No Surprise,Daughtry,2009
+92,That's Not My Name,Ting Tings,2009
+93,Welcome To The World,Kevin Rudolf,2009
+94,Fallin' For You,Colbie Caillat,2009
+95,Paranoid,Jonas Brothers,2009
+96,If I Were A Boy,Beyonce,2009
+97,Green Light,John Legend F/Andre 3000,2009
+98,Say Hey (I Love You),Michael Franti & Spearhead F/Cherine Anderson,2009
+99,Fifteen,Taylor Swift,2009
+100,Be On You,Flo Rida F/Ne-Yo,2009
+1,Airplanes,B.o.B F/ Hayley Williams,2010
+2,Break Your Heart,Taio Cruz F/ Ludacris,2010
+3,Bad Romance,Lady Gaga,2010
+4,Love The Way You Lie,Eminem F/ Rihanna,2010
+5,In My Head,Jason Derulo,2010
+6,I Like It,Enrique Iglesias F/ Pitbull,2010
+7,Just The Way You Are,Bruno Mars,2010
+8,California Gurls,Katy Perry F/ Snoop Dogg,2010
+9,Telephone,Lady Gaga F/ Beyonce,2010
+10,Dynamite,Taio Cruz,2010
+11,Breakeven,The Script,2010
+12,Your Love Is My Drug,Ke$ha,2010
+13,DJ Got Us Fallin' In Love,Usher F/ Pitbull,2010
+14,Whataya Want From Me,Adam Lambert,2010
+15,Bulletproof,La Roux,2010
+16,All The Right Moves,OneRepublic,2010
+17,Alejandro,Lady Gaga,2010
+18,OMG,Usher F/ will.i.am,2010
+19,Impossible,Shontelle,2010
+20,Sexy Chick,David Guetta F/ Akon,2010
+21,Rude Boy,Rihanna,2010
+22,According To You,Orianthi,2010
+23,Billionaire,Travie McCoy F/ Bruno Mars,2010
+24,TiK ToK,Ke$ha,2010
+25,Cooler Than Me,Mike Posner,2010
+26,Teenage Dream,Katy Perry,2010
+27,Nothin' On You,B.o.B F/ Bruno Mars,2010
+28,Need You Now,Lady Antebellum,2010
+29,Club Can't Handle Me,FloRida F/ David Guetta,2010
+30,Carry Out,Timbaland F/ Justin Timberlake,2010
+31,Hey Soul Sister,Train,2010
+32,Only Girl (In The World),Rihanna,2010
+33,Not Afraid,Eminem,2010
+34,Naturally,Selena Gomez & The Scene,2010
+35,Find Your Love,Drake,2010
+36,Gettin' Over You,David Guetta & Chris Willis F/ Fergie & LMFAO,2010
+37,Hard,Rihanna F/ Jeezy,2010
+38,Take It Off,Ke$ha,2010
+39,If I Had You,Adam Lambert,2010
+40,3,Britney Spears,2010
+41,I Made It (Cash Money Heroes),Kevin Rudolf F/ Birdman Jay Sean & Lil Wayne,2010
+42,Haven't Met You Yet,Michael Buble,2010
+43,Ridin' Solo,Jason Derulo,2010
+44,Animal,Neon Trees,2010
+45,BedRock,Young Money F/ Lloyd,2010
+46,Misery,Maroon 5,2010
+47,Just A Dream,Nelly,2010
+48,Secrets,OneRepublic,2010
+49,Like A G6,Far East Movement F/ Cataracs & Dev,2010
+50,Mine,Taylor Swift,2010
+51,Stereo Love,Edward Maya F/ Vika Jigulina,2010
+52,Magic,B.o.B F/ Rivers Cuomo,2010
+53,Live Like We're Dying,Kris Allen,2010
+54,Young Forever,Jay-Z F/ Mr Hudson,2010
+55,Please Don't Go,Mike Posner,2010
+56,Kissin U,Miranda Cosgrove,2010
+57,Empire State Of Mind,Jay-Z F/ Alicia Keys,2010
+58,Today Was A Fairytale,Taylor Swift,2010
+59,If We Ever Meet Again,Timbaland F/ Katy Perry,2010
+60,Raise Your Glass,P!nk,2010
+61,Hot Tottie,Usher F/ Jay-Z,2010
+62,Imma Be,Black Eyed Peas,2010
+63,We R Who We R,Ke$ha,2010
+64,The Only Exception,Paramore,2010
+65,2012 (It Ain't The End),Jay Sean F/ Nicki Minaj,2010
+66,Hold Yuh,Gyptian,2010
+67,Two Is Better Than One,Boys Like Girls F/ Taylor Swift,2010
+68,Rock That Body,Black Eyed Peas,2010
+69,We'll Be A Dream,We The Kings F/ Demi Lovato,2010
+70,Blah Blah Blah,Ke$ha F/ 3OH!3,2010
+71,Grenade,Bruno Mars,2010
+72,Can't Be Tamed,Miley Cyrus,2010
+73,Do You Remember,Jay Sean F/ Sean Paul & Lil Jon,2010
+74,Fireflies,Owl City,2010
+75,Say Aah,Trey Songz F/ Fabolous,2010
+76,Firework,Katy Perry,2010
+77,Beautiful Monster,Ne-Yo,2010
+78,If It's Love,Train,2010
+79,Baby,Justin Bieber F/ Ludacris,2010
+80,King Of Anything,Sara Bareilles,2010
+81,My First Kiss,3OH!3 F/ Ke$ha,2010
+82,Shut It Down,Pitbull F/ Akon,2010
+83,Shake,Jesse McCartney,2010
+84,How Low,Ludacris,2010
+85,Not Myself Tonight,Christina Aguilera,2010
+86,Somebody To Love,Justin Bieber F/ Usher,2010
+87,Letting Go (Dutty Love),Sean Kingston F/ Nicki Minaj,2010
+88,Fifteen,Taylor Swift,2010
+89,Yeah 3X,Chris Brown,2010
+90,Russian Roulette,Rihanna,2010
+91,Love Like Woe,The Ready Set,2010
+92,Rocketeer,Far East Movement F/ Ryan Tedder,2010
+93,Round & Round,Selena Gomez & The Scene,2010
+94,No Love,Eminem F/ Lil Wayne,2010
+95,La La La,Auburn F/ Iyaz,2010
+96,Tonight,Enrique Iglesias F/ Ludacris,2010
+97,We No Speak Americano,Yolanda Be Cool & D-Cup,2010
+98,Eenie Meenie,Sean Kingston & Justin Beiber,2010
+99,Higher,Taio Cruz F/ Travie McCoy,2010
+100,Whip My Hair,Willow,2010
+1,E.T.,Katy Perry F/Kanye West,2011
+2,Give Me Everything,Pitbull F/Ne-Yo Afrojack & Nayer,2011
+3,Till The World Ends,Britney Spears,2011
+4,Party Rock Anthem,LMFAO F/Lauren Bennett & GoonRock,2011
+5,Rolling In The Deep,Adele,2011
+6,Tonight (I'm Lovin' You),Enrique Iglesias F/Ludacris & DJ Frank E,2011
+7,Good Life,OneRepublic,2011
+8,Grenade,Bruno Mars,2011
+9,Born This Way,Lady Gaga,2011
+10,Moves Like Jagger,Maroon 5 F/Christina Aguilera,2011
+11,Last Friday Night (T.G.I.F.),Katy Perry,2011
+12,I Wanna Go,Britney Spears,2011
+13,Lighters,Bad Meets Evil F/Bruno Mars,2011
+14,Yeah 3x,Chris Brown,2011
+15,Forget You,Cee Lo Green,2011
+16,S&M,Rihanna,2011
+17,Stereo Hearts,Gym Class Heroes F/Adam Levine,2011
+18,On The Floor,Jennifer Lopez F/Pitbull,2011
+19,Someone Like You,Adele,2011
+20,Just Can't Get Enough,Black Eyed Peas,2011
+21,For The First Time,The Script,2011
+22,Super Bass,Nicki Minaj,2011
+23,Firework,Katy Perry,2011
+24,More,Usher,2011
+25,Written In The Stars,Tinie Tempah F/Eric Turner,2011
+26,You Make Me Feel...,Cobra Starship F/Sabi,2011
+27,Blow,Ke$ha,2011
+28,Coming Home,Diddy Dirty Money F/Skylar Grey,2011
+29,Mr. Saxobeat,Alexandra Stan,2011
+30,The Edge Of Glory,Lady Gaga,2011
+31,Tonight Tonight,Hot Chelle Rae,2011
+32,Hold It Against Me,Britney Spears,2011
+33,Hey Baby (Drop It To The Floor),Pitbull F/T-Pain,2011
+34,The Lazy Song,Bruno Mars,2011
+35,We R Who We R,Ke$ha,2011
+36,F**kin' Perfect,P!nk,2011
+37,In The Dark,Dev,2011
+38,Hello,Martin Solveig F/Dragonette,2011
+39,If I Die Young,The Band Perry,2011
+40,You And I,Lady Gaga,2011
+41,Stereo Love,Edward Maya F/Vika Jigulina,2011
+42,Pumped Up Kicks,Foster The People,2011
+43,The Show Goes On,Lupe Fiasco,2011
+44,Who Says,Selena Gomez & The Scene,2011
+45,Without You,David Guetta F/Usher,2011
+46,Don't Wanna Go Home,Jason Derulo,2011
+47,We Found Love,Rihanna F/Calvin Harris,2011
+48,What The Hell,Avril Lavigne,2011
+49,Price Tag,Jessie J F/B.o.B,2011
+50,How To Love,Lil Wayne,2011
+51,What's My Name?,Rihanna F/Drake,2011
+52,Higher,Taio Cruz F/Travie McCoy,2011
+53,Rocketeer,Far*East Movement F/Ryan Tedder,2011
+54,Take Over Control,Afrojack F/Eva Simons,2011
+55,Mr. Know It All,Kelly Clarkson,2011
+56,Cheers (Drink To That),Rihanna,2011
+57,Back To December,Taylor Swift,2011
+58,She Ain't You,Chris Brown,2011
+59,Sexy And I Know It,LMFAO,2011
+60,Fly,Nicki Minaj F/Rihanna,2011
+61,Skyscraper,Demi Lovato,2011
+62,Raise Your Glass,P!nk,2011
+63,The Time (Dirty Bit),Black Eyed Peas,2011
+64,Best Thing I Never Had,Beyonce,2011
+65,Nothing,The Script,2011
+66,Where Them Girls At,David Guetta F/Flo Rida & Nicki Minaj,2011
+67,Every Teardrop Is A Waterfall,Coldplay,2011
+68,California King Bed,Rihanna,2011
+69,Please Don't Go,Mike Posner,2011
+70,Judas,Lady Gaga,2011
+71,Down On Me,Jeremih F/50 Cent,2011
+72,The One That Got Away,Katy Perry,2011
+73,Pretty Girl Rock,Keri Hilson,2011
+74,The Story Of Us,Taylor Swift,2011
+75,Criminal,Britney Spears,2011
+76,I Need A Doctor,Dr. Dre F/Eminem & Skylar Grey,2011
+77,King of Anything,Sara Bareilles,2011
+78,It Will Rain,Bruno Mars,2011
+79,Right There,Nicole Scherzinger F/50 Cent,2011
+80,Mine,Taylor Swift,2011
+81,Dirty Dancer,Enrique Iglesias & Usher F/Lil Wayne,2011
+82,Like A G6,Far*East Movement F/The Cataracs & Dev,2011
+83,It Girl,Jason DerÅlo,2011
+84,Who Dat Girl,Flo Rida F/Akon,2011
+85,Not Over You,Gavin DeGraw,2011
+86,I'm Into You,Jennifer Lopez F/Lil Wayne,2011
+87,Roll Up,Wiz Khalifa,2011
+88,Rain Over Me,Pitbull F/Marc Anthony,2011
+89,Pretty Girls,Iyaz F/Travie McCoy,2011
+90,Domino,Jessie J,2011
+91,Hit The Lights,Jay Sean F/Lil Wayne,2011
+92,Waiting For The End,Linkin Park,2011
+93,This City,Patrick Stump F/Lupe Fiasco,2011
+94,Motivation,Kelly Rowland F/Lil Wayne,2011
+95,Marry The Night,Lady Gaga,2011
+96,Moment 4 Life,Nicki Minaj F/Drake,2011
+97,Run The World (Girls),Beyonce,2011
+98,Good Feeling,Flo Rida,2011
+99,Jar Of Hearts,Christina Perri,2011
+100,Who's That Chick',David Guetta F/Rihanna,2011
+1,Titanium,David Guetta ft. Sia,2012
+2,Give Your Heart A Break,Demi Lovato,2012
+3,Payphone,Maroon 5 ft. Wiz Khalifa,2012
+4,Call Me Maybe,Carly Rae Jepsen,2012
+5,We Are Young,Fun. ft. Janelle Monae,2012
+6,Stronger (What Doesn't Kill You),Kelly Clarkson,2012
+7,Somebody That I Used To Know,Gotye ft. Kimbra,2012
+8,Wild Ones,Flo Rida ft. Sia,2012
+9,Glad You Came,The Wanted,2012
+10,We Found Love,Rihanna ft. Calvin Harris,2012
+11,What Makes You Beautiful,One Direction,2012
+12,Starships,Nicki Minaj,2012
+13,Blow Me (One Last Kiss),P!nk,2012
+14,Some Nights,Fun.,2012
+15,Where Have You Been,Rihanna,2012
+16,Lights,Ellie Goulding,2012
+17,Let Me Love You (Until You Learn to Love Yourself),Ne-Yo,2012
+18,One More Night,Maroon 5,2012
+19,Good Feeling,Flo Rida,2012
+20,Wide Awake,Katy Perry,2012
+21,Turn Me On,David Guetta ft. Nicki Minaj,2012
+22,Set Fire To The Rain,Adele,2012
+23,As Long As You Love Me,Justin Bieber ft. Big Sean,2012
+24,I Won't Give Up,Jason Mraz,2012
+25,Don't Wake Me Up,Chris Brown,2012
+26,Home,Phillip Phillips,2012
+27,Good Time,Owl City & Carly Rae Jepsen,2012
+28,International Love,Pitbull ft. Chris Brown,2012
+29,We Are Never Ever Getting Back Together,Taylor Swift,2012
+30,Without You,David Guetta ft. Usher,2012
+31,Everybody Talks,Neon Trees,2012
+32,Die Young,Ke$ha,2012
+33,Part Of Me,Katy Perry,2012
+34,Scream,Usher,2012
+35,Too Close,Alex Clare,2012
+36,Locked Out Of Heaven,Bruno Mars,2012
+37,Diamonds,Rihanna,2012
+38,Feel So Close,Calvin Harris,2012
+39,Take Care,Drake ft. Rihanna,2012
+40,Rumour Has It,Adele,2012
+41,Domino,Jessie J,2012
+42,Both Of Us,B.o.B ft. Taylor Swift,2012
+43,Brokenhearted,Karmin,2012
+44,Ass Back Home,Gym Class Heroes ft. Neon Hitch,2012
+45,Let's Go,Calvin Harris ft. Ne-Yo,2012
+46,Drive By,Train,2012
+47,Boyfriend,Justin Bieber,2012
+48,The A Team,Ed Sheeran,2012
+49,Tonight Is The Night,Outasight,2012
+50,Whistle,Flo Rida,2012
+51,Love You Like A Love Song,Selena Gomez & The Scene,2012
+52,Not Over You,Gavin DeGraw,2012
+53,We Run The Night,Havana Brown ft. Pitbull,2012
+54,The Fighter,Gym Class Heroes ft. Ryan Tedder,2012
+55,Turn Up The Music,Chris Brown,2012
+56,Dark Side,Kelly Clarkson,2012
+57,Pound The Alarm,Nicki Minaj,2012
+58,Can't Stop Me,Afrojack & Shermanology,2012
+59,Gangnam Style,PSY,2012
+60,Tongue Tied,Grouplove,2012
+61,It Will Rain,Bruno Mars,2012
+62,Levels,Avicii,2012
+63,Finally Found You,Enrique Iglesias ft Sammy Adams,2012
+64,Live While We're Young,One Direction,2012
+65,Want U Back,Cher Lloyd,2012
+66,Ni**as In Paris,Jay Z & Kanye West,2012
+67,Ready Or Not,Bridgit Mendler,2012
+68,Back In Time,Pitbull,2012
+69,50 Ways To Say Goodbye,Train,2012
+70,Va Va Voom,Nicki Minaj,2012
+71,Girl On Fire,Alicia Keys,2012
+72,Don't You Worry Child,Swedish House Mafia ft. John Martin,2012
+73,Heart Skips A Beat,Olly Murs ft. Chiddy Bang,2012
+74,I Cry,Flo Rida,2012
+75,Your Body,Christina Aguilera,2012
+76,Eyes Open,Taylor Swift,2012
+77,How We Do (Party),Rita Ora,2012
+78,Young Wild & Free,Wiz Khalifa & Snoop Dogg ft. Bruno Mars,2012
+79,Now or Never,Outasight,2012
+80,Dance Again,Jennifer Lopez ft. Pitbull,2012
+81,The One That Got Away,Katy Perry,2012
+82,In The Dark,Dev,2012
+83,So Good,B.o.B (ft. Ryan Tedder),2012
+84,Chasing The Sun,The Wanted,2012
+85,Sexy and I Know It,LMFAO,2012
+86,Burn It Down,Linkin Park,2012
+87,Numb,Usher,2012
+88,One Thing,One Direction,2012
+89,Blackout,Breathe Carolina,2012
+90,Hello,Karmin,2012
+91,Is Anybody Out There?,K'Naan ft. Nelly Furtado,2012
+92,You da One,Rihanna,2012
+93,Heartbeat,The Fray,2012
+94,Work Out,J. Cole,2012
+95,It's Time,Imagine Dragons,2012
+96,Marry The Night,Lady Gaga,2012
+97,Feel Again,OneRepublic,2012
+98,Stereo Hearts,Gym Class Heroes ft. Adam Levine,2012
+99,Oath,Cher Lloyd ft. Becky G.,2012
+100,Ho Hey,Lumineers,2012
+1,Blurred Lines,Robin Thicke feat. Pharrell and T.I.,2013
+2,Thrift Shop,Macklemore & Ryan Lewis feat. Wanz,2013
+3,Just Give Me A Reason,P!nk feat. Nate Ruess,2013
+4,Can't Hold Us,Macklemore & Ryan Lewis feat. Ray Dalton,2013
+5,Radioactive,Imagine Dragons,2013
+6,Mirrors,Justin Timberlake,2013
+7,Stay,Rihanna,2013
+8,When I Was Your Man,Bruno Mars feat. Mikky Ekko,2013
+9,I Knew You Were Trouble,Taylor Swift,2013
+10,Roar,Katy Perry,2013
+11,Royals,Lorde,2013
+12,Get Lucky,Daft Punk feat. Pharrell Williams,2013
+13,Suit & Tie,Justin Timberlake feat. Jay-Z,2013
+14,Locked Out Of Heaven,Bruno Mars,2013
+15,Ho Hey,The Lumineers,2013
+16,Scream & Shout,will.i.am and Britney Spears,2013
+17,We Can't Stop,Miley Cyrus,2013
+18,I Love It,Icona Pop feat. Charli XCX,2013
+19,Don't You Worry Child,Swedish House Mafia feat. John Martin,2013
+20,Wake Me Up,Avicii,2013
+21,Daylight,Maroon 5,2013
+22,Cruise,Florida Georgia Line feat. Nelly,2013
+23,Holy Grail,Jay-Z,2013
+24,Come & Get It,Selena Gomez,2013
+25,Gangnam Style,Psy,2013
+26,Feel This Moment,Pitbull feat. Christina Aguilera,2013
+27,Safe and Sound,Capital Cities,2013
+28,Clarity,ZEDD feat. Foxes,2013
+29,Same Love,Macklemore & Ryan Lewis feat. Mary Lambert,2013
+30,Treasure,Bruno Mars,2013
+31,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,2013
+32,Cups,Anna Kendrick,2013
+33,Sweet Nothing,Calvin Harris feat. Florence Welch,2013
+34,Diamonds,Rihanna,2013
+35,Heart Attack,Demi Lovato,2013
+36,Try,P!nk,2013
+37,The Way,Ariana Grande feat. Mac Miller,2013
+38,One More Night,Maroon 5,2013
+39,I Will Wait,Mumford & Sons,2013
+40,Wrecking Ball,Miley Cyrus,2013
+41,It's Time,Imagine Dragons,2013
+42,Love Somebody,Maroon 5,2013
+43,Little Talks,Of Monsters And Men,2013
+44,Home,Phillip Phillips,2013
+45,Some Nights,fun.,2013
+46,I Need Your Love,Calvin Harris feat. Ellie Goulding,2013
+47,Beauty And A Beat,Justin Bieber feat. Nicki Minaj,2013
+48,Catch My Breath,Kelly Clarkson,2013
+49,The Other Side,Jason Derulo,2013
+50,Carry On,fun.,2013
+51,Gone Gone Gone,Phillip Phillips,2013
+52,Hold On We're Going Home,Drake,2013
+53,Summertime Sadness,Lana Del Rey,2013
+54,Sail,AWOLNATION,2013
+55,Next to Me,Emeli Sande,2013
+56,22,Taylor Swift,2013
+57,Girl On Fire,Alicia Keys,2013
+58,Applause,Lady Gaga,2013
+59,Troublemaker,Olly Murs feat. Flo Rida,2013
+60,Madness,Muse,2013
+61,I Cry,Flo Rida,2013
+62,#thatPOWER,will.i.am feat. Justin Bieber,2013
+63,Alive,Krewella,2013
+64,Demons,Imagine Dragons,2013
+65,Best Song Ever,One Direction,2013
+66,We Are Never Ever Getting Back Together,Taylor Swift,2013
+67,Let Me Love You (Until You Learn To Love Yourself),Ne Yo,2013
+68,I Won't Give Up,Jason Mraz,2013
+69,Lego House,Ed Sheeran,2013
+70,Here's To Never Growing Up,Avril Lavigne,2013
+71,Kiss You,One Direction,2013
+72,Counting Stars,OneRepublic,2013
+73,Still Into You,Paramore,2013
+74,Brave,Sara Bareilles,2013
+75,Sweater Weather,The Neighbourhood,2013
+76,Let Her Go,Passenger,2013
+77,Everything Has Changed,Taylor Swift,2013
+78,Take Back The Night,Justin Timberlake,2013
+79,Wild Ones,Flo Rida feat. Sia,2013
+80,Drive By,Train,2013
+81,True Love,P!nk feat. Lily Allen,2013
+82,Give It 2 U,Robin Thicke feat. Kenrick Lamar,2013
+83,Right Now,Rihanna,2013
+84,Slow Down,Selena Gomez,2013
+85,Turn The Night Up,Enrique Iglesias,2013
+86,Closer,Tegan & Sara,2013
+87,Gorilla,Bruno Mars,2013
+88,Work B**ch,Britney Spears,2013
+89,Chloe (You're The One I Want),Emblem3,2013
+90,White Walls,Macklemore & Ryan Lewis feat. ScHoolboy Q and Hollis,2013
+91,The A Team,Ed Sheeran,2013
+92,#Beautiful,Mariah Carey feat. Miguel,2013
+93,Harlem Shake,Baauer,2013
+94,Berzerk,Eminem,2013
+95,Fine China,Chris Brown,2013
+96,Crooked Smile,J. Cole feat. TLC,2013
+97,Beat It,Sean Kingston,2013
+98,Little Things,One Direction,2013
+99,Crazy Kids,Ke$ha,2013
+100,People Like Us,Kelly Clarkson,2013

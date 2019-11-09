@@ -1,0 +1,23 @@
+     1                                  ;File: jumps.asm
+     2                                  ;
+     3                                  ;Demonstrating near and short jumps
+     4                                  ;
+     5                                  
+     6                                  	SECTION .text
+     7                                  	global _start
+     8 00000000 90                      _start: nop
+     9                                  	;initialize
+    10 00000001 B811000000              start:	mov rax,17	;rax = 17
+    11 00000006 4883F82A                	cmp rax,42	; 17-42 is
+    12                                  
+    13 0000000A 7D11                    	jge exit	;exit if 17 >= 42
+    14 0000000C 7D0F                    	jge short exit
+    15 0000000E 0F8D09000000            	jge near exit
+    16                                  
+    17 00000014 EB07                    	jmp exit
+    18 00000016 EB05                    	jmp short exit
+    19 00000018 E900000000              	jmp near exit
+    20                                  
+    21 0000001D BF00000000              exit:	mov rdi,0	; exit code, 0=normal
+    22 00000022 B83C000000                      mov rax,60	; exit system routine
+    23 00000027 0F05                    	syscall		; call kernel

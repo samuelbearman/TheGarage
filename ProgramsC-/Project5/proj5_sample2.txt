@@ -1,0 +1,356 @@
+./proj5 p5_music1.txt
+Welcome to UMBC Music Player
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Quit
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Quit
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Quit
+Which year would you like to display? (1983-2013)
+Which year would you like to display? (1983-2013)
+Which year would you like to display? (1983-2013)
+******2012*****
+2901. Titanium by David Guetta ft. Sia
+2902. Give Your Heart A Break by Demi Lovato
+2903. Payphone by Maroon 5 ft. Wiz Khalifa
+2904. Call Me Maybe by Carly Rae Jepsen
+2905. We Are Young by Fun. ft. Janelle Monae
+2906. Stronger (What Doesn't Kill You) by Kelly Clarkson
+2907. Somebody That I Used To Know by Gotye ft. Kimbra
+2908. Wild Ones by Flo Rida ft. Sia
+2909. Glad You Came by The Wanted
+2910. We Found Love by Rihanna ft. Calvin Harris
+2911. What Makes You Beautiful by One Direction
+2912. Starships by Nicki Minaj
+2913. Blow Me (One Last Kiss) by P!nk
+2914. Some Nights by Fun.
+2915. Where Have You Been by Rihanna
+2916. Lights by Ellie Goulding
+2917. Let Me Love You (Until You Learn to Love Yourself) by Ne-Yo
+2918. One More Night by Maroon 5
+2919. Good Feeling by Flo Rida
+2920. Wide Awake by Katy Perry
+2921. Turn Me On by David Guetta ft. Nicki Minaj
+2922. Set Fire To The Rain by Adele
+2923. As Long As You Love Me by Justin Bieber ft. Big Sean
+2924. I Won't Give Up by Jason Mraz
+2925. Don't Wake Me Up by Chris Brown
+2926. Home by Phillip Phillips
+2927. Good Time by Owl City & Carly Rae Jepsen
+2928. International Love by Pitbull ft. Chris Brown
+2929. We Are Never Ever Getting Back Together by Taylor Swift
+2930. Without You by David Guetta ft. Usher
+2931. Everybody Talks by Neon Trees
+2932. Die Young by Ke$ha
+2933. Part Of Me by Katy Perry
+2934. Scream by Usher
+2935. Too Close by Alex Clare
+2936. Locked Out Of Heaven by Bruno Mars
+2937. Diamonds by Rihanna
+2938. Feel So Close by Calvin Harris
+2939. Take Care by Drake ft. Rihanna
+2940. Rumour Has It by Adele
+2941. Domino by Jessie J
+2942. Both Of Us by B.o.B ft. Taylor Swift
+2943. Brokenhearted by Karmin
+2944. Ass Back Home by Gym Class Heroes ft. Neon Hitch
+2945. Let's Go by Calvin Harris ft. Ne-Yo
+2946. Drive By by Train
+2947. Boyfriend by Justin Bieber
+2948. The A Team by Ed Sheeran
+2949. Tonight Is The Night by Outasight
+2950. Whistle by Flo Rida
+2951. Love You Like A Love Song by Selena Gomez & The Scene
+2952. Not Over You by Gavin DeGraw
+2953. We Run The Night by Havana Brown ft. Pitbull
+2954. The Fighter by Gym Class Heroes ft. Ryan Tedder
+2955. Turn Up The Music by Chris Brown
+2956. Dark Side by Kelly Clarkson
+2957. Pound The Alarm by Nicki Minaj
+2958. Can't Stop Me by Afrojack & Shermanology
+2959. Gangnam Style by PSY
+2960. Tongue Tied by Grouplove
+2961. It Will Rain by Bruno Mars
+2962. Levels by Avicii
+2963. Finally Found You by Enrique Iglesias ft Sammy Adams
+2964. Live While We're Young by One Direction
+2965. Want U Back by Cher Lloyd
+2966. Ni**as In Paris by Jay Z & Kanye West
+2967. Ready Or Not by Bridgit Mendler
+2968. Back In Time by Pitbull
+2969. 50 Ways To Say Goodbye by Train
+2970. Va Va Voom by Nicki Minaj
+2971. Girl On Fire by Alicia Keys
+2972. Don't You Worry Child by Swedish House Mafia ft. John Martin
+2973. Heart Skips A Beat by Olly Murs ft. Chiddy Bang
+2974. I Cry by Flo Rida
+2975. Your Body by Christina Aguilera
+2976. Eyes Open by Taylor Swift
+2977. How We Do (Party) by Rita Ora
+2978. Young Wild & Free by Wiz Khalifa & Snoop Dogg ft. Bruno Mars
+2979. Now or Never by Outasight
+2980. Dance Again by Jennifer Lopez ft. Pitbull
+2981. The One That Got Away by Katy Perry
+2982. In The Dark by Dev
+2983. So Good by B.o.B (ft. Ryan Tedder)
+2984. Chasing The Sun by The Wanted
+2985. Sexy and I Know It by LMFAO
+2986. Burn It Down by Linkin Park
+2987. Numb by Usher
+2988. One Thing by One Direction
+2989. Blackout by Breathe Carolina
+2990. Hello by Karmin
+2991. Is Anybody Out There? by K'Naan ft. Nelly Furtado
+2992. You da One by Rihanna
+2993. Heartbeat by The Fray
+2994. Work Out by J. Cole
+2995. It's Time by Imagine Dragons
+2996. Marry The Night by Lady Gaga
+2997. Feel Again by OneRepublic
+2998. Stereo Hearts by Gym Class Heroes ft. Adam Levine
+2999. Oath by Cher Lloyd ft. Becky G.
+3000. Ho Hey by Lumineers
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Quit
+***Current Playlist is Empty***
+Choose the songs you would like to add to the playlist.
+Which year would you like to display? (1983-2013)
+Which year would you like to display? (1983-2013)
+******2010*****
+2701. Airplanes by B.o.B F/ Hayley Williams
+2702. Break Your Heart by Taio Cruz F/ Ludacris
+2703. Bad Romance by Lady Gaga
+2704. Love The Way You Lie by Eminem F/ Rihanna
+2705. In My Head by Jason Derulo
+2706. I Like It by Enrique Iglesias F/ Pitbull
+2707. Just The Way You Are by Bruno Mars
+2708. California Gurls by Katy Perry F/ Snoop Dogg
+2709. Telephone by Lady Gaga F/ Beyonce
+2710. Dynamite by Taio Cruz
+2711. Breakeven by The Script
+2712. Your Love Is My Drug by Ke$ha
+2713. DJ Got Us Fallin' In Love by Usher F/ Pitbull
+2714. Whataya Want From Me by Adam Lambert
+2715. Bulletproof by La Roux
+2716. All The Right Moves by OneRepublic
+2717. Alejandro by Lady Gaga
+2718. OMG by Usher F/ will.i.am
+2719. Impossible by Shontelle
+2720. Sexy Chick by David Guetta F/ Akon
+2721. Rude Boy by Rihanna
+2722. According To You by Orianthi
+2723. Billionaire by Travie McCoy F/ Bruno Mars
+2724. TiK ToK by Ke$ha
+2725. Cooler Than Me by Mike Posner
+2726. Teenage Dream by Katy Perry
+2727. Nothin' On You by B.o.B F/ Bruno Mars
+2728. Need You Now by Lady Antebellum
+2729. Club Can't Handle Me by FloRida F/ David Guetta
+2730. Carry Out by Timbaland F/ Justin Timberlake
+2731. Hey Soul Sister by Train
+2732. Only Girl (In The World) by Rihanna
+2733. Not Afraid by Eminem
+2734. Naturally by Selena Gomez & The Scene
+2735. Find Your Love by Drake
+2736. Gettin' Over You by David Guetta & Chris Willis F/ Fergie & LMFAO
+2737. Hard by Rihanna F/ Jeezy
+2738. Take It Off by Ke$ha
+2739. If I Had You by Adam Lambert
+2740. 3 by Britney Spears
+2741. I Made It (Cash Money Heroes) by Kevin Rudolf F/ Birdman Jay Sean & Lil Wayne
+2742. Haven't Met You Yet by Michael Buble
+2743. Ridin' Solo by Jason Derulo
+2744. Animal by Neon Trees
+2745. BedRock by Young Money F/ Lloyd
+2746. Misery by Maroon 5
+2747. Just A Dream by Nelly
+2748. Secrets by OneRepublic
+2749. Like A G6 by Far East Movement F/ Cataracs & Dev
+2750. Mine by Taylor Swift
+2751. Stereo Love by Edward Maya F/ Vika Jigulina
+2752. Magic by B.o.B F/ Rivers Cuomo
+2753. Live Like We're Dying by Kris Allen
+2754. Young Forever by Jay-Z F/ Mr Hudson
+2755. Please Don't Go by Mike Posner
+2756. Kissin U by Miranda Cosgrove
+2757. Empire State Of Mind by Jay-Z F/ Alicia Keys
+2758. Today Was A Fairytale by Taylor Swift
+2759. If We Ever Meet Again by Timbaland F/ Katy Perry
+2760. Raise Your Glass by P!nk
+2761. Hot Tottie by Usher F/ Jay-Z
+2762. Imma Be by Black Eyed Peas
+2763. We R Who We R by Ke$ha
+2764. The Only Exception by Paramore
+2765. 2012 (It Ain't The End) by Jay Sean F/ Nicki Minaj
+2766. Hold Yuh by Gyptian
+2767. Two Is Better Than One by Boys Like Girls F/ Taylor Swift
+2768. Rock That Body by Black Eyed Peas
+2769. We'll Be A Dream by We The Kings F/ Demi Lovato
+2770. Blah Blah Blah by Ke$ha F/ 3OH!3
+2771. Grenade by Bruno Mars
+2772. Can't Be Tamed by Miley Cyrus
+2773. Do You Remember by Jay Sean F/ Sean Paul & Lil Jon
+2774. Fireflies by Owl City
+2775. Say Aah by Trey Songz F/ Fabolous
+2776. Firework by Katy Perry
+2777. Beautiful Monster by Ne-Yo
+2778. If It's Love by Train
+2779. Baby by Justin Bieber F/ Ludacris
+2780. King Of Anything by Sara Bareilles
+2781. My First Kiss by 3OH!3 F/ Ke$ha
+2782. Shut It Down by Pitbull F/ Akon
+2783. Shake by Jesse McCartney
+2784. How Low by Ludacris
+2785. Not Myself Tonight by Christina Aguilera
+2786. Somebody To Love by Justin Bieber F/ Usher
+2787. Letting Go (Dutty Love) by Sean Kingston F/ Nicki Minaj
+2788. Fifteen by Taylor Swift
+2789. Yeah 3X by Chris Brown
+2790. Russian Roulette by Rihanna
+2791. Love Like Woe by The Ready Set
+2792. Rocketeer by Far East Movement F/ Ryan Tedder
+2793. Round & Round by Selena Gomez & The Scene
+2794. No Love by Eminem F/ Lil Wayne
+2795. La La La by Auburn F/ Iyaz
+2796. Tonight by Enrique Iglesias F/ Ludacris
+2797. We No Speak Americano by Yolanda Be Cool & D-Cup
+2798. Eenie Meenie by Sean Kingston & Justin Beiber
+2799. Higher by Taio Cruz F/ Travie McCoy
+2800. Whip My Hair by Willow
+Enter the number of the song you would like to add:
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Quit
+***Current Playlist***
+1. Grenade by Bruno Mars
+Choose the songs you would like to add to the playlist.
+Which year would you like to display? (1983-2013)
+******2005*****
+2201. Behind These Hazel Eyes by Kelly Clarkson
+2202. Since U Been Gone by Kelly Clarkson
+2203. We Belong Together by Mariah Carey
+2204. Boulevard of Broken Dreams by Green Day
+2205. La Tortura by Shakira / Alejandro Sanz
+2206. Scars by Papa Roach
+2207. Listen To Your Heart by D. H. T.
+2208. 1 2 Step by Ciara / Missy Elliott
+2209. Mr. Brightside by The Killers
+2210. Because Of You by Kelly Clarkson
+2211. Pon De Replay by Rihanna
+2212. Hollaback Girl by Gwen Stefani
+2213. Obsession (No Es Amor) by Frankie J. / Baby Bash
+2214. You And Me by Lifehouse
+2215. Don't Phunk With My Heart by Black Eyed Peas
+2216. Rich Girl by Gwen Stefani / Eve
+2217. Let Me Go by 3 Doors Down
+2218. We Be Burnin' by Sean Paul
+2219. Don't Cha by Pussycat Dolls / Busta Rhymes
+2220. Gold Digger by Kanye West / Jamie Foxx
+2221. Lonely No More by Rob Thomas
+2222. Karma by Alicia Keys
+2223. Shake It Off by Mariah Carey / Jermaine Dupri
+2224. Incomplete by Backstreet Boys
+2225. Sugar We're Going Down by Fall Out Boy
+2226. Lonely by Akon
+2227. Numb/Encore by Jay-Z/Linkin Park
+2228. Look What You've Done by Jet
+2229. Let Me Love You by Mario
+2230. Cool by Gwen Stefani
+2231. Baby I'm Back by Baby Bash / Akon
+2232. Don't Lie by Black Eyed Peas
+2233. Lose Control by Missy Elliott / Ciara / Fat Man Scoop
+2234. Switch by Will Smith
+2235. These Words by Natasha Bedingfield
+2236. Wake Me Up When September Ends by Green Day
+2237. Candy Shop by 50 Cent / Olivia
+2238. Run It! by Chris Brown / Juelz Santana
+2239. Mockingbird by Eminem
+2240. Hate It or Love It by The Game / 50 Cent
+2241. Photograph by Nickelback
+2242. Caught Up by Usher / LL Cool J
+2243. Belly Dancer (Bananza) by Akon
+2244. My Humps by Black Eyed Peas
+2245. I Like It by Narcotic Thrust
+2246. Nobody's Home by Avril Lavigne
+2247. Let Me Hold You by Bow Wow / Omarion
+2248. More Than Words by Frankie J.
+2249. Almost by Bowling For Soup
+2250. Like Toy Soldiers by Eminem
+2251. Don't Forget About Us by Mariah Carey
+2252. Gasolina by Daddy Yankee
+2253. Untitled (How Can This Happen To Me?) by Simple Plan
+2254. Like You by Bow Wow / Ciara
+2255. Chariot by Gavin DeGraw
+2256. Disco Inferno by 50 Cent
+2257. Stickwitu by The Pussycat Dolls
+2258. Just The Girl by The Click Five
+2259. Crawling Back To You by Backstreet Boys
+2260. Beverly Hills by Weezer
+2261. Just A Lil' Bit by 50 Cent
+2262. Get Right by Jennifer Lopez / Fabolous
+2263. Luxurious by Gwen Stefani
+2264. Goin' Crazy by Natalie
+2265. Sunday Morning by Maroon 5
+2266. How We Do by The Game / 50 Cent
+2267. Holiday by Green Day
+2268. How To Deal by Frankie J.
+2269. 1 Thing by Amerie / Eve
+2270. It's Like That by Mariah Carey / Fat Man Scoop / Jermaine Dupri
+2271. Oh by Ciara / Ludacris
+2272. Like You by Daddy Yankee
+2273. Encore by Eminem
+2274. Drop It Like It's Hot by Snoop Dogg / Pharrell
+2275. Boyfriend by Ashlee Simpson
+2276. Soul Survivor by Young Jeezy / Akon
+2277. If You Were Mine by Marcos Hernandez
+2278. When I'm Gone by Eminem
+2279. Check On It by Beyonce / Slim Thug
+2280. Just Want You To Know by Backstreet Boys
+2281. If It's Lovin' That You Want by Rihanna
+2282. Dale Don Dale by Don Omar
+2283. Dirty Little Secret ' The All by American Rejects
+2284. Pimpin' All Over The World by Ludacris / Bobby Valentino
+2285. Over and Over by Nelly / Tim McGraw
+2286. Collide by Howie Day
+2287. Hold You Down by Jennifer Lopez / Fat Joe
+2288. Axel F by Crazy Frog
+2289. Heard 'Em Say by Kanye West / Adam Levine
+2290. Bring 'Em Out by T. I.
+2291. Speed Of Sound by Coldplay
+2292. Get It Poppin' by Fat Joe / Nelly
+2293. Hung Up by Madonna
+2294. Soldier by Destiny's Child / T. I. / Lil' Wayne
+2295. Dance Dance by Fall Out Boy
+2296. Lovers and Friends by Lil' Jon and the Eastside Boyz / Usher / Ludacris
+2297. Don't Bother by Shakira
+2298. Have A Nice Day by Bon Jovi
+2299. Laffy Taffy by D4L
+2300. Gone by Kelly Clarkson
+Enter the number of the song you would like to add:
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Quit
+1. Grenade by Bruno Mars from 2010
+2. Mr. Brightside by The Killers from 2005
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Quit
+Thank you for using the UMBC Music Player

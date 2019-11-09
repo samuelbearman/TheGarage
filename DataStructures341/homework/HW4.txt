@@ -1,0 +1,74 @@
+Question 1
+
+For a full Ternary Tree, where there are exactly 3 children per internal node
+
+Our hypothesis is as follows:
+
+leaves(T) = 2 * intNodes(T) + 1
+
+Base case:
+
+For a tree with a single node
+
+leaves(0) = 2 * intNode(0) + 1
+leaves(0) = 1
+
+Base case holds true
+
+Since this holds true, we can say now that a Tree called (T') can consist of 
+subTree's T1, T2, and T3 which are all full binary trees
+since they are subTrees we can say the following about T'
+
+leaves(T') = (2 * intNodes(T1) + 1) + (2 * intNodes(T2) + 1) + (2 * intNodes(T3) + 1)
+
+intNodes(T') = intNodes(T1) + intNode(T2) + intNodes(T3) + 1
+
+The leaves(T') can be simplified with the common factor of 2 to be:
+leaves(T') = 2 * (intNodes(T1) + intNodes(T2) + intNodes(T3)) + 1
+
+We can now take the definition of intNodes(T') and plug it into leaves(T') to get the following
+
+leaves(T') = 2 * intNodes(T') + 1
+
+This proves the hypothesis correct by induction
+
+
+
+
+Question 2
+
+For a complete full tree T, define the reflection of the tree as T' and show that preorder travel of T
+is the same as the postorder of T' but reversed
+
+Hypothesis is as follows:
+
+preorder(T) = postorder(T') reversed
+
+Base Case:
+
+The base case is an instance where we have only one node, instance this node will have no children
+and will always be true because for any tree with one node, the pre and post order traversal will always only
+the root node. So the base case holds true.
+
+Induction steps:
+
+If we take our original tree and split it's chidren and call them T1 and T2, by the definition of a reflection of the 
+tree we know that for our tree T' that its right child is also equal to T1 and its left is equal to T2.
+knowing this we can say teh following:
+
+preorder(T2) = postorder(T1) reversed
+preorder(T1) = postorder(T2) reversed
+
+Now using this relationship we can say that T and T' have the same:
+
+preorder (T') = preorder(T2) , preorder (T1) reversed
+
+This simplified with some algebra becomes
+
+preorder(T') = postorder(T') reveresed
+
+Thus by induction the proof holds true.
+
+
+
+

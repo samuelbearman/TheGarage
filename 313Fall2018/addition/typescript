@@ -1,0 +1,47 @@
+Script started on 2018-09-18 16:33:34-04:00
+[bearman1@linux3 addition] exit[Knasmexitec /afs/umbc.edu/users/b/e/bearman1/home/313_Fall_2 018/313Fall2018/addition/addition[A[28Ggdb -tui addition[K[80G 0[K[A[45G[28Gld -o addition addition.o[28Gnasm -f elf64 -g -F dwarf addition.asm[28Gls[Knasm -f elf64 -g -F dwarf addition.asm
+[bearman1@linux3 addition] nasm -f elf64 -g -F dwarf addition.asm[28Gexit[Kec /afs/umbc.edu/users/b/e/bearman1/home/313_Fall_2 018/313Fall2018/addition/addition[A[28Ggdb -tui addition[K[80G 0[K[A[45G[28Gld -o addition addition.o
+[bearman1@linux3 addition] ld -o addition addition.o[28Gnasm -f elf64 -g -F dwarf addition.asm[28Gexit[Kec /afs/umbc.edu/users/b/e/bearman1/home/313_Fall_2 018/313Fall2018/addition/addition[A[28Ggdb -tui addition[K[80G 0[K[A[45G[28Gexec /afs/umbc.edu/users/b/e/bearman1/home/313_Fall_2 018/313Fall2018/addition/addition[Ait[K[80G 0[K[A[32Gnasm -f elf64 -g -F dwarf addition.asm[28Gld -o addition addition.o[K[28G[Kgdb addition
+GNU gdb (GDB) Fedora 8.1.1-3.fc28
+Copyright (C) 2018 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-redhat-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from addition...done.
+(gdb) b 11
+Breakpoint 1 at 0x4000b0: file addition.asm, line 11.
+(gdb) r
+Starting program: /afs/umbc.edu/users/b/e/bearman1/home/313_Fall_2018/313Fall2018/addition/addition 
+
+Breakpoint 1, _start () at addition.asm:11
+11	_start: nop                             ; Entry point.
+(gdb) info register eflags
+eflags         0x202	[ IF ]
+(gdb) s
+12		mov     r9, 0xA000000000000000  ; First number
+(gdb) 
+13		mov	r10,r9                  ; Copy to r10
+(gdb) 
+14		add	r9,r10
+(gdb) 
+15	        mov     edx, len                ; Arg 3: length of string.
+(gdb) info register eflags
+eflags         0xa07	[ CF PF IF OF ]
+(gdb) c
+Continuing.
+Program Executed
+[Inferior 1 (process 8306) exited normally]
+(gdb) q
+[bearman1@linux3 addition] exit
+exit
+
+Script done on 2018-09-18 16:35:14-04:00

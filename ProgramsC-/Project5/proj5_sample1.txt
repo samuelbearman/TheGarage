@@ -1,0 +1,577 @@
+./proj5 p5_music1.txt
+Welcome to UMBC Music Player
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Quit
+Which year would you like to display? (1983-2013)
+******2013*****
+3001. Blurred Lines by Robin Thicke feat. Pharrell and T.I.
+3002. Thrift Shop by Macklemore & Ryan Lewis feat. Wanz
+3003. Just Give Me A Reason by P!nk feat. Nate Ruess
+3004. Can't Hold Us by Macklemore & Ryan Lewis feat. Ray Dalton
+3005. Radioactive by Imagine Dragons
+3006. Mirrors by Justin Timberlake
+3007. Stay by Rihanna
+3008. When I Was Your Man by Bruno Mars feat. Mikky Ekko
+3009. I Knew You Were Trouble by Taylor Swift
+3010. Roar by Katy Perry
+3011. Royals by Lorde
+3012. Get Lucky by Daft Punk feat. Pharrell Williams
+3013. Suit & Tie by Justin Timberlake feat. Jay-Z
+3014. Locked Out Of Heaven by Bruno Mars
+3015. Ho Hey by The Lumineers
+3016. Scream & Shout by will.i.am and Britney Spears
+3017. We Can't Stop by Miley Cyrus
+3018. I Love It by Icona Pop feat. Charli XCX
+3019. Don't You Worry Child by Swedish House Mafia feat. John Martin
+3020. Wake Me Up by Avicii
+3021. Daylight by Maroon 5
+3022. Cruise by Florida Georgia Line feat. Nelly
+3023. Holy Grail by Jay-Z
+3024. Come & Get It by Selena Gomez
+3025. Gangnam Style by Psy
+3026. Feel This Moment by Pitbull feat. Christina Aguilera
+3027. Safe and Sound by Capital Cities
+3028. Clarity by ZEDD feat. Foxes
+3029. Same Love by Macklemore & Ryan Lewis feat. Mary Lambert
+3030. Treasure by Bruno Mars
+3031. My Songs Know What You Did In The Dark (Light Em Up) by Fall Out Boy
+3032. Cups by Anna Kendrick
+3033. Sweet Nothing by Calvin Harris feat. Florence Welch
+3034. Diamonds by Rihanna
+3035. Heart Attack by Demi Lovato
+3036. Try by P!nk
+3037. The Way by Ariana Grande feat. Mac Miller
+3038. One More Night by Maroon 5
+3039. I Will Wait by Mumford & Sons
+3040. Wrecking Ball by Miley Cyrus
+3041. It's Time by Imagine Dragons
+3042. Love Somebody by Maroon 5
+3043. Little Talks by Of Monsters And Men
+3044. Home by Phillip Phillips
+3045. Some Nights by fun.
+3046. I Need Your Love by Calvin Harris feat. Ellie Goulding
+3047. Beauty And A Beat by Justin Bieber feat. Nicki Minaj
+3048. Catch My Breath by Kelly Clarkson
+3049. The Other Side by Jason Derulo
+3050. Carry On by fun.
+3051. Gone Gone Gone by Phillip Phillips
+3052. Hold On We're Going Home by Drake
+3053. Summertime Sadness by Lana Del Rey
+3054. Sail by AWOLNATION
+3055. Next to Me by Emeli Sande
+3056. 22 by Taylor Swift
+3057. Girl On Fire by Alicia Keys
+3058. Applause by Lady Gaga
+3059. Troublemaker by Olly Murs feat. Flo Rida
+3060. Madness by Muse
+3061. I Cry by Flo Rida
+3062. #thatPOWER by will.i.am feat. Justin Bieber
+3063. Alive by Krewella
+3064. Demons by Imagine Dragons
+3065. Best Song Ever by One Direction
+3066. We Are Never Ever Getting Back Together by Taylor Swift
+3067. Let Me Love You (Until You Learn To Love Yourself) by Ne Yo
+3068. I Won't Give Up by Jason Mraz
+3069. Lego House by Ed Sheeran
+3070. Here's To Never Growing Up by Avril Lavigne
+3071. Kiss You by One Direction
+3072. Counting Stars by OneRepublic
+3073. Still Into You by Paramore
+3074. Brave by Sara Bareilles
+3075. Sweater Weather by The Neighbourhood
+3076. Let Her Go by Passenger
+3077. Everything Has Changed by Taylor Swift
+3078. Take Back The Night by Justin Timberlake
+3079. Wild Ones by Flo Rida feat. Sia
+3080. Drive By by Train
+3081. True Love by P!nk feat. Lily Allen
+3082. Give It 2 U by Robin Thicke feat. Kenrick Lamar
+3083. Right Now by Rihanna
+3084. Slow Down by Selena Gomez
+3085. Turn The Night Up by Enrique Iglesias
+3086. Closer by Tegan & Sara
+3087. Gorilla by Bruno Mars
+3088. Work B**ch by Britney Spears
+3089. Chloe (You're The One I Want) by Emblem3
+3090. White Walls by Macklemore & Ryan Lewis feat. ScHoolboy Q and Hollis
+3091. The A Team by Ed Sheeran
+3092. #Beautiful by Mariah Carey feat. Miguel
+3093. Harlem Shake by Baauer
+3094. Berzerk by Eminem
+3095. Fine China by Chris Brown
+3096. Crooked Smile by J. Cole feat. TLC
+3097. Beat It by Sean Kingston
+3098. Little Things by One Direction
+3099. Crazy Kids by Ke$ha
+3100. People Like Us by Kelly Clarkson
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Quit
+***Current Playlist is Empty***
+Choose the songs you would like to add to the playlist.
+Which year would you like to display? (1983-2013)
+******1988*****
+501. One More Try by George Michael
+502. Never Gonna Give You Up by Rick Astley
+503. Make It Real by Jets
+504. Foolish Beat by Debbie Gibson
+505. Pour Some Sugar On Me by Def Leppard
+506. Anything for You by Miami Sound Machine
+507. Out of the Blue by Debbie Gibson
+508. Naughty Girls by Sam Fox
+509. Red Red Wine by UB40
+510. Sweet Child O?Mine by Guns n Roses
+511. Kokomo by Beach Boys
+512. Father Figure by George Michael
+513. A Groovy Kind of Love by Phil Collins
+514. Just Got Paid by Johnnny Kemp
+515. I Want Her by Keith Sweat
+516. Spring Love by Stevie B
+517. Wishing Well by Terrnace Trent D'Arby
+518. Could've Been by Tiffany
+519. Together Forever by Rick Astley
+520. Faith by Goerge Michael
+521. Seasons Change by Expos
+522. Bad Medicine by Bon Jovi
+523. Hands to Heaven by Breathe
+524. One Two Three by Miami Sound Machine
+525. I'll Always Love You by Taylor Dayne
+526. Sign your Name by Terence Trent D'Arby
+527. Do You Love Me by Conturs
+528. Push It by Salt n Pepa
+529. Love Bites by Def Leppard
+530. Monkey by George Michael
+531. Pump Up The Volume by M.A.R.R.S.
+532. Don?t Worry Be Happy by Bobby McFerrin
+533. The LocoMotion by Kylie Minogue
+534. Man In The Mirror by Michael Jackson
+535. Fast Car by Tracy Chapman
+536. Where Do Broken Hearts Go by Whitney Houston
+537. She's Like The Wind by Patrick Swayze
+538. I Don't Want To Live Without You by Chicago
+539. Parent's Just Don't Understand by DJ Jazzy Jeff
+540. Roll With It by Steve Winwood
+541. The Flame by Cheap Trick
+542. Need You Tonight by INXS
+543. Sayin' Sorry by Denise Lopez
+544. Pink Cadillac by Natalie Cole
+545. Two Occasions by The Deele
+546. Girlfriend by Pebbles
+547. One Moment In Time by Whitney Houston
+548. Hazy Shade Of Winter by The Bangles
+549. Hungry Eyes by Eric Carmen
+550. Wild Wild West by Escape Club
+551. I Still Believe by Brenda K. Starr
+552. Piano In The Dark by Brenda Russell
+553. Supersonic by JJ Fad
+554. Giving You The Best by Anita Baker
+555. Tell It To My Heart by Taylor Dayne
+556. I Get Weak by Belina Carlisle
+557. The Way You Make Me Feel by Michael Jackson
+558. Got My Mind Set On You by George Harrison
+559. Angel by Aerosmith
+560. Endless Summer Nights by Richard Marx
+561. What's On Your Mind by Information Society
+562. Is This Love by Whitesnake
+563. It Takes Two by Rob Base
+564. Dirty Diana by Michael Jackson
+565. Night And Day by Al B. Sure
+566. Can't Stay Away From You by Miami Sound Machine
+567. Hold On To The Nights by Richard Marx
+568. Boy I've Been Told by Sa-Fire
+569. When It's Love by Van Halen
+570. Get Outta My Dreams Get Into My Car by Billy Ocean
+571. If It Isn't Love by New Edition
+572. Nightmare On My Street by DJ Jazzy Jeff
+573. Dreaming of Love by Stevie B
+574. Candle In The Wind by Elton John
+575. Mercedes Boy by Pebbles
+576. I Want To Be Your Man by Roger
+577. My Perogative by Bobby Brown
+578. Please Don't Go Girl by New Kids On The Block
+579. Make Me Lose Control by Eric Carmen
+580. Shattered Dreams by Johnny Hates Jazz
+581. De by U2
+582. Everything Your Heart Des by Hall & Oates
+583. Don't Be Cruel by Cheap Trick
+584. So Emotional by Whitney Houston
+585. Kiss Me Deadly by Lita Ford
+586. Because Of You by The Cover Girls
+587. What Have I Done by The Pet Shop Boys
+588. Don't Be Cruel by Bobby Brown
+589. I Don't Want Your Love by Duran Duran
+590. I Don't Want To Live w/o You by Foreigner
+591. Baby I Love Your Way/Freebird Medley by Will To Power
+592. Forever Young by Rod Stewart
+593. Da Butt by E.U.
+594. Some Kind Of Lover by Jody Watley
+595. Going Back To Cali by LL Cool J
+596. I Hate Myself 4 Loving U by Joan Jett
+597. New Sensation by INXS
+598. Fallen Angel by Poison
+599. Hysteria by Def Leppard
+600. Say It's Gonna Rain by Will To Power
+Enter the number of the song you would like to add:
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Quit
+***Current Playlist***
+1. Hazy Shade Of Winter by The Bangles
+Choose the songs you would like to add to the playlist.
+Which year would you like to display? (1983-2013)
+******2001*****
+1801. Hanging By A Moment by Lifehouse
+1802. I'm Real (Remix) by Jennifer Lopez & Ja Rule
+1803. Angel by Shaggy
+1804. Everywhere by Michelle Branch
+1805. Ride Wit Me by Nelly
+1806. Again by Lenny Kravitz
+1807. Let Me Blow Ya Mind by Eve & Gwen Stefani
+1808. Flavor of the Weak by American Hi-Fi
+1809. Family Affair by Mary J. Blige
+1810. Fallin' by Alicia Keys
+1811. Where The Party At by Jagged Edge & Nelly
+1812. Never Had A Dream Come True by S Club 7
+1813. He Loves You Not by Dream
+1814. Fill Me In by Craig David
+1815. Irresistible by Jessica Simpson
+1816. Hero by Enrique Iglesias
+1817. I'm Like A Bird by Nelly Furtado
+1818. All or Nothing by O-Town
+1819. Around the World by A.T.C.
+1820. Follow Me by Uncle Kracker
+1821. Hit 'Em Up Style (Oops!) by Blu Cantrell
+1822. It's Been Awhile by Staind
+1823. Love Don't Cost A Thing by Jennifer Lopez
+1824. Drops of Jupiter (Tell Me) by Train
+1825. What Would You Do' by City High
+1826. With Arms Wide Open by Creed
+1827. Lady Marmalade by Christina Aguilera Pink Mya Lil' Kim
+1828. Thank You by Dido
+1829. Butterfly by Crazy Town
+1830. U Remind Me by Usher
+1831. Livin? It Up by Ja Rule
+1832. If You?re Gone by Matchbox Twenty
+1833. I Turn To You by Melanie C.
+1834. Crazy For This Girl by Evan and Jaron
+1835. Get The Party Started by Pink
+1836. Gone by *NSYNC
+1837. Survivor by Destiny's Child
+1838. Drive by Incubus
+1839. It Wasn't Me by Shaggy
+1840. Crazy by K-Ci & JoJo
+1841. Here's To The Night by Eve 6
+1842. All For You by Janet Jackson
+1843. Peaches & Cream by 112
+1844. Emotion by Destiny's Child
+1845. One Minute Man by Missy Elliott
+1846. South Side by Moby & Gwen Stefani
+1847. I Do!! by Toya
+1848. Turn Off The Light by Nelly Furtado
+1849. This I Promise You by *NSYNC
+1850. Put It On Me by Ja Rule
+1851. How You Remind Me by Nickelback
+1852. Stutter by Joe
+1853. Stranger In My House by Tamia
+1854. More Than That by Backstreet Boys
+1855. No More by 3LW
+1856. Thank You For Loving Me by Bon Jovi
+1857. Izzo (H.O.V.A.) by Jay-Z
+1858. Independent Women by Destiny's Child
+1859. Let Me Love You by Da Buzz
+1860. Jaded by Aerosmith
+1861. I Never Knew by Deborah Cox
+1862. Outside by Staind
+1863. Someone to Call My Lover by Janet Jackson
+1864. Get Ur Freak On by Missy Elliott
+1865. Breathless by The Corrs
+1866. Smooth Criminal by Alien Ant Farm
+1867. Whenever Wherever by Shakira
+1868. Get Over Yourself by Eden's Crush
+1869. What's Goin' On by All-Star Tribute
+1870. My Everything by 98 Degrees
+1871. I'll Fly With You by Gigi D'Agostino
+1872. When It's Over by Sugar Ray
+1873. Castles In The Sky by Ian Van Dahl
+1874. You Make Me Sick by Pink
+1875. Only Time by Enya
+1876. Fat Lip by Sum 41
+1877. I'm A Slave 4 U by Britney Spears
+1878. Superman (It's Not Easy) by Five For Fighting
+1879. This Is Me by Dream
+1880. In The End by Linkin Park
+1881. I Wanna Be Bad by Willa Ford
+1882. The Space Between by Dave Matthews Band
+1883. U Got It Bad by Usher
+1884. Bootylicious by Destiny's Child
+1885. Hey Baby by No Doubt
+1886. Pop by *NSYNC
+1887. The Way You Love Me by Faith Hill
+1888. 7 Days by Craig David
+1889. Look At Us by Sarina Paris
+1890. The Rock Show by Blink 182
+1891. Differences by Ginuwine
+1892. Start The Commotion by The Wiseguys
+1893. Baby Come Over by Samantha Mumba
+1894. Be Like That by 3 Doors Down
+1895. E.I. by Nelly
+1896. Stuck In A Moment You Can't Get Out Of by U2
+1897. Play by Jennifer Lopez
+1898. Because I Got High by Afroman
+1899. Wherever You Will Go by The Calling
+1900. #1 by Nelly
+Enter the number of the song you would like to add:
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Quit
+1. Hazy Shade Of Winter by The Bangles from 1988
+2. Only Time by Enya from 2001
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Quit
+***Current Playlist***
+1. Hazy Shade Of Winter by The Bangles
+2. Only Time by Enya
+Choose the songs you would like to add to the playlist.
+Which year would you like to display? (1983-2013)
+******1986*****
+301. On My Own by Patti LaBelle/Michael McDonald
+302. The Greatest Love Of All by Whitney Houston
+303. Kiss by Prince
+304. Secret Lovers by Atlantic Starr
+305. Papa Don't Preach by Madonna
+306. How Will I Know by Whitney Houston
+307. All Cried Out by Lisa Lisa & Cult Jam
+308. Two Of Hearts by Stacey Q
+309. Friends and Lovers by Gloria Loring/Carl Anderson
+310. Live To Tell by Madonna
+311. Sweet Love by Anita Baker
+312. Rock Me Amadeus by Falco
+313. True Colors by Cyndi Lauper
+314. What Have You Done For Me Lately? by Janet Jackson
+315. I Can't Wait by Nu Shooz
+316. Venus by Bananarama
+317. Nasty by Janet Jackson
+318. That's What Friends Are For by Dionne & Friends
+319. Words Get In The Way by Miami Sound Machine
+320. When I Think Of You by Janet Jackson
+321. There'll Be Sad Songs by Billy Ocean
+322. West End Girls by Pet Shop Boys
+323. Rumors by Timex Social Club
+324. Crush On You by Jets
+325. Human by Human League
+326. Sledgehammer by Peter Gabriel
+327. Dancing On The Ceiling by Lionel Richie
+328. I Miss You by Klymaxx
+329. The Rain by "Oran ""Juice"" Jones"
+330. Shake You Down by Gregory Abbott
+331. Glory Of Love by Peter Cetera
+332. True Blue by Madonna
+333. The Sweetest Taboo by Sade
+334. When The Goin' Gets Tough by Billy Ocean
+335. Addicted To Love by Robert Palmer
+336. Kyrie by Mr. Mister
+337. Manic Monday by Bangles
+338. Higher Love by Steve Winwood
+339. Stuck WIth You by Huey Lewis & the News
+340. Take My Breath Away by Berlin
+341. Baby Love Regina by Atlantic
+342. Amanda by Boston
+343. We Don't Have To Take Our Clothes Off by Jermaine Stewart
+344. Say You Say Me by Lionel Richie
+345. All I Need Is A Miracle by Mike + the Mechanics
+346. Invisible Touch by Genesis
+347. Who's Johnny El by DeBarge
+348. You Give Love A Bad Name by Bon Jovi
+349. Can You Feel The Beat by Lisa Lisa & Cult Jam
+350. Something About You by Level 42
+351. Why Can't This Be Love by Van Halen
+352. If You Leave by OMD
+353. Mad About You by Belinda Carlisle
+354. A Different Corner by George Michael
+355. Sara by Starship
+356. I'm Your Man by Wham!
+357. Typical Male by Tina Turner
+358. These Dreams by Heart
+359. Earth Angel by New Edition
+360. Bad Boys by Miami Sound Machine
+361. Stand By Me by Ben E. King
+362. Love Will Conquer All by Lionel Richie
+363. A Little Bit Of Love by New Edition
+364. Ain't Nothin' Goin' On But The Rent by Gwen Guthrie
+365. Holding Back The Years by Simply Red
+366. Love Touch by Rod Stewart
+367. The Next Time I Fall by Peter Cetera/Amy Grant
+368. R.O.C.K. in the U.S.A. by John Cougar Mellencamp
+369. Harlem Shuffle by Rolling Stones
+370. I Like You by Phyllis Nelson
+371. Let's Go All The Way by Sly Fox
+372. Word Up! by Cameo
+373. Tarzan Boy by Baltimora M
+374. Take Me Home Tonight by Eddie Money
+375. Don't Forget Me (When I'm Gone) by Glass Tiger
+376. Walk Like An Egyptian B by angles
+377. Take Me Home by Phil Collins
+378. Do Me Baby by Meli'sa Morgan
+379. A Love Bizarre by Sheila E.
+380. Burning Heart by Survivor
+381. The Way It Is by Bruce Hornsby & the Range
+382. You're A Friend of Mine by Clarence Clemons
+383. Party All The Time by Eddie Murphy
+384. Your Love by Outfield
+385. A Matter Of Trust by Billy Joel
+386. Tender Love Force by MD's
+387. I Didn't Mean To Turn You On by Robert Palmer
+388. Hip To Be Square by Huey Lewis & the News
+389. For Tonight by Nancy Martinez
+390. Living In America by James Brown
+391. What You Need by INXS
+392. Walk This Way by Run D.M.C.
+393. You Should Be Mine by Jeffrey Osborne
+394. Danger Zone by Kenny Loggins
+395. Life In A Northern Town by Dream Academy
+396. Sweetheart by Rainy Davis Supertronics
+397. Talk To Me by Stevie Nicks
+398. Saturday Love by Cherrelle/Alexander O'Neal
+399. Love Zone by Billy Ocean
+400. Move Away by Culture Club
+Enter the number of the song you would like to add:
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Quit
+***Current Playlist***
+1. Hazy Shade Of Winter by The Bangles
+2. Only Time by Enya
+3. Dancing On The Ceiling by Lionel Richie
+Choose the songs you would like to add to the playlist.
+Which year would you like to display? (1983-2013)
+******1986*****
+301. On My Own by Patti LaBelle/Michael McDonald
+302. The Greatest Love Of All by Whitney Houston
+303. Kiss by Prince
+304. Secret Lovers by Atlantic Starr
+305. Papa Don't Preach by Madonna
+306. How Will I Know by Whitney Houston
+307. All Cried Out by Lisa Lisa & Cult Jam
+308. Two Of Hearts by Stacey Q
+309. Friends and Lovers by Gloria Loring/Carl Anderson
+310. Live To Tell by Madonna
+311. Sweet Love by Anita Baker
+312. Rock Me Amadeus by Falco
+313. True Colors by Cyndi Lauper
+314. What Have You Done For Me Lately? by Janet Jackson
+315. I Can't Wait by Nu Shooz
+316. Venus by Bananarama
+317. Nasty by Janet Jackson
+318. That's What Friends Are For by Dionne & Friends
+319. Words Get In The Way by Miami Sound Machine
+320. When I Think Of You by Janet Jackson
+321. There'll Be Sad Songs by Billy Ocean
+322. West End Girls by Pet Shop Boys
+323. Rumors by Timex Social Club
+324. Crush On You by Jets
+325. Human by Human League
+326. Sledgehammer by Peter Gabriel
+327. Dancing On The Ceiling by Lionel Richie
+328. I Miss You by Klymaxx
+329. The Rain by "Oran ""Juice"" Jones"
+330. Shake You Down by Gregory Abbott
+331. Glory Of Love by Peter Cetera
+332. True Blue by Madonna
+333. The Sweetest Taboo by Sade
+334. When The Goin' Gets Tough by Billy Ocean
+335. Addicted To Love by Robert Palmer
+336. Kyrie by Mr. Mister
+337. Manic Monday by Bangles
+338. Higher Love by Steve Winwood
+339. Stuck WIth You by Huey Lewis & the News
+340. Take My Breath Away by Berlin
+341. Baby Love Regina by Atlantic
+342. Amanda by Boston
+343. We Don't Have To Take Our Clothes Off by Jermaine Stewart
+344. Say You Say Me by Lionel Richie
+345. All I Need Is A Miracle by Mike + the Mechanics
+346. Invisible Touch by Genesis
+347. Who's Johnny El by DeBarge
+348. You Give Love A Bad Name by Bon Jovi
+349. Can You Feel The Beat by Lisa Lisa & Cult Jam
+350. Something About You by Level 42
+351. Why Can't This Be Love by Van Halen
+352. If You Leave by OMD
+353. Mad About You by Belinda Carlisle
+354. A Different Corner by George Michael
+355. Sara by Starship
+356. I'm Your Man by Wham!
+357. Typical Male by Tina Turner
+358. These Dreams by Heart
+359. Earth Angel by New Edition
+360. Bad Boys by Miami Sound Machine
+361. Stand By Me by Ben E. King
+362. Love Will Conquer All by Lionel Richie
+363. A Little Bit Of Love by New Edition
+364. Ain't Nothin' Goin' On But The Rent by Gwen Guthrie
+365. Holding Back The Years by Simply Red
+366. Love Touch by Rod Stewart
+367. The Next Time I Fall by Peter Cetera/Amy Grant
+368. R.O.C.K. in the U.S.A. by John Cougar Mellencamp
+369. Harlem Shuffle by Rolling Stones
+370. I Like You by Phyllis Nelson
+371. Let's Go All The Way by Sly Fox
+372. Word Up! by Cameo
+373. Tarzan Boy by Baltimora M
+374. Take Me Home Tonight by Eddie Money
+375. Don't Forget Me (When I'm Gone) by Glass Tiger
+376. Walk Like An Egyptian B by angles
+377. Take Me Home by Phil Collins
+378. Do Me Baby by Meli'sa Morgan
+379. A Love Bizarre by Sheila E.
+380. Burning Heart by Survivor
+381. The Way It Is by Bruce Hornsby & the Range
+382. You're A Friend of Mine by Clarence Clemons
+383. Party All The Time by Eddie Murphy
+384. Your Love by Outfield
+385. A Matter Of Trust by Billy Joel
+386. Tender Love Force by MD's
+387. I Didn't Mean To Turn You On by Robert Palmer
+388. Hip To Be Square by Huey Lewis & the News
+389. For Tonight by Nancy Martinez
+390. Living In America by James Brown
+391. What You Need by INXS
+392. Walk This Way by Run D.M.C.
+393. You Should Be Mine by Jeffrey Osborne
+394. Danger Zone by Kenny Loggins
+395. Life In A Northern Town by Dream Academy
+396. Sweetheart by Rainy Davis Supertronics
+397. Talk To Me by Stevie Nicks
+398. Saturday Love by Cherrelle/Alexander O'Neal
+399. Love Zone by Billy Ocean
+400. Move Away by Culture Club
+Enter the number of the song you would like to add:
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Quit
+1. Hazy Shade Of Winter by The Bangles from 1988
+2. Only Time by Enya from 2001
+3. Dancing On The Ceiling by Lionel Richie from 1986
+4. Danger Zone by Kenny Loggins from 1986
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Quit
+Thank you for using the UMBC Music Player

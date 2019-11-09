@@ -1,0 +1,7 @@
+Qnty               Item                 Price
+   2             Walking Taco           $3.25
+   3       Fried Pizza Sticks           $4.50
+   4       Carrots and Hummus           $3.75
+Subtotal: 11.50
+Tax: 0.69
+Total: 12.19
